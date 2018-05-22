@@ -1,0 +1,1222 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://ws.nju.edu.cn/clinga/">
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1713078">
+    <j.0:renKou>约600万</j.0:renKou>
+    <j.0:haiBa>330至1000米</j.0:haiBa>
+    <j.0:bieCheng>费尔干纳谷地</j.0:bieCheng>
+    <j.0:yingWenMingCheng>FerganaValley</j.0:yingWenMingCheng>
+    <j.0:zhongWenMingCheng>费尔干纳盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5668605">
+    <j.0:xingZhengQuHua rdf:resource="http://ws.nju.edu.cn/clinga/A47093"/>
+    <j.0:xingZhengQuHua rdf:resource="http://ws.nju.edu.cn/clinga/A2600366"/>
+    <j.0:xingZhengQuHua rdf:resource="http://ws.nju.edu.cn/clinga/A2387859"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A339039"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A108942"/>
+    <j.0:nanBeiKuanDu>12~20千米</j.0:nanBeiKuanDu>
+    <j.0:dongXiZhangDu>100千米</j.0:dongXiZhangDu>
+    <j.0:waiWenMing>HuichengBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>徽成盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3772107">
+    <j.0:faYin>ˌriːəˈsɪlviə</j.0:faYin>
+    <j.0:waiWenMing>Rheasilvia</j.0:waiWenMing>
+    <j.0:zhongWenMing>雷亚希尔维亚盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A8477215">
+    <j.0:bieMing>大屋脊狮子沟</j.0:bieMing>
+    <j.0:dangDiTeChan>板栗、甜柿、茯苓</j.0:dangDiTeChan>
+    <j.0:zhouBianJingQu>天堂寨、薄刀峰、九资河</j.0:zhouBianJingQu>
+    <j.0:zuiGaoFengHaiBa>鸡鸣尖,海拨1033米</j.0:zuiGaoFengHaiBa>
+    <j.0:xingZhengQuYu>黄冈市罗田县河铺镇炉火垸村</j.0:xingZhengQuYu>
+    <j.0:mianJi>亚热带季风气候</j.0:mianJi>
+    <j.0:zhongWenMingCheng>金盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3642689">
+    <j.0:liShiShiJian>西秦国曾经在这里设立都城</j.0:liShiShiJian>
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2757303"/>
+    <j.0:waiWenMing>TheYuzhongBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>榆中盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A8259931">
+    <j.0:kuan>90公里</j.0:kuan>
+    <j.0:dongXiZhang>250公里</j.0:dongXiZhang>
+    <j.0:diZhi rdf:resource="http://ws.nju.edu.cn/clinga/A99334"/>
+    <j.0:zhongWenMing>斋桑湖盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1850776">
+    <j.0:neiBuWei rdf:resource="http://ws.nju.edu.cn/clinga/A2831632"/>
+    <j.0:liangGeGuDi rdf:resource="http://ws.nju.edu.cn/clinga/A2248560"/>
+    <j.0:fenWeiPenDi rdf:resource="http://ws.nju.edu.cn/clinga/A1731265"/>
+    <j.0:fenWeiPenDi rdf:resource="http://ws.nju.edu.cn/clinga/A2573197"/>
+    <j.0:zhongWenMing>汾渭盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A9935564">
+    <j.0:kaiFangShiJian>9:00-21:00</j.0:kaiFangShiJian>
+    <j.0:zhanDiMianJi>2000公顷</j.0:zhanDiMianJi>
+    <j.0:qiHouLeiXing>亚热带季风气候</j.0:qiHouLeiXing>
+    <j.0:diLiWeiZhi>湖北省罗田县</j.0:diLiWeiZhi>
+    <j.0:waiWenMingCheng>jinpendi</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>大别山金盆地风景区/罗田县金盆地风景区</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1670189">
+    <j.0:diShi>低平,微有起伏</j.0:diShi>
+    <j.0:shu>断层盆地</j.0:shu>
+    <j.0:guoJia rdf:resource="http://ws.nju.edu.cn/clinga/A108885"/>
+    <j.0:zhongWenMing>斯科普里-佛莱斯盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12156532">
+    <j.0:weiZhi>火星</j.0:weiZhi>
+    <j.0:zhongWenMing>亚特兰蒂斯盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A456126">
+    <j.0:zhuYaoZiYuan>煤</j.0:zhuYaoZiYuan>
+    <j.0:weiYu>欧洲东部</j.0:weiYu>
+    <j.0:waiWenMing>DonetsBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>顿涅茨盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11363185">
+    <j.0:zuCheng>巢湖和宽窄不等的环湖平原</j.0:zuCheng>
+    <j.0:weiZhi>安徽</j.0:weiZhi>
+    <j.0:zhongWenMing>巢湖盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A33675">
+    <j.0:mianJi>约38平方公里</j.0:mianJi>
+    <j.0:zhang>7.6公里</j.0:zhang>
+    <j.0:haiBa>10~15米</j.0:haiBa>
+    <j.0:zhongWenMing>起步盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1622203">
+    <j.0:liShi>白垩纪早期曾是一片汪洋大海</j.0:liShi>
+    <j.0:shuXing>盆地</j.0:shuXing>
+    <j.0:diLiWeiZhi>湖北省北部</j.0:diLiWeiZhi>
+    <j.0:zhongWenMing>郧县盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A605944">
+    <j.0:mianJi>6211平方千米</j.0:mianJi>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A102103"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A896107"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2270880"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2335890"/>
+    <j.0:zhongWenMingCheng>运城盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3151639">
+    <j.0:liShi>明正统年间(1436—1449年)</j.0:liShi>
+    <j.0:guCheng>阆湖</j.0:guCheng>
+    <j.0:weiYu>清溪上游,四面环山,中分一水</j.0:weiYu>
+    <j.0:zhongWenMing>湖头河谷盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3425897">
+    <j.0:teZheng>偏僻、崎岖、孤立、缺乏便利交通</j.0:teZheng>
+    <j.0:weiYu>沙巴州中南部</j.0:weiYu>
+    <j.0:zhanDi>588.4平方公里</j.0:zhanDi>
+    <j.0:zhongWenMing>马廖盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A963608">
+    <j.0:mianJi>1.87万平方公里</j.0:mianJi>
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2273956"/>
+    <j.0:bieMing>吉安凹陷</j.0:bieMing>
+    <j.0:zhongWenMingCheng>吉泰盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A6673826">
+    <j.0:pingJunHaiBo>1000多米左右</j.0:pingJunHaiBo>
+    <j.0:mianJi>约9000平方公里</j.0:mianJi>
+    <j.0:weiZhi>山西省北部桑干河流域</j.0:weiZhi>
+    <j.0:zhongWenMing>泥河湾盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11591193">
+    <j.0:pingJunHaiBa>1100米</j.0:pingJunHaiBa>
+    <j.0:zhongWenMing>阳原盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1257981">
+    <j.0:guoJia>孟加拉国</j.0:guoJia>
+    <j.0:weiYu>印度洋东北部</j.0:weiYu>
+    <j.0:waiWenMing>ThebayofBengalBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>孟加拉湾盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1818857">
+    <j.0:diZhi>意大利中部阿布鲁齐区拉奎拉省</j.0:diZhi>
+    <j.0:jiuCheng>富齐诺湖</j.0:jiuCheng>
+    <j.0:waiWenMing>FucinoBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>富齐诺盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11328569">
+    <j.0:guanFangWangZhan>nps.gov</j.0:guanFangWangZhan>
+    <j.0:jianYiYouWanShiZhang>1小时以内</j.0:jianYiYouWanShiZhang>
+    <j.0:zuiJiaYouWanJiJie>6-9月</j.0:zuiJiaYouWanJiJie>
+    <j.0:zhuMingJingDian>窗台间歇泉胶体池</j.0:zhuMingJingDian>
+    <j.0:zhuMingJingDian>珍珠间歇泉瓷盆温泉</j.0:zhuMingJingDian>
+    <j.0:diLiWeiZhi>美国黄石国家公园</j.0:diLiWeiZhi>
+    <j.0:waiWenMingCheng>NorrisGeyserBasin</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>诺里斯间歇泉盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1976209">
+    <j.0:waiWenMingCheng>UvsNuurBasin</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>乌布苏湖盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3434917">
+    <j.0:nianPingJunJingLiuLiang>236亿立方米</j.0:nianPingJunJingLiuLiang>
+    <j.0:liuYuMianJi>105.7万平方千米</j.0:liuYuMianJi>
+    <j.0:zongZhang>3750千米</j.0:zongZhang>
+    <j.0:waiWenMing>TheMurray-DarlingBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>墨累达令盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A9720683">
+    <j.0:youMing>刚果盆地</j.0:youMing>
+    <j.0:mianJi>337万平方公里</j.0:mianJi>
+    <j.0:zhongWenMing>扎伊尔盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1702379">
+    <j.0:nianPingJunQiWen>20~22℃</j.0:nianPingJunQiWen>
+    <j.0:nianPingJunJiangShuiLiang>1000~1600毫米</j.0:nianPingJunJiangShuiLiang>
+    <j.0:weiYu rdf:resource="http://ws.nju.edu.cn/clinga/A2336329"/>
+    <j.0:zhongWenMing>广西盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A456777">
+    <j.0:fenBu>极不均匀的</j.0:fenBu>
+    <j.0:shiJian>1936年</j.0:shiJian>
+    <j.0:tiChuZhe>德国地质学家施蒂勒</j.0:tiChuZhe>
+    <j.0:zhongWenMing>克拉通盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2149647">
+    <j.0:zhuYaoChengShi rdf:resource="http://ws.nju.edu.cn/clinga/A2339014"/>
+    <j.0:zhuYaoChengShi rdf:resource="http://ws.nju.edu.cn/clinga/A2342476"/>
+    <j.0:zhuYaoChengShi rdf:resource="http://ws.nju.edu.cn/clinga/A76914"/>
+    <j.0:penDiMianJi>5000平方千米</j.0:penDiMianJi>
+    <j.0:penDiKuanDu>约30~40千米</j.0:penDiKuanDu>
+    <j.0:penDiZhangDu>约150千米</j.0:penDiZhangDu>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A102103"/>
+    <j.0:waiWenMing>TaiyuanBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>太原盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2378730">
+    <j.0:gouZao>南雄群地层</j.0:gouZao>
+    <j.0:kuanDu>18公里</j.0:kuanDu>
+    <j.0:zhangDu>80公里</j.0:zhangDu>
+    <j.0:diLiWeiZhi>大庾岭山脉南坡</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>NanxiongBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>南雄盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10790089">
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2352153"/>
+    <j.0:zhuMingJingDian>间隙泉</j.0:zhuMingJingDian>
+    <j.0:waiWenMingCheng>monumentgeyserbasin</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>纪念碑间歇泉盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2960014">
+    <j.0:xingZhi>山间盆地</j.0:xingZhi>
+    <j.0:huoCheZhan>梅州站</j.0:huoCheZhan>
+    <j.0:jiChang>梅州机场</j.0:jiChang>
+    <j.0:fangYan>梅州话</j.0:fangYan>
+    <j.0:mianJi>400平方公里</j.0:mianJi>
+    <j.0:diLiWeiZhi>广东省东北部</j.0:diLiWeiZhi>
+    <j.0:suoShuDiQu>广东兴宁</j.0:suoShuDiQu>
+    <j.0:bieMing>宁江平原</j.0:bieMing>
+    <j.0:zhongWenMingCheng>兴宁盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4081459">
+    <j.0:leiXing>盆地沙漠</j.0:leiXing>
+    <j.0:xingZhi>我国最大的内陆河</j.0:xingZhi>
+    <j.0:diQuYouShi>北靠天山,南拥大漠</j.0:diQuYouShi>
+    <j.0:zhongWenMing>沙雅县盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10272242">
+    <j.0:zhuYaoJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2703146"/>
+    <j.0:haiBaGaoDu>23米</j.0:haiBaGaoDu>
+    <j.0:leiXing>歇泉盆地</j.0:leiXing>
+    <j.0:jingQu>老忠实区</j.0:jingQu>
+    <j.0:weiZhi>美国黄石国家公园</j.0:weiZhi>
+    <j.0:waiWenMing>MidwayGeyserBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>中间歇泉盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2718122">
+    <j.0:kuangZang>铜、金、铅、锌、铁</j.0:kuangZang>
+    <j.0:zuiDiChu>死谷,海平面下85米</j.0:zuiDiChu>
+    <j.0:zuCheng>一系列南北向的山脉及其间盆地</j.0:zuCheng>
+    <j.0:weiZhi>美国西部科迪勒拉山系中</j.0:weiZhi>
+    <j.0:waiWenMing>GreatBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>大盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4323737">
+    <j.0:muQianQingKuang>受海水侵蚀</j.0:muQianQingKuang>
+    <j.0:diDian>美国路易斯安那州的密西西比河</j.0:diDian>
+    <j.0:waiWenMing>Acharyafalabasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿查法拉亚盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1688098">
+    <j.0:zhuYaoZuoWu>水稻、小麦、大麦</j.0:zhuYaoZuoWu>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A100164"/>
+    <j.0:guiMo>东西长320公里,南北宽70公里</j.0:guiMo>
+    <j.0:zhongWenMing>贾兹穆里安盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1065222">
+    <j.0:mianJi>30万平方公里</j.0:mianJi>
+    <j.0:bieCheng>加扎勒盆地</j.0:bieCheng>
+    <j.0:pingJunHaiBa>400米</j.0:pingJunHaiBa>
+    <j.0:diShi>低平</j.0:diShi>
+    <j.0:zhongWenMing>尼罗河上游盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2409976">
+    <j.0:haiBa>4500米</j.0:haiBa>
+    <j.0:xingZhuang>椭圆形</j.0:xingZhuang>
+    <j.0:nanBeiKuanDu>约60公里</j.0:nanBeiKuanDu>
+    <j.0:dongXiZhangDu>40公里</j.0:dongXiZhangDu>
+    <j.0:diXing>盆地</j.0:diXing>
+    <j.0:zhongWenMing>约古宗列盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4298333">
+    <j.0:penDiXingZhi>中新生代断陷盆地</j.0:penDiXingZhi>
+    <j.0:diZhi>渤海及周边省市地区</j.0:diZhi>
+    <j.0:mianJi>近20万平方公里</j.0:mianJi>
+    <j.0:zhongWenMing>渤海湾盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A41859">
+    <j.0:diZhi rdf:resource="http://ws.nju.edu.cn/clinga/A3114383"/>
+    <j.0:weiZhi>台中丰原至南投名间之间</j.0:weiZhi>
+    <j.0:jianJie>台中丰原至南投名间之间</j.0:jianJie>
+    <j.0:zhongWenMing>台中盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A462987">
+    <j.0:nongZuoWu>小麦、玉蜀黍、豆和水果</j.0:nongZuoWu>
+    <j.0:chanYe>农业</j.0:chanYe>
+    <j.0:teDian>高原</j.0:teDian>
+    <j.0:diDian>墨西哥</j.0:diDian>
+    <j.0:leiBie>盆地</j.0:leiBie>
+    <j.0:zhongWenMing>巴希奥盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A45395">
+    <j.0:xingCheng>埔里盆地群</j.0:xingCheng>
+    <j.0:haiBa>380~500米</j.0:haiBa>
+    <j.0:weiZhi>台湾岛中部西侧</j.0:weiZhi>
+    <j.0:zhongWenMing>埔里盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2635380">
+    <j.0:haiBaGaoDu>900~1127m</j.0:haiBaGaoDu>
+    <j.0:diDian rdf:resource="http://ws.nju.edu.cn/clinga/A2416502"/>
+    <j.0:diDian rdf:resource="http://ws.nju.edu.cn/clinga/A2332346"/>
+    <j.0:waiWenMing>无</j.0:waiWenMing>
+    <j.0:zhongWenMing>额济纳盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1196905">
+    <j.0:zuiKuanChu>约820千米</j.0:zuiKuanChu>
+    <j.0:weiYu rdf:resource="http://ws.nju.edu.cn/clinga/A99475"/>
+    <j.0:weiYu rdf:resource="http://ws.nju.edu.cn/clinga/A99650"/>
+    <j.0:waiWenMing>SouthChinaSeabasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>南海盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1564886">
+    <j.0:shuXing>半封闭性山间盆地</j.0:shuXing>
+    <j.0:diLiWeiZhi>和田南部昆仑山与喀喇昆仑山间</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>AksayqinPendi</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿克赛钦盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2479362">
+    <j.0:diDian>新疆塔里木盆地东北侧</j.0:diDian>
+    <j.0:dongXiZhang>170公里</j.0:dongXiZhang>
+    <j.0:leiXing rdf:resource="http://ws.nju.edu.cn/clinga/A2354910"/>
+    <j.0:mianJi>约1.3万平方公里</j.0:mianJi>
+    <j.0:zhongWenMing>焉耆盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4107797">
+    <j.0:fenLei>地理</j.0:fenLei>
+    <j.0:teDian>底部平坦、气候高寒</j.0:teDian>
+    <j.0:waiXing>长条状断陷盆地</j.0:waiXing>
+    <j.0:zhongWenMing>巴里坤盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1384134">
+    <j.0:diMao>两山夹一川</j.0:diMao>
+    <j.0:shiQuanKuan>3千米</j.0:shiQuanKuan>
+    <j.0:dongXiZhang>100余千米</j.0:dongXiZhang>
+    <j.0:zhongWenMing>安康盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7964136">
+    <j.0:mianJi>约1300平方公里</j.0:mianJi>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2287796"/>
+    <j.0:xiaFenQuYu rdf:resource="http://ws.nju.edu.cn/clinga/A7964849"/>
+    <j.0:zhongWenMing>罗定盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2406846">
+    <j.0:zhuMingJingDian>恐龙蛋化石</j.0:zhuMingJingDian>
+    <j.0:mianJi>56平方公里</j.0:mianJi>
+    <j.0:diLiWeiZhi>秦岭东段的南段</j.0:diLiWeiZhi>
+    <j.0:suoShuDiQu>南阳地区</j.0:suoShuDiQu>
+    <j.0:xingZhengQuLeiBie>河南省</j.0:xingZhengQuLeiBie>
+    <j.0:zhongWenMingCheng>西峡盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3632958">
+    <j.0:zongMianJi>470平方千米</j.0:zongMianJi>
+    <j.0:dongXiKuan>16千米</j.0:dongXiKuan>
+    <j.0:nanBeiZhangDu>40千米</j.0:nanBeiZhangDu>
+    <j.0:zhongWenMing>秦王川盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2327384">
+    <j.0:zhangDu>约200公里</j.0:zhangDu>
+    <j.0:yiJi>古地震形变遗迹</j.0:yiJi>
+    <j.0:haiBa>1000~1100米</j.0:haiBa>
+    <j.0:mianJi>5100平方公里</j.0:mianJi>
+    <j.0:weiZhi>中国山西省</j.0:weiZhi>
+    <j.0:zhongWenMing>大同盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2786875">
+    <j.0:mianJi>约300平方公里</j.0:mianJi>
+    <j.0:diLiWeiZhi>位于西藏自治区西南部希夏邦马峰北侧</j.0:diLiWeiZhi>
+    <j.0:waiWenMingCheng>GyirongPendi</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>吉隆盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3682032">
+    <j.0:diXing>大型沉积盆地</j.0:diXing>
+    <j.0:penDiMianJi>约3×106km2</j.0:penDiMianJi>
+    <j.0:diQu>阿拉伯板块之上</j.0:diQu>
+    <j.0:zhongWenMing>波斯湾盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A18144">
+    <j.0:teDian>地面起伏和缓,土壤肥沃</j.0:teDian>
+    <j.0:mianJi>约25平方公里</j.0:mianJi>
+    <j.0:weiZhi>连江县北部丹阳镇</j.0:weiZhi>
+    <j.0:zhongWenMing>丹阳盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2383025">
+    <j.0:juJinShiJian>距今1亿年前后</j.0:juJinShiJian>
+    <j.0:faXianZhe>蒋严根</j.0:faXianZhe>
+    <j.0:shouXianFaXianShiJian>1958年</j.0:shouXianFaXianShiJian>
+    <j.0:faXianGuWu>晚白垩世地层中恐龙骨、蛋化石等</j.0:faXianGuWu>
+    <j.0:waiWenMing>ZhejiangTiantaiBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>浙江天台盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1816765">
+    <j.0:pingJunHaiBa>900公尺(3,000尺)</j.0:pingJunHaiBa>
+    <j.0:xiBanYaYu>BolsondeMapimi。</j.0:xiBanYaYu>
+    <j.0:waiWenMing>MapimiBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>马皮米盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A390489">
+    <j.0:xueKe>煤层气地质学</j.0:xueKe>
+    <j.0:mianJi>19425平方千米</j.0:mianJi>
+    <j.0:faXianYu>1947</j.0:faXianYu>
+    <j.0:waiWenMing>SanJuanBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>圣胡安盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5822360">
+    <j.0:penDi>洛宁盆地、宜阳盆地、嵩县盆地</j.0:penDi>
+    <j.0:youYu>由于山脉与河流的分割</j.0:youYu>
+    <j.0:zhongWenMing>伊洛盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A428450">
+    <j.0:qiHou>亚热带海洋性气候</j.0:qiHou>
+    <j.0:diDian>广西壮族自治区南部</j.0:diDian>
+    <j.0:mianJi>约948km2</j.0:mianJi>
+    <j.0:zhongWenMing>南宁盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11813048">
+    <j.0:zhuYaoJingDian>孤星间歇泉</j.0:zhuYaoJingDian>
+    <j.0:diQu rdf:resource="http://ws.nju.edu.cn/clinga/A2357958"/>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2355488"/>
+    <j.0:waiWenMing>LoneStarGeyserBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>孤星间歇泉盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1326254">
+    <j.0:ziYuan rdf:resource="http://ws.nju.edu.cn/clinga/A2358269"/>
+    <j.0:weiZhi>加拿大亚伯达省中部</j.0:weiZhi>
+    <j.0:waiWenMing>AlbertaBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>亚伯达盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2216439">
+    <j.0:kaiShiFaYuShiJian>始新世</j.0:kaiShiFaYuShiJian>
+    <j.0:mianJi>约20万平方千米</j.0:mianJi>
+    <j.0:waiWenMing>BohaiNorthChinabasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>渤海—华北盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1800758">
+    <j.0:baoKuo>纳拉伯平原广阔石灰岩区</j.0:baoKuo>
+    <j.0:mianJiYue>180,000平方公里</j.0:mianJiYue>
+    <j.0:waiWenMing>EuclaBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>尤克拉盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7505055">
+    <j.0:ziYuan>油气</j.0:ziYuan>
+    <j.0:xingZhi>大型新生代沉积盆地</j.0:xingZhi>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A3415805"/>
+    <j.0:zhongWenMingCheng>中建南盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1093960">
+    <j.0:mianJi>3万平方公里</j.0:mianJi>
+    <j.0:pingJunHaiBa>200米</j.0:pingJunHaiBa>
+    <j.0:laDingYu>水乡</j.0:laDingYu>
+    <j.0:zhongWenMing>阿基坦盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3909655">
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A3918416"/>
+    <j.0:waiWenMing>Кузнецкийугольныйбассейн</j.0:waiWenMing>
+    <j.0:zhongWenMing>库兹涅茨克盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5877566">
+    <j.0:xingZhuang>三角形</j.0:xingZhuang>
+    <j.0:yuanYu>秀篆的庵下溪</j.0:yuanYu>
+    <j.0:meiCheng rdf:resource="http://ws.nju.edu.cn/clinga/A95230"/>
+    <j.0:xingZhengQuHua>福建省</j.0:xingZhengQuHua>
+    <j.0:mianJi>10平方公里</j.0:mianJi>
+    <j.0:suoShuDiQu>中国华南</j.0:suoShuDiQu>
+    <j.0:zhongWenMingCheng>下葛盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3624579">
+    <j.0:zhangDu>1900-2000米</j.0:zhangDu>
+    <j.0:zouXiang>北东~南西向展布</j.0:zouXiang>
+    <j.0:diLiWeiZhi>滇东弱变形区扬子</j.0:diLiWeiZhi>
+    <j.0:zhongWenMingCheng>昭通盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1792653">
+    <j.0:mianJi>285,000平方公里</j.0:mianJi>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2362072"/>
+    <j.0:waiWenMing>WillistonBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>威利斯顿盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2394659">
+    <j.0:teDian>土质好,雨量足</j.0:teDian>
+    <j.0:waiWenMing>SandomierzBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>桑多梅日盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A126214">
+    <j.0:bianZhang>30公里</j.0:bianZhang>
+    <j.0:haiBa>100米左右</j.0:haiBa>
+    <j.0:diDian rdf:resource="http://ws.nju.edu.cn/clinga/A1078172"/>
+    <j.0:zhongWenMing>天台盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4673112">
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2269903"/>
+    <j.0:bieMing>SudburyStructure</j.0:bieMing>
+    <j.0:waiWenMingCheng>SudburyBasin</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>索德柏立盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3511354">
+    <j.0:shenDu>超过5英里</j.0:shenDu>
+    <j.0:xingChengYuanYin>陨石坑</j.0:xingChengYuanYin>
+    <j.0:zhiJing>大约是300英里</j.0:zhiJing>
+    <j.0:gaiKuo>是小行星在撞击月球形成的</j.0:gaiKuo>
+    <j.0:waiWenMing>ApolloBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>“阿波罗”盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A419261">
+    <j.0:nanBeiKuan>60~100km</j.0:nanBeiKuan>
+    <j.0:dongXiZhang>660km</j.0:dongXiZhang>
+    <j.0:zongMianJi>约53500K㎡</j.0:zongMianJi>
+    <j.0:diDian>新疆的东部</j.0:diDian>
+    <j.0:zhongWenMing>吐哈盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7135349">
+    <j.0:mianJi>36×104km2</j.0:mianJi>
+    <j.0:ziYuan>油气</j.0:ziYuan>
+    <j.0:diDian>图兰地台东南部</j.0:diDian>
+    <j.0:waiWenMing>AmuDaryaBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿姆河盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1602694">
+    <j.0:penDiMianJi>八十四点八八平方公里</j.0:penDiMianJi>
+    <j.0:diLiQuYu>五台县滹沱河、小银河两岸</j.0:diLiQuYu>
+    <j.0:suoChuShengFen>山西省</j.0:suoChuShengFen>
+    <j.0:waiWenMing>东冶盆地</j.0:waiWenMing>
+    <j.0:zhongWenMing>东冶盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2457366">
+    <j.0:mianJi>2157平方公里</j.0:mianJi>
+    <j.0:haiBa>800--900米</j.0:haiBa>
+    <j.0:suoZaiDiDian>山西省中部偏北</j.0:suoZaiDiDian>
+    <j.0:zhongWenMing>忻定盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1196729">
+    <j.0:mianJi>约18万平方千米</j.0:mianJi>
+    <j.0:weiZhi>山东半岛以南</j.0:weiZhi>
+    <j.0:waiWenMing>SouthernYellowSeaNorthJiangsubasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>黄海—苏北盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4126332">
+    <j.0:leiXing>山间叠合盆地</j.0:leiXing>
+    <j.0:xingTai>对冲构造几何学样式</j.0:xingTai>
+    <j.0:diZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2330910"/>
+    <j.0:zhongWenMing>伊犁盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A6172128">
+    <j.0:kuanDu>100—300公里</j.0:kuanDu>
+    <j.0:zhangDu>800公里</j.0:zhangDu>
+    <j.0:mianJi>14.7万平方公里</j.0:mianJi>
+    <j.0:waiWenMing>PearlRiverMouthBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>珠江口盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2343941">
+    <j.0:kaiFangShiJian>全天</j.0:kaiFangShiJian>
+    <j.0:menPiaoJiaGe>不收费</j.0:menPiaoJiaGe>
+    <j.0:zhanDiMianJi>25万平方千米</j.0:zhanDiMianJi>
+    <j.0:shiYiYouWanJiJie>5月-10月</j.0:shiYiYouWanJiJie>
+    <j.0:jingDianJiBie>AAAA</j.0:jingDianJiBie>
+    <j.0:jianYiYouWanShiZhang>1-7天</j.0:jianYiYouWanShiZhang>
+    <j.0:zhuMingJingDian>茶卡盐湖、可鲁克湖、魔鬼城、水中雅丹、柴达木温泉等</j.0:zhuMingJingDian>
+    <j.0:qiHouLeiXing>高原大陆性气候</j.0:qiHouLeiXing>
+    <j.0:menPiaoJiaGe>免费</j.0:menPiaoJiaGe>
+    <j.0:zhongWenMingCheng>柴达木盆地</j.0:zhongWenMingCheng>
+    <j.0:diLiWeiZhi>青海省西北部</j.0:diLiWeiZhi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A405461">
+    <j.0:mianJi>90.650平方千米</j.0:mianJi>
+    <j.0:xueKe>煤层气地质学</j.0:xueKe>
+    <j.0:waiWenMing>BlackWarriorBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>黑勇士盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1079526">
+    <j.0:zongMianJi>约占海洋总面积的45%</j.0:zongMianJi>
+    <j.0:zhuYaoBuFen>水深在4000~5000m的开阔水域</j.0:zhuYaoBuFen>
+    <j.0:poDu>小于1/1000</j.0:poDu>
+    <j.0:pinYin>dàyánɡpéndì</j.0:pinYin>
+    <j.0:zhongWenMing>大洋盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A87600">
+    <j.0:qiHou>温带大陆性气候</j.0:qiHou>
+    <j.0:diDian>天山东部</j.0:diDian>
+    <j.0:pingJunShanMaiHaiBa>523米</j.0:pingJunShanMaiHaiBa>
+    <j.0:waiWenMing>英语:TurfanDepression</j.0:waiWenMing>
+    <j.0:zhongWenMing>吐鲁番盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2050496">
+    <j.0:penDiMianJi>三十一平方公里</j.0:penDiMianJi>
+    <j.0:haiBa>一千一百九十米</j.0:haiBa>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A1678533"/>
+    <j.0:zhongWenMingCheng>茹村盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2389064">
+    <j.0:xingZhengQuLeiBie>云南省</j.0:xingZhengQuLeiBie>
+    <j.0:diLiWeiZhi>中国西南边陲</j.0:diLiWeiZhi>
+    <j.0:xiaXiaDiQu>昆明,曲靖</j.0:xiaXiaDiQu>
+    <j.0:zhuMingJingDian>西双版纳,丽江古城,玉龙雪山</j.0:zhuMingJingDian>
+    <j.0:suoShuDiQu>中国华南</j.0:suoShuDiQu>
+    <j.0:renKou>4458.9万</j.0:renKou>
+    <j.0:youZhengQuMa>650000</j.0:youZhengQuMa>
+    <j.0:mianJi>39.41万平方千米</j.0:mianJi>
+    <j.0:waiWenMingCheng>lufengbasin</j.0:waiWenMingCheng>
+    <j.0:bieMing>禄丰恐龙</j.0:bieMing>
+    <j.0:zhengFuZhuDi>昆明市</j.0:zhengFuZhuDi>
+    <j.0:dianHuaQuHao>0871</j.0:dianHuaQuHao>
+    <j.0:zhongWenMingCheng>禄丰盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A6441538">
+    <j.0:mianJi>40.5万公顷</j.0:mianJi>
+    <j.0:bieMing>玛雅文明摇篮</j.0:bieMing>
+    <j.0:waiWenMingCheng>PhotographbyGeorgeP.Mobley,NationalGeographic</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>危地马拉米拉多盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A597748">
+    <j.0:bieCheng>陕甘宁盆地</j.0:bieCheng>
+    <j.0:mianJi>37万平方公里</j.0:mianJi>
+    <j.0:waiWenMingCheng>OrdosBasin</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>鄂尔多斯盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2329630">
+    <j.0:teZheng>世界第三大盆地</j.0:teZheng>
+    <j.0:mianJi>175万平方公里</j.0:mianJi>
+    <j.0:suoZaiDi>澳大利亚大陆中部偏东</j.0:suoZaiDi>
+    <j.0:pinYin>daziliupendi</j.0:pinYin>
+    <j.0:waiWenMing>GreatArtesianBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>大自流盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A6117038">
+    <j.0:suoZaiDi>东北</j.0:suoZaiDi>
+    <j.0:kuaYueShengFen>黑龙江、吉林、辽宁三省</j.0:kuaYueShengFen>
+    <j.0:mianJi>约26万平方千米</j.0:mianJi>
+    <j.0:zhongWenMing>松辽盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3638973">
+    <j.0:diLiWeiZhi>陕西省南部</j.0:diLiWeiZhi>
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A3215462"/>
+    <j.0:zhongWenMingCheng>西乡盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3156404">
+    <j.0:zhuYaoDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2289547"/>
+    <j.0:qiHouTiaoJian>亚热带季风气候</j.0:qiHouTiaoJian>
+    <j.0:diShiTeDian>地势比较平坦,土壤肥沃</j.0:diShiTeDian>
+    <j.0:jiChang rdf:resource="http://ws.nju.edu.cn/clinga/A1464182"/>
+    <j.0:kuangChanZiYuan>高岭土、花岗岩、莹石矿、石灰</j.0:kuangChanZiYuan>
+    <j.0:diMaoLeiXing>第四系覆盖型岩溶区</j.0:diMaoLeiXing>
+    <j.0:zhongWenMing>玉林盆地</j.0:zhongWenMing>
+    <j.0:weiYu rdf:resource="http://ws.nju.edu.cn/clinga/A2289547"/>
+    <j.0:diMaoTeZheng>桂东南丘陵区</j.0:diMaoTeZheng>
+    <j.0:penDiMianJi>637平方公里</j.0:penDiMianJi>
+    <j.0:chongJiCengHouDu>20米-30米</j.0:chongJiCengHouDu>
+    <j.0:waiWenMing>YulinBasin</j.0:waiWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2023935">
+    <j.0:mianJi>约23000平方公里</j.0:mianJi>
+    <j.0:zouXiangXingZhuang>呈NW-SE向条带状</j.0:zouXiangXingZhuang>
+    <j.0:diZhi>位于新疆东北部</j.0:diZhi>
+    <j.0:zhongWenMing>三塘湖盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2981180">
+    <j.0:leiBie>山间盆地</j.0:leiBie>
+    <j.0:weiYu>青藏高原北部</j.0:weiYu>
+    <j.0:waiWenMing>LibraryMukuleBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>库木库勒盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10878317">
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A1889321"/>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2322207"/>
+    <j.0:shuDi>安徽</j.0:shuDi>
+    <j.0:zhongWenMing>屯溪盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5027858">
+    <j.0:shiQi>2.5亿多年前</j.0:shiQi>
+    <j.0:teDian>山势相对较低、坝子相对较多</j.0:teDian>
+    <j.0:diZhi rdf:resource="http://ws.nju.edu.cn/clinga/A3762672"/>
+    <j.0:diZhi rdf:resource="http://ws.nju.edu.cn/clinga/A1425330"/>
+    <j.0:zhongWenMing>滇中盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5268247">
+    <j.0:leiXing>通道式断陷盆地</j.0:leiXing>
+    <j.0:zouXiang>南北走向</j.0:zouXiang>
+    <j.0:diDian>浙江省中部</j.0:diDian>
+    <j.0:zhongWenMing>诸暨盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A609210">
+    <j.0:mianJi>5000平方公里</j.0:mianJi>
+    <j.0:diDian>临汾</j.0:diDian>
+    <j.0:quYuLeiBie>盆地</j.0:quYuLeiBie>
+    <j.0:zhongWenMing>临汾盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A421214">
+    <j.0:haoCheng>十万大山</j.0:haoCheng>
+    <j.0:shengChan>水稻,甘蔗</j.0:shengChan>
+    <j.0:diDian>桂南</j.0:diDian>
+    <j.0:zhongWenMing>十万大山盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1722602">
+    <j.0:baoHuQuZongMianJi>1395公顷</j.0:baoHuQuZongMianJi>
+    <j.0:leiXing>国家级自然保护区</j.0:leiXing>
+    <j.0:weiYu>河北省秦皇岛市北部</j.0:weiYu>
+    <j.0:zhongWenMing>柳江盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2793136">
+    <j.0:teDian>地堑式断陷盆地</j.0:teDian>
+    <j.0:shuXing>我国南方著名的红色盆地之一</j.0:shuXing>
+    <j.0:weiZhi>浙江中西部</j.0:weiZhi>
+    <j.0:zhongWenMing>金衢盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1211994">
+    <j.0:leiXing rdf:resource="http://ws.nju.edu.cn/clinga/A2354910"/>
+    <j.0:kanTan>1974年</j.0:kanTan>
+    <j.0:mianJi rdf:resource="http://ws.nju.edu.cn/clinga/A2734562"/>
+    <j.0:zhongWenMing>东海盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A8153327">
+    <j.0:dongXiZhang>40余公里</j.0:dongXiZhang>
+    <j.0:nanBeiKuan>8~15公里</j.0:nanBeiKuan>
+    <j.0:mianJi>12500平方公里</j.0:mianJi>
+    <j.0:zhongWenMing>兰州盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1782795">
+    <j.0:diLiWeiZhi>非洲南部高原区</j.0:diLiWeiZhi>
+    <j.0:haiBa>900~1100米</j.0:haiBa>
+    <j.0:mianJi>63万平方千米</j.0:mianJi>
+    <j.0:zhongWenMing>卡拉哈迪盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1603744">
+    <j.0:penDiFanWei>北起阴山、大青山</j.0:penDiFanWei>
+    <j.0:youMing>鄂尔多斯盆地</j.0:youMing>
+    <j.0:diDian>陕甘宁</j.0:diDian>
+    <j.0:zhongWenMing>陕甘宁盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1665930">
+    <j.0:pingJunHaiBa>550米</j.0:pingJunHaiBa>
+    <j.0:zhanDiMianJi>1200平方公里</j.0:zhanDiMianJi>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2364556"/>
+    <j.0:zhongWenMingCheng>索非亚盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1096068">
+    <j.0:diDian>法国北部</j.0:diDian>
+    <j.0:pingJunHaiBa>178米</j.0:pingJunHaiBa>
+    <j.0:mianJi>约14万平方千米</j.0:mianJi>
+    <j.0:waiWenMing>无</j.0:waiWenMing>
+    <j.0:zhongWenMing>巴黎盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1813630">
+    <j.0:dongXiKuan>约八百米</j.0:dongXiKuan>
+    <j.0:nanBeiZhang>南北长约三千米</j.0:nanBeiZhang>
+    <j.0:diDian>外蒙古肯特省依德尔莫格县境内</j.0:diDian>
+    <j.0:zhongWenMing>苏布拉嘎盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A719028">
+    <j.0:waiWenMing>Hungarianthermalwaterbasin</j.0:waiWenMing>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A2330699"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1562221">
+    <j.0:zhuMingJingDian>卧龙岗、武侯祠、古隆中、襄阳城</j.0:zhuMingJingDian>
+    <j.0:zhongWenMingCheng>南阳盆地</j.0:zhongWenMingCheng>
+    <j.0:renKou>1658.82万人</j.0:renKou>
+    <j.0:dianHuaQuHao>0377、0710</j.0:dianHuaQuHao>
+    <j.0:haiBa>80-120米</j.0:haiBa>
+    <j.0:fangYan>中原官话-宛汝片西南官话-鄂北片</j.0:fangYan>
+    <j.0:mianJi>46291平方公里</j.0:mianJi>
+    <j.0:huoCheZhan>南阳站、襄阳站、襄阳东站</j.0:huoCheZhan>
+    <j.0:xiaXiaDiQu>河南省南阳市、湖北省襄阳市</j.0:xiaXiaDiQu>
+    <j.0:suoShuDiQu>中国河南、湖北</j.0:suoShuDiQu>
+    <j.0:renKouMiDu>358.3人/平方公里</j.0:renKouMiDu>
+    <j.0:qiHouTiaoJian>北亚热带湿润季风气候</j.0:qiHouTiaoJian>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2271252"/>
+    <j.0:jiChang>南阳姜营机场、襄阳刘集机场</j.0:jiChang>
+    <j.0:chePaiDaiMa>豫R、鄂F</j.0:chePaiDaiMa>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7333102">
+    <j.0:suoShuZhou>:亚洲</j.0:suoShuZhou>
+    <j.0:guoJia>:俄罗斯联邦蒙古</j.0:guoJia>
+    <j.0:waiWenMing>UvsNuurBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>:乌布苏湖盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12218239">
+    <j.0:guDiHaiBa>300~400米</j.0:guDiHaiBa>
+    <j.0:mianJi>160平方公里</j.0:mianJi>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A126271"/>
+    <j.0:zhongWenMing>罗子沟盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1818422">
+    <j.0:leiXing>大型沉积盆地</j.0:leiXing>
+    <j.0:bieCheng>西德克萨斯盆地</j.0:bieCheng>
+    <j.0:waiWenMing>PermianBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>二叠纪盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11360880">
+    <j.0:jiJie>夏,秋</j.0:jiJie>
+    <j.0:leiXing>也是通过另一种方式</j.0:leiXing>
+    <j.0:nanDu>中等程度-并不难(一日游)</j.0:nanDu>
+    <j.0:haiBaBianHua>122米</j.0:haiBaBianHua>
+    <j.0:buDaoZhangDu>13.7千米</j.0:buDaoZhangDu>
+    <j.0:waiWenMing>ShoshoneGeyserBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>肖肖尼间歇泉盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1690273">
+    <j.0:zhanDiMianJi>盆地周边长约70公里,面积约240平方公里</j.0:zhanDiMianJi>
+    <j.0:diLiWeiZhi>位于台湾岛北部,北以大屯山火山群为界,</j.0:diLiWeiZhi>
+    <j.0:zhongWenMingCheng>台北盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1817710">
+    <j.0:weiYu>於大陡崖和斯瓦特山之间</j.0:weiYu>
+    <j.0:guoJia>南非</j.0:guoJia>
+    <j.0:waiWenMing>GreatKarroo</j.0:waiWenMing>
+    <j.0:zhongWenMing>大卡鲁盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2049849">
+    <j.0:haiBa>一千零五十米</j.0:haiBa>
+    <j.0:mianJi>八十四点八八平方公里</j.0:mianJi>
+    <j.0:diLiWeiZhi>五台县境中部</j.0:diLiWeiZhi>
+    <j.0:zhongWenMing>沟南盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4177499">
+    <j.0:zongMianJi>1000平方公里</j.0:zongMianJi>
+    <j.0:diShiTeDian>南北高,中间低,略呈槽形</j.0:diShiTeDian>
+    <j.0:diLiWeiZhi>黄河中游,黄土高原东南缘</j.0:diLiWeiZhi>
+    <j.0:suoZaiDiQu>河南省</j.0:suoZaiDiQu>
+    <j.0:waiWenMing>LuoyangBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>洛阳盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A729360">
+    <j.0:wenDuJieYu>-5.2~+142℃</j.0:wenDuJieYu>
+    <j.0:hou>3000~5000米</j.0:hou>
+    <j.0:waiWenMing>West-Siberianthermalwaterbasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>西西伯利亚热水盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1279978">
+    <j.0:mianJi>15.5万平方公里</j.0:mianJi>
+    <j.0:weiYu>泰国东部</j.0:weiYu>
+    <j.0:jiuCheng>呵叻高原</j.0:jiuCheng>
+    <j.0:waiWenMing>KoratBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>呵叻盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1747521">
+    <j.0:shiLi>帕里西维拉盆地</j.0:shiLi>
+    <j.0:jianJie>位于火山弧之间的盆地</j.0:jianJie>
+    <j.0:waiWenMing>interarcbasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>弧间盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12198193">
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2373743"/>
+    <j.0:zhongWenMing>曾母盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12777628">
+    <j.0:bieCheng>零祁盆地</j.0:bieCheng>
+    <j.0:mianJi>855.4万亩</j.0:mianJi>
+    <j.0:zhongWenMing>祁零盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1447242">
+    <j.0:teDian>没有副本</j.0:teDian>
+    <j.0:waiGuan rdf:resource="http://ws.nju.edu.cn/clinga/A3242511"/>
+    <j.0:sheJi rdf:resource="http://ws.nju.edu.cn/clinga/A3242511"/>
+    <j.0:leiXing>游戏地图</j.0:leiXing>
+    <j.0:chuChu rdf:resource="http://ws.nju.edu.cn/clinga/A2178321"/>
+    <j.0:zhongWenMing>索拉查盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2107600">
+    <j.0:shu>天山山地中的一个山间断陷盆地</j.0:shu>
+    <j.0:haiBa>500—1000米</j.0:haiBa>
+    <j.0:zai>新疆维吾尔自治区东部</j.0:zai>
+    <j.0:zhongWenMing>库穆尔盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3624222">
+    <j.0:diMao>盆地</j.0:diMao>
+    <j.0:zhanDiMianJi>3600平方公里</j.0:zhanDiMianJi>
+    <j.0:diLiWeiZhi>江西省南昌市、新余市、丰城市</j.0:diLiWeiZhi>
+    <j.0:zhongWenMing>清江盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2328006">
+    <j.0:zhuYaoQiHou>热带雨林气候</j.0:zhuYaoQiHou>
+    <j.0:leiXing>世界自然遗产</j.0:leiXing>
+    <j.0:fenBuGuoDu>扎伊尔、刚果等</j.0:fenBuGuoDu>
+    <j.0:mianJi>约337万平方千米</j.0:mianJi>
+    <j.0:diLiWeiZhi>非洲中西部</j.0:diLiWeiZhi>
+    <j.0:bieCheng>扎伊尔盆地</j.0:bieCheng>
+    <j.0:waiWenMing>CongoBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>刚果盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A9352645">
+    <j.0:fenBuQuYu>西藏伦坡拉盆地帕陇腰玛牛堡组三段</j.0:fenBuQuYu>
+    <j.0:zhong>低鄂总钝头轮藻(新种)</j.0:zhong>
+    <j.0:shu>钝头轮藻属</j.0:shu>
+    <j.0:yaKe>开口轮藻亚科</j.0:yaKe>
+    <j.0:ke>轮藻科</j.0:ke>
+    <j.0:jie>动物界</j.0:jie>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A771631">
+    <j.0:leiXing>走滑拉张盆地</j.0:leiXing>
+    <j.0:mianJi>160124.38平方公里</j.0:mianJi>
+    <j.0:diLiWeiZhi>位于南海西南陆架及陆坡上</j.0:diLiWeiZhi>
+    <j.0:zhongWenMingCheng>万安盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4746483">
+    <j.0:zuHou>10~50米</j.0:zuHou>
+    <j.0:kuangChan>砂质泥岩、粘土岩、石灰岩</j.0:kuangChan>
+    <j.0:weiYu>山西省东南部</j.0:weiYu>
+    <j.0:zhongWenMing>沁水盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2248434">
+    <j.0:zuiDiHaiBa>-28m</j.0:zuiDiHaiBa>
+    <j.0:shuiYuMianJi>371772.5平方公里</j.0:shuiYuMianJi>
+    <j.0:waiWenMing>Caspian</j.0:waiWenMing>
+    <j.0:zhongWenMing>里海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4107415">
+    <j.0:leiBie>早第三纪断坳盆地</j.0:leiBie>
+    <j.0:shiQi rdf:resource="http://ws.nju.edu.cn/clinga/A109334"/>
+    <j.0:banKuai>华南微板块</j.0:banKuai>
+    <j.0:zhongWenMing>三水盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10840470">
+    <j.0:zhongWenMing>柘荣盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1569095">
+    <j.0:meiYu>鱼米之乡,国宝之府</j.0:meiYu>
+    <j.0:pingJunHaiBa>500米左右</j.0:pingJunHaiBa>
+    <j.0:diLiWeiZhi>陕西省南部</j.0:diLiWeiZhi>
+    <j.0:youCheng>汉中平原</j.0:youCheng>
+    <j.0:waiWenMing>HanzhoungBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>汉中盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10053216">
+    <j.0:waiWenMing>BasinofMexico</j.0:waiWenMing>
+    <j.0:zhongWenMing>墨西哥盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A21793">
+    <j.0:mianJi>10.6万平方千米</j.0:mianJi>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2207482"/>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A79085"/>
+    <j.0:waiWenMing>GreatLakesRegion</j.0:waiWenMing>
+    <j.0:zhongWenMing>大湖盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3243813">
+    <j.0:haiBa>400米左右</j.0:haiBa>
+    <j.0:zongMianJi>39064.5平方公里</j.0:zongMianJi>
+    <j.0:chanWu>小麦、水稻、大豆、谷子花</j.0:chanWu>
+    <j.0:youMing>渭河盆地</j.0:youMing>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A607303"/>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A3227834"/>
+    <j.0:dongXiZhang>约360公里</j.0:dongXiZhang>
+    <j.0:zhongWenMing>关中盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A6195666">
+    <j.0:guoJia>法国</j.0:guoJia>
+    <j.0:mianJi>120000公顷</j.0:mianJi>
+    <j.0:duLiZuChengBuFen>109个</j.0:duLiZuChengBuFen>
+    <j.0:zhongWenMing>北部-加来海峡的采矿盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3896825">
+    <j.0:zongMianJi>1213平方公里</j.0:zongMianJi>
+    <j.0:xingZhuang>三角形</j.0:xingZhuang>
+    <j.0:weiZhi>浙江省中北部</j.0:weiZhi>
+    <j.0:haiBa>100米左右</j.0:haiBa>
+    <j.0:zhongWenMing>新嵊盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A8160286">
+    <j.0:haiBaGaoDu>1400-1500米</j.0:haiBaGaoDu>
+    <j.0:nanBeiZhang>75公里</j.0:nanBeiZhang>
+    <j.0:dongXiKuan>65公里</j.0:dongXiKuan>
+    <j.0:mianJi>3700平方公里</j.0:mianJi>
+    <j.0:diLiWeiZhi>甘肃省东南部</j.0:diLiWeiZhi>
+    <j.0:zhongWenMing>西礼盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12440">
+    <j.0:mianJi>25平方公里</j.0:mianJi>
+    <j.0:haiBa>70~80米</j.0:haiBa>
+    <j.0:diLiWeiZhi>系闽清县梅溪上游的山间河谷盆地</j.0:diLiWeiZhi>
+    <j.0:zhongWenMing>坂东盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1175493">
+    <j.0:haiBa>900-1000米</j.0:haiBa>
+    <j.0:zhanDiMianJi>2000平方公里</j.0:zhanDiMianJi>
+    <j.0:qiHouLeiXing>年平均降雨量550—600毫米</j.0:qiHouLeiXing>
+    <j.0:diLiWeiZhi>山西省长治市</j.0:diLiWeiZhi>
+    <j.0:zhongWenMingCheng>长治盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A866530">
+    <j.0:reChuWenDu>在70~75%以上</j.0:reChuWenDu>
+    <j.0:penDiLeiXing rdf:resource="http://ws.nju.edu.cn/clinga/A451300"/>
+    <j.0:waiWenMing>Paristhermalwaterbasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>巴黎热水盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A629089">
+    <j.0:mianJi>约2157平方公里</j.0:mianJi>
+    <j.0:zhang>约70公里</j.0:zhang>
+    <j.0:zuChengBuFen rdf:resource="http://ws.nju.edu.cn/clinga/A2274079"/>
+    <j.0:zhongWenMing>忻州盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2512825">
+    <j.0:qiTa>水星上最热的地方</j.0:qiTa>
+    <j.0:ciYuLaiYuan>拉丁语</j.0:ciYuLaiYuan>
+    <j.0:zhongXin>北纬30度、西经195度</j.0:zhongXin>
+    <j.0:diZhi>水星</j.0:diZhi>
+    <j.0:zhongWenMing>卡路里盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12891191">
+    <j.0:waiWenMing>CarpathianBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>喀尔巴阡盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A228567">
+    <j.0:nianPingJunQiWen>15~17℃</j.0:nianPingJunQiWen>
+    <j.0:haiBa>100~200米之间</j.0:haiBa>
+    <j.0:bieMing>休屯盆地</j.0:bieMing>
+    <j.0:zhongWenMing>徽州盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A86460">
+    <j.0:qiHouLeiXing>温带大陆性气候</j.0:qiHouLeiXing>
+    <j.0:zhanDiMianJi>38万平方公里</j.0:zhanDiMianJi>
+    <j.0:menPiaoJiaGe>免费</j.0:menPiaoJiaGe>
+    <j.0:zhuMingJingDian>五彩城</j.0:zhuMingJingDian>
+    <j.0:kaiFangShiJian>全天</j.0:kaiFangShiJian>
+    <j.0:waiWenMingCheng>JunggarBasin</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>准葛尔盆地</j.0:zhongWenMingCheng>
+    <j.0:sheYingZuiJiaJiJie>9月16日-9月30日</j.0:sheYingZuiJiaJiJie>
+    <j.0:jingWeiDu>45°N,85°E</j.0:jingWeiDu>
+    <j.0:youLanXiangMu>观光、探险、狩猎、科学考察</j.0:youLanXiangMu>
+    <j.0:diLiWeiZhi>新疆维吾尔自治区北部</j.0:diLiWeiZhi>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A1164763"/>
+    <j.0:xingChengYuanYin rdf:resource="http://ws.nju.edu.cn/clinga/A2937082"/>
+    <j.0:diMaoLeiXing rdf:resource="http://ws.nju.edu.cn/clinga/A2337563"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1551732">
+    <j.0:mianJi>约250万平方公里</j.0:mianJi>
+    <j.0:diQu>非洲</j.0:diQu>
+    <j.0:waiWenMing>ChadBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>乍得盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10277633">
+    <j.0:weiDu>44°27'52“N,110°49'45”W</j.0:weiDu>
+    <j.0:zhuMingJingDian>巨间歇泉雏菊间歇泉岩穴喷泉牵牛花泉城堡间歇泉收起</j.0:zhuMingJingDian>
+    <j.0:zhuMingJingDian>巨间歇泉雏菊间歇泉岩穴喷泉牵牛花泉展开著名景点巨间歇泉雏菊间歇泉岩穴喷泉牵牛花泉城堡间歇泉收起</j.0:zhuMingJingDian>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A684583"/>
+    <j.0:zhanDiMianJi>2.6平方公里</j.0:zhanDiMianJi>
+    <j.0:diLiWeiZhi>美国黄石国家公园</j.0:diLiWeiZhi>
+    <j.0:waiWenMingCheng>UpperGeyserBasin</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>上间歇泉盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1795473">
+    <j.0:zhiJing>约1,600公里(990哩)</j.0:zhiJing>
+    <j.0:jianJie>最大的由冲击形成的地形</j.0:jianJie>
+    <j.0:waiWenMing>Hellasbasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>海腊斯盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A8163808">
+    <j.0:shu rdf:resource="http://ws.nju.edu.cn/clinga/A115690"/>
+    <j.0:bieMing>台南盆地</j.0:bieMing>
+    <j.0:diWei>台湾海峡南部至南海东北部一带</j.0:diWei>
+    <j.0:zhongWenMing>台西南盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3270887">
+    <j.0:haiBaGaoDu>-86米</j.0:haiBaGaoDu>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A885206"/>
+    <j.0:waiWenMingCheng>BadwaterBasin</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>恶水盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10075831">
+    <j.0:mianJi>31平方公里</j.0:mianJi>
+    <j.0:zhuYaoJingDian>颜料锅喷泉</j.0:zhuYaoJingDian>
+    <j.0:weiDu>44°32'58“N</j.0:weiDu>
+    <j.0:jingDu>110°50'09”W</j.0:jingDu>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2357958"/>
+    <j.0:waiWenMing>LowerGeyserBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>下间歇泉盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1020831">
+    <j.0:nanBu>艾尔宾山</j.0:nanBu>
+    <j.0:haiBa>2500—2700m</j.0:haiBa>
+    <j.0:weiYu>天山南坡高位山间盆地</j.0:weiYu>
+    <j.0:zhongWenMing>尤尔都斯盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2771079">
+    <j.0:haiBa>2400~2500米</j.0:haiBa>
+    <j.0:diLiWeiZhi>新疆和静县境西部开都河中上游</j.0:diLiWeiZhi>
+    <j.0:waiWenMingCheng>MrLe,basin</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>尤勒都斯盆地</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2033740">
+    <j.0:haiBa>1050</j.0:haiBa>
+    <j.0:gengDi>93000亩</j.0:gengDi>
+    <j.0:xingZhi>盆地</j.0:xingZhi>
+    <j.0:zhongWenMing>豆村盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1677237">
+    <j.0:jianJie>大部为半沙漠,用作牧场</j.0:jianJie>
+    <j.0:haiBa>370—1,000米</j.0:haiBa>
+    <j.0:shuoMing rdf:resource="http://ws.nju.edu.cn/clinga/A99334"/>
+    <j.0:zhongWenMing>斋桑盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A8868279">
+    <j.0:chiCun>长约109km,宽7-14km</j.0:chiCun>
+    <j.0:teDian>典型的走滑拉分盆地</j.0:teDian>
+    <j.0:zhongWenMing>百色盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A461395">
+    <j.0:jiaZhi>世界上几大黑土分布带之一</j.0:jiaZhi>
+    <j.0:diMao rdf:resource="http://ws.nju.edu.cn/clinga/A2274398"/>
+    <j.0:diQu>黑龙江省东部</j.0:diQu>
+    <j.0:zhongWenMing>虎林盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A409973">
+    <j.0:nanBei>长约128千米</j.0:nanBei>
+    <j.0:mianJi>5700平方千米</j.0:mianJi>
+    <j.0:xingCheng>晚白垩世和古新世</j.0:xingCheng>
+    <j.0:waiWenMing>RatonBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>拉顿盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1234626">
+    <j.0:gaoShan>占4.5%</j.0:gaoShan>
+    <j.0:shaErHuHaiBa>53米</j.0:shaErHuHaiBa>
+    <j.0:weiZhi>新疆维吾尔自治区东部</j.0:weiZhi>
+    <j.0:zhongWenMing>哈密盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1801648">
+    <j.0:diLiWeiZhi>南非西开普省的山间高原盆地</j.0:diLiWeiZhi>
+    <j.0:jiangYuLiang>山区400公釐,谷地为130公釐</j.0:jiangYuLiang>
+    <j.0:waiWenMing>LittleKaroo(Karoo亦作Karroo)</j.0:waiWenMing>
+    <j.0:zhongWenMing>小卡鲁盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2375225">
+    <j.0:xingZhengQuHua rdf:resource="http://ws.nju.edu.cn/clinga/A2314215"/>
+    <j.0:wenHua rdf:resource="http://ws.nju.edu.cn/clinga/A2148501"/>
+    <j.0:diLiQuWei>亚洲中南部,中国西南地区</j.0:diLiQuWei>
+    <j.0:penDiMianJi>26万多平方千米</j.0:penDiMianJi>
+    <j.0:waiWenMing>SichuanBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A2375225"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3394377">
+    <j.0:jiDi>Kungurian盐岩</j.0:jiDi>
+    <j.0:dongXiZhang>约600公里</j.0:dongXiZhang>
+    <j.0:weiZhi>里海的北部</j.0:weiZhi>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A3394377"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4840833">
+    <j.0:guoJia rdf:resource="http://ws.nju.edu.cn/clinga/A80115"/>
+    <j.0:guoJia rdf:resource="http://ws.nju.edu.cn/clinga/A81491"/>
+    <j.0:guoJia rdf:resource="http://ws.nju.edu.cn/clinga/A2349264"/>
+    <j.0:xingZhi rdf:resource="http://ws.nju.edu.cn/clinga/A451300"/>
+    <j.0:kuanDu>约50千米</j.0:kuanDu>
+    <j.0:zhangDu>约200千米</j.0:zhangDu>
+    <j.0:waiWenMing>WienerBecken,Vídeňskápánev,Viedenskákotlina</j.0:waiWenMing>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A4840833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1553165">
+    <j.0:diMao>红岩丘陵</j.0:diMao>
+    <j.0:mianJi>5200多平方公里</j.0:mianJi>
+    <j.0:diZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2370698"/>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A1553165"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2623503">
+    <j.0:mianJi>73.815平方千米</j.0:mianJi>
+    <j.0:weiYu>美国西部的怀俄明州东北部</j.0:weiYu>
+    <j.0:ciMu rdf:resource="http://ws.nju.edu.cn/clinga/A2623503"/>
+    <j.0:xueKe>煤层气地质学</j.0:xueKe>
+    <j.0:waiWenMing>PowderRiverBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing>粉河盆地</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4363850">
+    <j.0:penDiMianJi>5000平方千米</j.0:penDiMianJi>
+    <j.0:penDiKuanDu>约30~40千米</j.0:penDiKuanDu>
+    <j.0:penDiZhangDu>约150千米</j.0:penDiZhangDu>
+    <j.0:zhuYaoChengShi rdf:resource="http://ws.nju.edu.cn/clinga/A2342476"/>
+    <j.0:diLiQuWei rdf:resource="http://ws.nju.edu.cn/clinga/A102103"/>
+    <j.0:waiWenMing>JinzhongBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A4363850"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12424185">
+    <j.0:penDiMianJi>约9490平方千米</j.0:penDiMianJi>
+    <j.0:penDiKuanDu>100千米</j.0:penDiKuanDu>
+    <j.0:penDiZhangDu>约160千米</j.0:penDiZhangDu>
+    <j.0:zhuYaoChengShi rdf:resource="http://ws.nju.edu.cn/clinga/A2324811"/>
+    <j.0:diLiQuWei>山西东南部</j.0:diLiQuWei>
+    <j.0:waiWenMing>JinchengBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A12424185"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2334032">
+    <j.0:xiaXiaDiQu>塔中石油</j.0:xiaXiaDiQu>
+    <j.0:mianJi>53万平方千米</j.0:mianJi>
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A919827"/>
+    <j.0:diXing>盆地东西长1400千米</j.0:diXing>
+    <j.0:huoCheZhan>喀什站</j.0:huoCheZhan>
+    <j.0:zhongWenMingCheng rdf:resource="http://ws.nju.edu.cn/clinga/A2334032"/>
+    <j.0:zhengFuZhuDi>阿克苏</j.0:zhengFuZhuDi>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A90163"/>
+    <j.0:suoShuDiQu>中国新疆维吾尔自治</j.0:suoShuDiQu>
+    <j.0:waiWenMingCheng>TarimBasin</j.0:waiWenMingCheng>
+    <j.0:qiHouTiaoJian>气候干旱</j.0:qiHouTiaoJian>
+    <j.0:luDiZiRanDai rdf:resource="http://ws.nju.edu.cn/clinga/A2249374"/>
+    <j.0:fangYan>汉语、维吾尔语</j.0:fangYan>
+    <j.0:diLiWeiZhi>新疆维吾尔自治区南部</j.0:diLiWeiZhi>
+    <j.0:haiBa>1000米</j.0:haiBa>
+    <j.0:xingZhengQuLeiBie>新疆维吾尔自治区</j.0:xingZhengQuLeiBie>
+    <j.0:dianHuaQuHao>0997</j.0:dianHuaQuHao>
+    <j.0:bieMing>تارىمئويمانلىقى(维吾尔语)</j.0:bieMing>
+    <j.0:diWei>世界第一大内陆盆地(1)</j.0:diWei>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A6106401">
+    <j.0:penDiMianJi>26万多平方千米</j.0:penDiMianJi>
+    <j.0:diLiWeiZhi>中国的中央区域</j.0:diLiWeiZhi>
+    <j.0:yiShuMingCheng rdf:resource="http://ws.nju.edu.cn/clinga/A717493"/>
+    <j.0:yiShuMingCheng rdf:resource="http://ws.nju.edu.cn/clinga/A1504049"/>
+    <j.0:wenHuaMingCheng>巴蜀盆地BashuBasin</j.0:wenHuaMingCheng>
+    <j.0:liShiMingCheng rdf:resource="http://ws.nju.edu.cn/clinga/A2375225"/>
+    <j.0:waiWenMingCheng>EnvelopeBasin(ScienceName)</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng rdf:resource="http://ws.nju.edu.cn/clinga/A6106401"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A6452162">
+    <j.0:qiCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A11545376"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A3900531"/>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A1122625"/>
+    <j.0:zhongWenMingCheng rdf:resource="http://ws.nju.edu.cn/clinga/A6452162"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A6324974"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A7156751"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A3116028"/>
+    <j.0:qiHouLeiXing>暖温带半湿润季风山地气候</j.0:qiHouLeiXing>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A328895"/>
+    <j.0:zhanDiMianJi>约19292平方千米</j.0:zhanDiMianJi>
+    <j.0:renKou>243万</j.0:renKou>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A6979655">
+    <j.0:penDiMianJi>约9490平方千米</j.0:penDiMianJi>
+    <j.0:penDiKuanDu>100千米</j.0:penDiKuanDu>
+    <j.0:penDiZhangDu>约160千米</j.0:penDiZhangDu>
+    <j.0:zhuYaoChengShi rdf:resource="http://ws.nju.edu.cn/clinga/A2324811"/>
+    <j.0:diLiQuWei>山西东南端</j.0:diLiQuWei>
+    <j.0:waiWenMing>ZezhouBasin</j.0:waiWenMing>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A6979655"/>
+  </rdf:Description>
+</rdf:RDF>

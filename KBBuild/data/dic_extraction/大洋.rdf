@@ -1,0 +1,56 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://ws.nju.edu.cn/clinga/">
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A84179">
+    <j.0:zhouBianGuoJia rdf:resource="http://ws.nju.edu.cn/clinga/A2349421"/>
+    <j.0:nianPingJunJiangShuiLiang>75-200毫米</j.0:nianPingJunJiangShuiLiang>
+    <j.0:haiAnXianZhangDu>45390千米</j.0:haiAnXianZhangDu>
+    <j.0:dongXiKuaDu>5836千米</j.0:dongXiKuaDu>
+    <j.0:zhuYaoShuiTi rdf:resource="http://ws.nju.edu.cn/clinga/A1690980"/>
+    <j.0:zhuYaoZiYuan rdf:resource="http://ws.nju.edu.cn/clinga/A2337219"/>
+    <j.0:zhuYaoDaoYu rdf:resource="http://ws.nju.edu.cn/clinga/A2333113"/>
+    <j.0:nanBeiKuaDu>2082千米</j.0:nanBeiKuaDu>
+    <j.0:zuiDaShuiShen>5527米(格陵兰海东北)</j.0:zuiDaShuiShen>
+    <j.0:waiWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A2356136"/>
+    <j.0:pingJunShuiShen>1225米</j.0:pingJunShuiShen>
+    <j.0:zhuYaoZiYuan rdf:resource="http://ws.nju.edu.cn/clinga/A3524890"/>
+    <j.0:zhuYaoZiYuan rdf:resource="http://ws.nju.edu.cn/clinga/A2358269"/>
+    <j.0:zhuYaoDaoYu rdf:resource="http://ws.nju.edu.cn/clinga/A904342"/>
+    <j.0:haiQuPingJunQiWen>零下20-零下40℃</j.0:haiQuPingJunQiWen>
+    <j.0:zhouBianGuoJia rdf:resource="http://ws.nju.edu.cn/clinga/A97958"/>
+    <j.0:zhuYaoDaoYu rdf:resource="http://ws.nju.edu.cn/clinga/A1083091"/>
+    <j.0:zhuYaoShuiTi rdf:resource="http://ws.nju.edu.cn/clinga/A2309503"/>
+    <j.0:zhouBianGuoJia rdf:resource="http://ws.nju.edu.cn/clinga/A2328062"/>
+    <j.0:dianXingYanDu>3.48%(34.8psu)</j.0:dianXingYanDu>
+    <j.0:mianJi>1475万平方千米</j.0:mianJi>
+    <j.0:zhuYaoZiYuan rdf:resource="http://ws.nju.edu.cn/clinga/A320730"/>
+    <j.0:zhongWenMing>北冰洋</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2331958">
+    <j.0:pingJunShuiWen>16.92℃</j.0:pingJunShuiWen>
+    <j.0:pingJunYanDu>35.4‰</j.0:pingJunYanDu>
+    <j.0:pingJunShenDu>3627米</j.0:pingJunShenDu>
+    <j.0:mianJi>7676.2万平方千米</j.0:mianJi>
+    <j.0:waiWenMing>AtlanticOcean</j.0:waiWenMing>
+    <j.0:zhongWenMing>大西洋</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A96075">
+    <j.0:zuiShenChu>马里亚纳海沟(11034米)</j.0:zuiShenChu>
+    <j.0:haiYangMianJi>1.556亿平方千米</j.0:haiYangMianJi>
+    <j.0:haiShuiWenDu>0℃-30℃</j.0:haiShuiWenDu>
+    <j.0:haiShuiShenDu>平均4570米左右</j.0:haiShuiShenDu>
+    <j.0:waiWenMing>PacificOcean</j.0:waiWenMing>
+    <j.0:zhongWenMing>太平洋</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2331341">
+    <j.0:zuiDaShuiShen rdf:resource="http://ws.nju.edu.cn/clinga/A1936723"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2321944"/>
+    <j.0:shuiShen>均3872.4米</j.0:shuiShen>
+    <j.0:qiHouTiaoJian>热带海洋性和季风性</j.0:qiHouTiaoJian>
+    <j.0:mianJi>7411.8万平方千米</j.0:mianJi>
+    <j.0:xiaXiaDiQu>印度、巴基斯坦和伊朗</j.0:xiaXiaDiQu>
+    <j.0:bieMing>厄立特里亚海</j.0:bieMing>
+    <j.0:waiWenMingCheng>IndianOcean</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>印度洋</j.0:zhongWenMingCheng>
+  </rdf:Description>
+</rdf:RDF>

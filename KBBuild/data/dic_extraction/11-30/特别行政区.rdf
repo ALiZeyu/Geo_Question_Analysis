@@ -1,0 +1,92 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://ws.nju.edu.cn/clinga/">
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2331542">
+    <j.0:xianRenXingZhengZhangGuan rdf:resource="http://ws.nju.edu.cn/clinga/A2715767"/>
+    <j.0:huoBi rdf:resource="http://ws.nju.edu.cn/clinga/A1575982"/>
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2380083"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2349496"/>
+    <j.0:waiHuiChuBei>3997亿美元(2013年底)</j.0:waiHuiChuBei>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A920166"/>
+    <j.0:faLvTiXi rdf:resource="http://ws.nju.edu.cn/clinga/A2250580"/>
+    <j.0:huoBi rdf:resource="http://ws.nju.edu.cn/clinga/A2376690"/>
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A2360159"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2349077"/>
+    <j.0:diQuDaiMa>HKG</j.0:diQuDaiMa>
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A109632"/>
+    <j.0:gaoDengYuanXiao rdf:resource="http://ws.nju.edu.cn/clinga/A89345"/>
+    <j.0:chePaiDaiMa>粤Z(进入内地)</j.0:chePaiDaiMa>
+    <j.0:waiWenMingCheng>HongKong</j.0:waiWenMingCheng>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A1999237"/>
+    <j.0:daoLuTongXing>靠左驾驶</j.0:daoLuTongXing>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A1833329"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A5668698"/>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A569799"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2358089"/>
+    <j.0:shiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2338527"/>
+    <j.0:jiNiXiShu>0.475(2013年)</j.0:jiNiXiShu>
+    <j.0:zhongWenMingCheng>香港</j.0:zhongWenMingCheng>
+    <j.0:xingZhengQuLeiBie rdf:resource="http://ws.nju.edu.cn/clinga/A1552694"/>
+    <j.0:fangYan rdf:resource="http://ws.nju.edu.cn/clinga/A102644"/>
+    <j.0:diQuGDP>2909亿美元(2014年,国际汇率)</j.0:diQuGDP>
+    <j.0:renLeiFaZhanZhiShu>0.891(极高,2014年全球15位)</j.0:renLeiFaZhanZhiShu>
+    <j.0:jiChang rdf:resource="http://ws.nju.edu.cn/clinga/A2289690"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A3410143"/>
+    <j.0:shouRenXingZhengZhangGuan rdf:resource="http://ws.nju.edu.cn/clinga/A82720"/>
+    <j.0:gaoDengYuanXiao rdf:resource="http://ws.nju.edu.cn/clinga/A2323710"/>
+    <j.0:mianJi>1104.43平方公里</j.0:mianJi>
+    <j.0:guanFangYuYan>广东话、英语</j.0:guanFangYuYan>
+    <j.0:zhengFuZhuDi rdf:resource="http://ws.nju.edu.cn/clinga/A2315334"/>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A3546540"/>
+    <j.0:dianHuaQuHao>+852</j.0:dianHuaQuHao>
+    <j.0:renJunGDP>40170美元(2014年,国际汇率)</j.0:renJunGDP>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2315334"/>
+    <j.0:zhengZhiTiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A457051"/>
+    <j.0:youZhengQuMa>999077</j.0:youZhengQuMa>
+    <j.0:renKou>724万(2014年)</j.0:renKou>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A90813">
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A898855"/>
+    <j.0:chengShiMeiYu>东方赌城、海上花园</j.0:chengShiMeiYu>
+    <j.0:faLvTiXi rdf:resource="http://ws.nju.edu.cn/clinga/A93850"/>
+    <j.0:GDP>555亿美元(2014年,国际汇率)</j.0:GDP>
+    <j.0:zhongWenMingCheng rdf:resource="http://ws.nju.edu.cn/clinga/A90813"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2357821"/>
+    <j.0:zhengZhiTiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2940561"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2125473"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A3208351"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A58469"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A3203321"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2569227"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2358089"/>
+    <j.0:renLeiFaZhanZhiShu>0.909(极高)</j.0:renLeiFaZhanZhiShu>
+    <j.0:renKouMiDu>1.6637万人/平方公里</j.0:renKouMiDu>
+    <j.0:zhengFuZhuDi rdf:resource="http://ws.nju.edu.cn/clinga/A2253760"/>
+    <j.0:youZhengQuMa>999078</j.0:youZhengQuMa>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2252034"/>
+    <j.0:guanFangYuYan rdf:resource="http://ws.nju.edu.cn/clinga/A2356136"/>
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A109632"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A3198402"/>
+    <j.0:mianJi>32.8平方公里(海域面积85平方公里)</j.0:mianJi>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A2307380"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2253760"/>
+    <j.0:dianHuaQuHao>+853</j.0:dianHuaQuHao>
+    <j.0:huoBi rdf:resource="http://ws.nju.edu.cn/clinga/A1988981"/>
+    <j.0:waiWenMingCheng rdf:resource="http://ws.nju.edu.cn/clinga/A3381994"/>
+    <j.0:huoCheZhan>暂无</j.0:huoCheZhan>
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A2360159"/>
+    <j.0:guanFangYuYan rdf:resource="http://ws.nju.edu.cn/clinga/A108747"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A5668698"/>
+    <j.0:xingZhengZhangGuan rdf:resource="http://ws.nju.edu.cn/clinga/A1974890"/>
+    <j.0:diQuDaiMa>MAC</j.0:diQuDaiMa>
+    <j.0:xingZhengQuLeiBie rdf:resource="http://ws.nju.edu.cn/clinga/A1552694"/>
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2380083"/>
+    <j.0:renKou>63.62万(2014年)</j.0:renKou>
+    <j.0:huiGuiShiJian>1999年12月20日</j.0:huiGuiShiJian>
+    <j.0:renJunGDP>96444美元(2014年,国际汇率)</j.0:renJunGDP>
+    <j.0:huoBi rdf:resource="http://ws.nju.edu.cn/clinga/A2376690"/>
+    <j.0:zhengZhiTiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A457051"/>
+    <j.0:jiChang rdf:resource="http://ws.nju.edu.cn/clinga/A2392045"/>
+    <j.0:waiWenMingCheng rdf:resource="http://ws.nju.edu.cn/clinga/A314055"/>
+  </rdf:Description>
+</rdf:RDF>

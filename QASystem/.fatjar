@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Apr 08 14:32:38 CST 2018
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=E\:\\workspace\\RESystem\\RESystem.jar
+manifest.mergeall=true
+manifest.mainclass=cn.edu.nju.ws.GeoScholar.evaluate.MainTest
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=

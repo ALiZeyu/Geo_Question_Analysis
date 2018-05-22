@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://baike.com/resource/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://baike.com/resource/张季高">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人物"/>
+    <ns1:中文名 rdf:resource="http://baike.com/resource/张季高"/>
+    <ns1:出生年月 rdf:resource="http://baike.com/resource/1917年"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学家"/>
+    <ns1:国籍 rdf:resource="http://baike.com/resource/中国"/>
+    <ns1:代表作品 rdf:resource="http://baike.com/resource/《农业工程学概论》"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/学者农学家"/>
+    <ns1:籍贯 rdf:resource="http://baike.com/resource/中国江苏"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/教育人物"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/农业工程学家"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/教育家"/>
+    <ns1:性别 rdf:resource="http://baike.com/resource/男"/>
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/美国依阿华州立大学农业工程系攻读硕士学位研究生"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/张孝骞">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中华名人"/>
+    <ns1:政党 rdf:resource="http://baike.com/resource/中国共产党"/>
+    <ns1:中文名 rdf:resource="http://baike.com/resource/张孝骞"/>
+    <ns1:籍贯 rdf:resource="http://baike.com/resource/中国湖南省长沙市"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/医学家"/>
+    <ns1:代表作品 rdf:resource="http://baike.com/resource/社会实践》"/>
+    <ns1:国籍 rdf:resource="http://baike.com/resource/中国"/>
+    <ns1:别名 rdf:resource="http://baike.com/resource/字慎斋"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国科学院院士"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/医生内科专家教育医学教育家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/教授"/>
+    <ns1:代表作品 rdf:resource="http://baike.com/resource/《对于医学教育改革的建议》"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学家"/>
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/长沙湘雅医学院"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/医学"/>
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/美国康州医学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/数学物理部院士"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中科院院士"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人物"/>
+    <ns1:代表作品 rdf:resource="http://baike.com/resource/《基础"/>
+    <ns1:代表作品 rdf:resource="http://baike.com/resource/加速人才培养》"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学"/>
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/长沙长郡中学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国人"/>
+    <ns1:代表作品 rdf:resource="http://baike.com/resource/《改进医学教育"/>
+    <ns1:代表作品 rdf:resource="http://baike.com/resource/临床"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国科学家"/>
+    <ns1:去世年月 rdf:resource="http://baike.com/resource/1987年8月8日"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学领域人物"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/张存浩">
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/密西根大学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国科学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/数学物理部院士"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中科院院士"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/物理化学家激光化学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国化学家"/>
+    <ns1:籍贯 rdf:resource="http://baike.com/resource/山东无棣"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国科学院院士"/>
+    <ns1:中文名 rdf:resource="http://baike.com/resource/张存浩"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/英国皇家化学学会院士"/>
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/中央大学"/>
+    <ns1:出生年月 rdf:resource="http://baike.com/resource/1928年2月"/>
+    <ns1:出生地 rdf:resource="http://baike.com/resource/天津"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人物"/>
+    <ns1:国籍 rdf:resource="http://baike.com/resource/中国"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学"/>
+    <ns1:性别 rdf:resource="http://baike.com/resource/男"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/张培英">
+    <ns1:国籍 rdf:resource="http://baike.com/resource/中国"/>
+    <ns1:出生地 rdf:resource="http://baike.com/resource/河南"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/奢侈品金融"/>
+    <ns1:血型 rdf:resource="http://baike.com/resource/B"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/艺人"/>
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/安徽大学"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/创业投资"/>
+    <ns1:英文名 rdf:resource="http://baike.com/resource/paul"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/唐山名人"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/明星"/>
+    <ns1:中文名 rdf:resource="http://baike.com/resource/张培英"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/品牌经济学"/>
+    <ns1:民族 rdf:resource="http://baike.com/resource/汉族"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/名人"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人物"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/媒体人"/>
+    <ns1:籍贯 rdf:resource="http://baike.com/resource/河南沈丘"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学家"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/中国社会科学院民族学与人类学研究所">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/民族学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/研究所"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/安静娴">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/北京大学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/文化"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/烟台名人"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/医学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/工程师"/>
+    <ns1:中文名 rdf:resource="http://baike.com/resource/安静娴"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/数学物理部院士"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/院士"/>
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/北京大学医学院"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/女科学家"/>
+    <ns1:政党 rdf:resource="http://baike.com/resource/中国共产党"/>
+    <ns1:去世年月 rdf:resource="http://baike.com/resource/2015年7月10日"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国科学院院士"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/文学"/>
+    <ns1:出生年月 rdf:resource="http://baike.com/resource/1929年2月12日"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/高级工程师"/>
+    <ns1:性别 rdf:resource="http://baike.com/resource/女"/>
+    <ns1:出生地 rdf:resource="http://baike.com/resource/山东省烟台市人"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国工程院院士"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人物"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/教育"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/地理"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/名人"/>
+    <ns1:主要成就 rdf:resource="http://baike.com/resource/抗疟疾新药—脑疟佳等"/>
+    <ns1:国籍 rdf:resource="http://baike.com/resource/中国"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/埃林斯多夫人">
+    <ns1:亚种 rdf:resource="http://baike.com/resource/埃林斯多夫人"/>
+    <ns1:英文名 rdf:resource="http://baike.com/resource/Ehringsdorfman"/>
+    <ns1:分布 rdf:resource="http://baike.com/resource/德国魏玛郊区的埃林斯多夫"/>
+    <ns1:属 rdf:resource="http://baike.com/resource/人属"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/考古"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学"/>
+    <ns1:界 rdf:resource="http://baike.com/resource/动物界"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/德国"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/自然"/>
+    <ns1:种 rdf:resource="http://baike.com/resource/直立人"/>
+    <ns1:族 rdf:resource="http://baike.com/resource/人族"/>
+    <ns1:科 rdf:resource="http://baike.com/resource/人科"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/生物"/>
+    <ns1:亚科 rdf:resource="http://baike.com/resource/人亚科"/>
+    <ns1:中文学名 rdf:resource="http://baike.com/resource/埃林斯多夫人"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/社会科学"/>
+    <ns1:纲 rdf:resource="http://baike.com/resource/哺乳纲"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类"/>
+    <ns1:目 rdf:resource="http://baike.com/resource/灵长目"/>
+    <ns1:门 rdf:resource="http://baike.com/resource/脊索动物门"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/张培杲">
+    <ns1:出生年月 rdf:resource="http://baike.com/resource/1922年1月"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国科学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学家"/>
+    <ns1:中文名 rdf:resource="http://baike.com/resource/张培杲"/>
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/浙江大学"/>
+    <ns1:性别 rdf:resource="http://baike.com/resource/男"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学"/>
+    <ns1:代表作品 rdf:resource="http://baike.com/resource/《树木育种学》"/>
+    <ns1:国籍 rdf:resource="http://baike.com/resource/中国"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/科学科学家其他林木遗传育种学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/教育家"/>
+    <ns1:代表作品 rdf:resource="http://baike.com/resource/《森林遗传学实验新技术》"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人物"/>
+    <ns1:籍贯 rdf:resource="http://baike.com/resource/江苏省宜兴县棠下村"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/三星960BF">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/三星"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/电子"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科技产品"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/IT"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科技"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学技术"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/数码"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/显示器"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/液晶显示器"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/中东北非民族">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/北非"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/民族学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/西亚"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/张大煜">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国科学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中华名人"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/化学家"/>
+    <ns1:去世年月 rdf:resource="http://baike.com/resource/1989年2月20日"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国科学院院士"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/数学物理部院士"/>
+    <ns1:国籍 rdf:resource="http://baike.com/resource/中国"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人物"/>
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/清华大学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国化学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学家"/>
+    <ns1:籍贯 rdf:resource="http://baike.com/resource/江苏省江阴县"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中科院院士"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/科学物理化学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国人"/>
+    <ns1:性别 rdf:resource="http://baike.com/resource/男"/>
+    <ns1:出生年月 rdf:resource="http://baike.com/resource/1906年2月15日"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学"/>
+    <ns1:中文名 rdf:resource="http://baike.com/resource/张大煜"/>
+    <ns1:民族 rdf:resource="http://baike.com/resource/汉族"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/张学祖">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/农业教育家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/农业昆虫学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国名人"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/植物保护专家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国科学家"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/吴味经">
+    <ns1:中文名 rdf:resource="http://baike.com/resource/吴味经"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/学者"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/棉业专家"/>
+    <ns1:出生地 rdf:resource="http://baike.com/resource/浙江省东阳县"/>
+    <ns1:别名 rdf:resource="http://baike.com/resource/吴纬"/>
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/天津棉业专门学校"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中华名人"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/荣誉人物"/>
+    <ns1:去世年月 rdf:resource="http://baike.com/resource/1968年12月12日"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人物"/>
+    <ns1:代表作品 rdf:resource="http://baike.com/resource/《日本棉业调查》"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国人"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学家"/>
+    <ns1:国籍 rdf:resource="http://baike.com/resource/中国"/>
+    <ns1:民族 rdf:resource="http://baike.com/resource/汉族"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/张子高">
+    <ns1:代表作品 rdf:resource="http://baike.com/resource/中国古代化学史"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中华名人"/>
+    <ns1:代表作品 rdf:resource="http://baike.com/resource/中国化学史稿"/>
+    <ns1:别名 rdf:resource="http://baike.com/resource/名准"/>
+    <ns1:主要成就 rdf:resource="http://baike.com/resource/中国化学史研究的开拓者"/>
+    <ns1:别名 rdf:resource="http://baike.com/resource/字子高"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人物"/>
+    <ns1:国籍 rdf:resource="http://baike.com/resource/中国"/>
+    <ns1:中文名 rdf:resource="http://baike.com/resource/张子高"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/学者"/>
+    <ns1:民族 rdf:resource="http://baike.com/resource/汉族"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学家"/>
+    <ns1:出生地 rdf:resource="http://baike.com/resource/湖北枝江"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学"/>
+    <ns1:去世年月 rdf:resource="http://baike.com/resource/1976年12月11日"/>
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/麻省理工学院"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/化学家和化学教育家"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/张应强">
+    <ns1:性别 rdf:resource="http://baike.com/resource/男"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/学者"/>
+    <ns1:出生地 rdf:resource="http://baike.com/resource/湖北省天门市"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/华中科技大学教师"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/教授高等教育学专业博士生导师"/>
+    <ns1:国籍 rdf:resource="http://baike.com/resource/中国"/>
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/厦门大学"/>
+    <ns1:中文名 rdf:resource="http://baike.com/resource/张应强"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/高等教育"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中山大学"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/华中科技大学教育科学研究院副院长"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/文化人物"/>
+    <ns1:出生年月 rdf:resource="http://baike.com/resource/1964年2月"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人物"/>
+    <ns1:籍贯 rdf:resource="http://baike.com/resource/湖北省天门市"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/技术预测">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/技术"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/萃智"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/预测学"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/可信平台模块">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学技术"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/电脑安全"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/密码学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科技"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/石青云">
+    <ns1:中文名 rdf:resource="http://baike.com/resource/石青云"/>
+    <ns1:主要成就 rdf:resource="http://baike.com/resource/癌细胞识别的形状特征和树分类器"/>
+    <ns1:性别 rdf:resource="http://baike.com/resource/女"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/院士"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国科学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中科院院士"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学家"/>
+    <ns1:去世年月 rdf:resource="http://baike.com/resource/2002年12月9日"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国科学院院士"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/女科学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人物"/>
+    <ns1:出生年月 rdf:resource="http://baike.com/resource/1936年8月14日"/>
+    <ns1:国籍 rdf:resource="http://baike.com/resource/中国"/>
+    <ns1:政党 rdf:resource="http://baike.com/resource/中国共产党"/>
+    <ns1:民族 rdf:resource="http://baike.com/resource/汉族"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学"/>
+    <ns1:籍贯 rdf:resource="http://baike.com/resource/四川合川县"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/唐孝炎">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国工程院院士"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/数学物理部院士"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/中国科学院院士"/>
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/北京大学化学系"/>
+    <ns1:籍贯 rdf:resource="http://baike.com/resource/江苏太仓"/>
+    <ns1:职业 rdf:resource="http://baike.com/resource/科学化学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/女科学家"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/各国历史人物"/>
+    <ns1:性别 rdf:resource="http://baike.com/resource/女"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人物"/>
+    <ns1:中文名 rdf:resource="http://baike.com/resource/唐孝炎"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/院士"/>
+    <ns1:出生年月 rdf:resource="http://baike.com/resource/1932年"/>
+    <ns1:毕业院校 rdf:resource="http://baike.com/resource/"/>
+    <ns1:国籍 rdf:resource="http://baike.com/resource/中国"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/张先清">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/民族学"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/通用流感疫苗">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/生活"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/尖端医学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/健康"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学技术"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/指长比率">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/发育生物学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/遗传学"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/志高空调KFR-25GW/FD(F59A)">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/空调"/>
+    <ns1:中文名 rdf:resource="http://baike.com/resource/志高空调KFR-25GW/FD(F59A)"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/电子"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/电器"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/技术"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科技"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学技术"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/张佩国">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类学"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/珠海市科学技术协会">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/广东"/>
+    <ns1:中文名称 rdf:resource="http://baike.com/resource/珠海市科学技术协会"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/政府机构"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学技术"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/珠海"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/协会"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/中国人类学学会">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类学"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/接口测试">
+    <ns1:中文名 rdf:resource="http://baike.com/resource/接口测试"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学技术"/>
+    <ns1:应用 rdf:resource="http://baike.com/resource/计算机"/>
+    <ns1:英文名 rdf:resource="http://baike.com/resource/Interfacetesting"/>
+    <ns1:属性 rdf:resource="http://baike.com/resource/接口"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/计算机术语"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/中国人人体尺寸测量">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/学科"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科技"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类学"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/责任动力学">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/管理学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/社会学"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/通话机械人">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/通信技术"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学技术"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科技产品"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/札赉诺尔人">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/考古"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/历史"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类学"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/中央民族大学民族学人类学研究所">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/研究所"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/社会科学"/>
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/人类学"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/单光子探测器">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学技术"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://baike.com/resource/直接碳燃料电池">
+    <ns1:开放分类 rdf:resource="http://baike.com/resource/科学技术"/>
+  </rdf:Description>
+</rdf:RDF>

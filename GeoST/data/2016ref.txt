@@ -1,0 +1,88 @@
+﻿本_DT 届_M 大会_NN 期间_NN ，_PU 北京_NR 适逢_VV 中国_NR 农历_NN 处暑_NN 节气_NN
+本_DT 届_M 大会_NN 期间_NN ，_PU 北京_NR 八达岭长城_NR 漫山红叶_VA   
+本_DT 届_M 大会_NN 期间_NN ，_PU 北京_NR 比_P 首尔_NR 正午太阳高度_NN 大_VA
+本_DT 届_M 大会_NN 期间_NN ，_PU 北京_NR 比_P 华盛顿_NR 日出时间_NN 晚_VA
+举办地_NN 所在_VV 国家_NN 位于_VV 北半球_NN 中纬度_NN
+举办地_NN 所在_VV 国家_NN 地处_VV 环太平洋灾害带_NN
+举办地_NN 所在_VV 国家_NN 人口_NN 增长_NN 模式_NN 不同_VA
+举办地_NN 所在_VV 国家_NN 南部_NN 沿海_NN 有_VE 寒流_NN 经过_VV
+该_DT 日_NN 20时_NT 北京_NR 大风扬沙_VV ，_PU 空气_NN 污染_NN 加重_VV
+该_DT 日_NN 20时_NT 东海_NR 海域_NN 天气_NN 晴朗_VA ，_PU 风大浪高_VA
+该_DT 日_NN 20时_NT 低压_NN 天气系统_NN 中_LC ，_PU P_NN 强度_NN 最_AD 强_VA
+该_DT 日_NN 20时_NT Q地_NN 位于_VV 暖锋_NN 锋前_LC ，_PU 出现_VV 降水_NN
+平顶海山_NN 为_VC 褶皱山_NN
+平顶海山_NN 由_P 沉积岩_NN 构成_VV
+平顶海山_NN 顶部_NN 形态_NN 由_P 内力作用_NN 塑造_VV
+平顶海山_NN 随着_P 板块_NN 的_DEG 移动_NN 没入_VV 水下_NN
+①处_NN 冰川_NN 融化_VV ，_PU 湖泊_NN 水位_NN 升高_VV
+②处_NN 流量_NN 稳定_VA ，_PU 河流_NN 的_DEG 落差_NN 小_VA
+③处_NN 谷_NN 宽_VA 、_PU 流速_NN 慢_VA ，_PU 适宜_VV 修建_VV 水库_NN
+④处_NN 地形_NN 平坦_VA ，_PU 农业_NN 生产_NN 条件_NN 优越_VA
+若_CS 该_DT 图_NN 示意_VV 中国_NR 某_DT 流域_NN ，_PU 图_NN 中_LC 地物_NN 按_P 1:10万_CD 比例_NN 描绘_VV ，_PU 特征_NN 清晰_VA
+若_CS 该_DT 图_NN 示意_VV 中国_NR 某_DT 流域_NN ，_PU 图_NN 中_LC 冰川_NR 地处_VV 新疆_NR ，_PU 覆盖_NN 范围_NN 沿_P 山脊_NN 延伸_VV
+若_CS 该_DT 图_NN 示意_VV 中国_NR 某_DT 流域_NN ，_PU 图_NN 中_LC 径流_NN 季节_NN 变化_NN 大_VA ，_PU 存在_VV 不同_JJ 程度_NN 水患_NN
+若_CS 该_DT 图_NN 示意_VV 中国_NR 某_DT 流域_NN ，_PU 图_NN 中_LC 海域_NN 位于_VV 北回归线_NR 以南_LC ，_PU 港口_NN 数量_NN 少_VA
+气温日较差_NN 大_VA 的_DEC 月份_NN 是_VC 1月_NT
+气温日较差_NN 大_VA 的_DEC 月份_NN 是_VC 4月_NT
+气温日较差_NN 大_VA 的_DEC 月份_NN 是_VC 7月_NT
+气温日较差_NN 大_VA 的_DEC 月份_NN 是_VC 10月_NT
+该_DT 山地_NN 冬季_NN 受_VV 副热带高压带_NN 控制_VV
+该_DT 山地_NN 因_P 台风_NN 暴雨_NN 引发_VV 的_DEC 滑坡_NN 多_VA
+该_DT 山地_NN 基带_NN 的_DEG 景观_NN 为_VC 热带雨林_NN
+该_DT 山地_NN 山顶_NN 海拔_NN 低于_VV 1000_CD 米_M
+芬兰_NR 盛行_VV 西风_NN ，_PU 终年_AD 温和_VA 多雨_VA
+芬兰_NR 山区_NN 水土流失_NN 严重_VA ，_PU 城镇_NN 数量_NN 少_VA
+芬兰_NR 人口_NN 稀疏区_NN 以_P 大牧场放牧业_NN 为主_VV
+芬兰_NR 森林_NN 资源_NN 丰富_VA ，_PU 木材_NN 加工业_NN 发达_VA
+燕麦_NN 种植_NN 北界_NN 呈_VV 图示_VV 走向_NN ，_PU 是_VC 由于_P 该_DT 国_NN 东部_NN 地区_NN 的_DEG 河湖_NN 密布_VA ，_PU 灌溉_NN 条件_NN 好_VA
+燕麦_NN 种植_NN 北界_NN 呈_VV 图示_VV 走向_NN ，_PU 是_VC 由于_P 该_DT 国_NN 西部_NN 受_VV 暖流_NN 、_PU 地形_NN 影响_NN ，_PU 气温_NN 偏_AD 高_VA
+燕麦_NN 种植_NN 北界_NN 呈_VV 图示_VV 走向_NN ，_PU 是_VC 由于_P 该_DT 国_NN 东南部_NN 土层_NN 较_AD 深厚_VA ，_PU 耕作_NN 技术_NN 高_VA
+燕麦_NN 种植_NN 北界_NN 呈_VV 图示_VV 走向_NN ，_PU 是_VC 由于_P 该_DT 国_NN 西北部_NN 多_VV 晴朗_JJ 天气_NN ，_PU 日照时间_NN 长_VA
+甲区_NN 多_VV 公共_JJ 服务_NN 设施_NN ，_PU 靠近_VV 住宅区_NN
+乙_NN 是_VC 位于_VV 郊区_NN 的_DEC 高新_JJ 技术_NN 产业_NN 园区_NN
+丙区_NN 商业_NN 网点_NN 等级_NN 低_VA ，_PU 服务_NN 半径_NN 小_VA
+丁_NN 为_VC 中心商务区_NN ，_PU 能耗_NN 昼夜_NN 差异_NN 大_VA
+河流_NN 中心_NN 半岛_NN 上_LC 农田_NN 呈现_VV 圆形_NN 是_VC 由于_P 作物_NN 喷灌_NN 方式_NN
+河流_NN 中心_NN 半岛_NN 上_LC 农田_NN 呈现_VV 圆形_NN 是_VC 由于_P 地形_NN 崎岖不平_VA
+河流_NN 中心_NN 半岛_NN 上_LC 农田_NN 呈现_VV 圆形_NN 是_VC 由于_P 作物_NN 耕作_NN 模式_NN
+河流_NN 中心_NN 半岛_NN 上_LC 农田_NN 呈现_VV 圆形_NN 是_VC 由于_P 土地_NN 资源_NN 短缺_VA
+推测_VV 农田_NN 作物_NN 是_VC 冬小麦_NN
+推测_VV 农田_NN 作物_NN 是_VC 玉米_NN
+推测_VV 农田_NN 作物_NN 是_VC 水稻_NN
+推测_VV 农田_NN 作物_NN 是_VC 马铃薯_NN
+曲流_NN 上游_NN 水坝_NN 修建_NN 会_VV 使_VV 半岛_NN 加速_AD 成为_VV 岛屿_NN
+曲流_NN 上游_NN 水坝_NN 修建_NN 会_VV 使_VV 泥沙_NN 出现_VV 大量_CD 沉积_NN
+曲流_NN 上游_NN 水坝_NN 修建_NN 会_VV 使_VV 下游_NN 径流量_NN 季节_NN 变化_NN 减小_VV
+曲流_NN 上游_NN 水坝_NN 修建_NN 会_VV 使_VV 紧接_VV 坝体_NN 河段_NN 结冰期_NN 延长_VV
+图示_VV 地区_NN 的_DEG 地貌_NN 类型_NN 分别_AD 是_VC 背斜山地_NN
+图示_VV 地区_NN 的_DEG 地貌_NN 类型_NN 分别_AD 是_VC 背斜谷地_NN
+图示_VV 地区_NN 的_DEG 地貌_NN 类型_NN 分别_AD 是_VC 向斜谷地_NN
+图示_VV 地区_NN 的_DEG 地貌_NN 类型_NN 分别_AD 是_VC 向斜山地_NN
+四_CD 地_NN 符合_VV 实际_NN 的_DEC 是_VC 甲处_NN 垂直_JJ 高差_NN 是_VC 1190_CD 米_M
+四_CD 地_NN 符合_VV 实际_NN 的_DEC 是_VC 乙处_NN 岩层_NN 中_LC 找到_VV 化石_NN
+四_CD 地_NN 符合_VV 实际_NN 的_DEC 是_VC 丙处_NN 发展_VV 成为_VV 河流_NN
+四_CD 地_NN 符合_VV 实际_NN 的_DEC 是_VC 丁处_NN 山体_NN 坡度_NN 较缓_VA
+该_DT 地_NN 该_DT 日_NN 的_DEG 天气_NN 状况_NN 是_VC 上午_NT 10时_NT 无_VE 降水_NN 过程_NN
+该_DT 地_NN 该_DT 日_NN 的_DEG 天气_NN 状况_NN 是_VC 上午_NT 和_CC 下午_NT 均_AD 有_VE 降水_NN 过程_NN
+该_DT 地_NN 该_DT 日_NN 的_DEG 天气_NN 状况_NN 是_VC 随着_P 气温_NN 升高_VV ，_PU 相对_AD 湿度_NN 不断_AD 增大_VV
+该_DT 地_NN 该_DT 日_NN 的_DEG 天气_NN 状况_NN 是_VC 下午_NT 降水量_NN 大于_VV 上午_NT
+“_PU 彩虹_NN ”_PU 移动_NN 路径_NN 受_VV 东南季风_NN 影响_NN
+“_PU 彩虹_NN ”_PU 势力_NN 在_P 逐渐_AD 增强_VV
+“_PU 彩虹_NN ”_PU 登陆_NN 是_VC 其_PN 势力_NN 的_DEG 鼎盛期_NN
+“_PU 彩虹_NN ”_PU 产生_VV 于_P 东_NN 太平洋_NN 热带_NN 海面_NN
+“_PU 彩虹_NN ”_PU 对_P 海南岛_NR 的_DEG 影响_NN 有_VE 利于_VV 风力发电_NN
+“_PU 彩虹_NN ”_PU 对_P 海南岛_NR 的_DEG 影响_NN 有_VE 减轻_VV 当地_NN 的_DEG 伏旱_NN 影响_NN
+“_PU 彩虹_NN ”_PU 对_P 海南岛_NR 的_DEG 影响_NN 有_VE 威胁_VV 旅游_NN 安全_NN
+“_PU 彩虹_NN ”_PU 对_P 海南岛_NR 的_DEG 影响_NN 有_VE 宜于_VV 观看_VV 大潮_NN
+“_PU 彩虹_NN ”_PU 登陆_VV 广州_NR 之_DEG 日_NN 太阳直射点_NN 在_VV 赤道_NN 与_CC 北回归线_NN 之间_LC
+“_PU 彩虹_NN ”_PU 登陆_VV 广州_NR 之_DEG 日_NN 北极圈_NN 内_LC 有_VE 极昼_NN 现象_NN
+“_PU 彩虹_NN ”_PU 登陆_VV 广州_NR 之_DEG 日_NN 我国_NR 越_AD 往北_VV 白昼时间_NN 越_AD 长_VA
+“_PU 彩虹_NN ”_PU 登陆_VV 广州_NR 之_DEG 日_NN 我国_NR 日出时间_NN 在_P 6:00_NT 之后_LC
+图6（a）_NN 和_CC （_PU b_NN ）_PU 表示_VV 的_DEC 时段_NN 分别_AD 是_VC 07:00_NT -_PU 09:00_NT ;_PU 11:00_NT -_PU 13:00_NT
+图6（a）_NN 和_CC （_PU b_NN ）_PU 表示_VV 的_DEC 时段_NN 分别_AD 是_VC 09:00_NT -_PU 11:00_NT ;_PU 17:00_NT -_PU 19:00_NT
+图6（a）_NN 和_CC （_PU b_NN ）_PU 表示_VV 的_DEC 时段_NN 分别_AD 是_VC 11:00_NT -_PU 13:00_NT ;_PU 15:00_NT -_PU 17:00_NT
+图6（a）_NN 和_CC （_PU b_NN ）_PU 表示_VV 的_DEC 时段_NN 分别_AD 是_VC 07:00_NT -_PU 09:00_NT ;_PU 17:00_NT -_PU 19:00_NT
+为_P 缓解_VV 图示_VV 现象_NN ，_PU 可以_VV 优化_VV 城市_NN 居住_NN 环境_NN
+为_P 缓解_VV 图示_VV 现象_NN ，_PU 可以_VV 加快_VV 市中心_NN 职能_NN 疏散_VV
+为_P 缓解_VV 图示_VV 现象_NN ，_PU 可以_VV 积极_AD 发展_VV 第三产业_NN
+为_P 缓解_VV 图示_VV 现象_NN ，_PU 可以_VV 大力_AD 发展_VV 公共_JJ 交通_NN

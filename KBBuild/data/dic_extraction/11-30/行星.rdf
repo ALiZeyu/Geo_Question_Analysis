@@ -1,0 +1,222 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://ws.nju.edu.cn/clinga/">
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2340874">
+    <j.0:pingJunMiDu>1.318g/cm³</j.0:pingJunMiDu>
+    <j.0:faXianShiJian>1781年3月</j.0:faXianShiJian>
+    <j.0:liXinLv>0.044405586</j.0:liXinLv>
+    <j.0:zhiJing>51118km</j.0:zhiJing>
+    <j.0:gongZhuanZhouQi>84.323326年</j.0:gongZhuanZhouQi>
+    <j.0:ziZhuanZhouQi>17时14分24秒</j.0:ziZhuanZhouQi>
+    <j.0:guangHuanHouDu>1.6千米</j.0:guangHuanHouDu>
+    <j.0:shengJiaoDianJingDu>73.99°</j.0:shengJiaoDianJingDu>
+    <j.0:taoYiSuDu>21.3km/s</j.0:taoYiSuDu>
+    <j.0:zhiLiang>8.6810±13×10²⁵kg</j.0:zhiLiang>
+    <j.0:zhuYin>ㄊㄧㄢㄨㄤˊㄒㄧㄥ</j.0:zhuYin>
+    <j.0:weiXingShu>27颗</j.0:weiXingShu>
+    <j.0:fenLei>远日行星</j.0:fenLei>
+    <j.0:daQiGouCheng>氢(H)氦(He)甲烷(CH₄)</j.0:daQiGouCheng>
+    <j.0:zhongWenMing>天王星</j.0:zhongWenMing>
+    <j.0:yuTaiYangDeJuLi>28.69亿千米</j.0:yuTaiYangDeJuLi>
+    <j.0:waiWenMing>Uranus</j.0:waiWenMing>
+    <j.0:guiDaoQingJiao>0.77°</j.0:guiDaoQingJiao>
+    <j.0:faXianZhe rdf:resource="http://ws.nju.edu.cn/clinga/A2309539"/>
+    <j.0:ziZhuanFangXiang>顺时针</j.0:ziZhuanFangXiang>
+    <j.0:biaoMianWenDu>-180℃</j.0:biaoMianWenDu>
+    <j.0:banZhangZhou>2,876,679,082km</j.0:banZhangZhou>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2355089">
+    <j.0:guiDaoQingJiao>7.00487°</j.0:guiDaoQingJiao>
+    <j.0:shiXingDeng>-1.9</j.0:shiXingDeng>
+    <j.0:pingJunBanJing>2440km</j.0:pingJunBanJing>
+    <j.0:taoYiSuDu>4.435km/s</j.0:taoYiSuDu>
+    <j.0:zhiJing>4878km</j.0:zhiJing>
+    <j.0:lingRiXianXiang>最近一次将发生在2016年5月9日</j.0:lingRiXianXiang>
+    <j.0:faXianZhe>闪族人</j.0:faXianZhe>
+    <j.0:faXianShiJian>公元前3000年左右</j.0:faXianShiJian>
+    <j.0:biaoMianWenDu>427℃(白天)、-183℃(夜晚)</j.0:biaoMianWenDu>
+    <j.0:bieCheng rdf:resource="http://ws.nju.edu.cn/clinga/A3123310"/>
+    <j.0:juTaiYangJuLi>5800万千米</j.0:juTaiYangJuLi>
+    <j.0:zhuYin>ㄕㄨㄟˇㄒㄧㄥ</j.0:zhuYin>
+    <j.0:pingJunMiDu>5.427g/cm³</j.0:pingJunMiDu>
+    <j.0:waiWenMing>Mercury</j.0:waiWenMing>
+    <j.0:biaoMianJi>7.48×10⁷㎞²</j.0:biaoMianJi>
+    <j.0:gongZhuanZhouQi>87.969日</j.0:gongZhuanZhouQi>
+    <j.0:zhongWenMing>水星</j.0:zhongWenMing>
+    <j.0:fenLei>八大行星</j.0:fenLei>
+    <j.0:pinYin>ShuiXing</j.0:pinYin>
+    <j.0:ziZhuanZhouQi>58.646日</j.0:ziZhuanZhouQi>
+    <j.0:tiJi>6.083×10¹⁰㎞³</j.0:tiJi>
+    <j.0:zhiLiang>3.3022×10²³kg</j.0:zhiLiang>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A103353">
+    <j.0:shiXingDeng>-2.9</j.0:shiXingDeng>
+    <j.0:bieCheng rdf:resource="http://ws.nju.edu.cn/clinga/A903053"/>
+    <j.0:pinYin>mùxīng</j.0:pinYin>
+    <j.0:taoYiSuDu>60.2㎞/s</j.0:taoYiSuDu>
+    <j.0:pianXinLv>0.048912</j.0:pianXinLv>
+    <j.0:fenLei>行星</j.0:fenLei>
+    <j.0:zhiJing>142987千米</j.0:zhiJing>
+    <j.0:pingJunMiDu>1.326g/cm³,</j.0:pingJunMiDu>
+    <j.0:faXianZhe rdf:resource="http://ws.nju.edu.cn/clinga/A2364094"/>
+    <j.0:guiDaoQingJiao>1.30530度</j.0:guiDaoQingJiao>
+    <j.0:zhongWenMing>木星</j.0:zhongWenMing>
+    <j.0:zhiLiang>1.90×10²⁷千克</j.0:zhiLiang>
+    <j.0:biaoMianWenDu>-168℃</j.0:biaoMianWenDu>
+    <j.0:banZhangZhou>5.20336301AU</j.0:banZhangZhou>
+    <j.0:ziZhuanZhouQi>9小时50分30秒</j.0:ziZhuanZhouQi>
+    <j.0:waiWenMing>Jupiter</j.0:waiWenMing>
+    <j.0:faXianShiJian>1610年</j.0:faXianShiJian>
+    <j.0:shengJiaoDianJingDu>100.55615度</j.0:shengJiaoDianJingDu>
+    <j.0:gongZhuanZhouQi>11.86年</j.0:gongZhuanZhouQi>
+    <j.0:zhuYin>ㄇㄨˋㄒㄧㄥ</j.0:zhuYin>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2323911">
+    <j.0:jueDuiXingDeng>7.244</j.0:jueDuiXingDeng>
+    <j.0:zhiLiang>1.0247×10²⁶千克</j.0:zhiLiang>
+    <j.0:zuiDaWeiXing>海卫一(直径2705千米)</j.0:zuiDaWeiXing>
+    <j.0:faXianZhe rdf:resource="http://ws.nju.edu.cn/clinga/A3775154"/>
+    <j.0:teShuXing>笔尖下的行星</j.0:teShuXing>
+    <j.0:yuanRiDian>4,553,946,490km</j.0:yuanRiDian>
+    <j.0:biaoMianWenDu>-214℃</j.0:biaoMianWenDu>
+    <j.0:waiWenMing>Neptune</j.0:waiWenMing>
+    <j.0:jinRiDian>4,452,940,833km</j.0:jinRiDian>
+    <j.0:gongZhuanZhouQi>60191.91456日</j.0:gongZhuanZhouQi>
+    <j.0:zhiJing>49,532千米</j.0:zhiJing>
+    <j.0:faXianZhe rdf:resource="http://ws.nju.edu.cn/clinga/A2392148"/>
+    <j.0:pingJunMiDu>1.66g/cm³</j.0:pingJunMiDu>
+    <j.0:fanZhaoLv>3444</j.0:fanZhaoLv>
+    <j.0:taoYiSuDu>23.5km/s</j.0:taoYiSuDu>
+    <j.0:fenLei>行星</j.0:fenLei>
+    <j.0:guiDaoQingJiao>1.769°</j.0:guiDaoQingJiao>
+    <j.0:faXianShiJian>1846年9月23日</j.0:faXianShiJian>
+    <j.0:shiXingDeng>7.85</j.0:shiXingDeng>
+    <j.0:weiXingShuLiang>14</j.0:weiXingShuLiang>
+    <j.0:zhongWenMing>海王星</j.0:zhongWenMing>
+    <j.0:liXinLv>0.01125</j.0:liXinLv>
+    <j.0:ziZhuanZhouQi>15h57min59s</j.0:ziZhuanZhouQi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A106509">
+    <j.0:guiDaoXianSuDu>34884㎞/h</j.0:guiDaoXianSuDu>
+    <j.0:huangChiJiaoJiao>26.73°</j.0:huangChiJiaoJiao>
+    <j.0:zhongWenMing>土星</j.0:zhongWenMing>
+    <j.0:guiDaoQingJiao>2.5°</j.0:guiDaoQingJiao>
+    <j.0:gongZhuanZhouQi>29.53216年</j.0:gongZhuanZhouQi>
+    <j.0:zuiDaWeiXing>土卫六(半径2575㎞)</j.0:zuiDaWeiXing>
+    <j.0:faXianZhe rdf:resource="http://ws.nju.edu.cn/clinga/A2364094"/>
+    <j.0:taoYiSuDu>35.49km/s</j.0:taoYiSuDu>
+    <j.0:zhiLiang>95.16(地球为1),5.688×10²⁶kg</j.0:zhiLiang>
+    <j.0:pingJunMiDu>0.70g/cm³</j.0:pingJunMiDu>
+    <j.0:weiXingShuLiang>62(已确认)</j.0:weiXingShuLiang>
+    <j.0:fanZhaoLv>0.57</j.0:fanZhaoLv>
+    <j.0:zhuYin>ㄊㄨˇㄒㄧㄥ</j.0:zhuYin>
+    <j.0:bieCheng>镇星</j.0:bieCheng>
+    <j.0:waiWenMing>Saturn</j.0:waiWenMing>
+    <j.0:fenLei>行星(巨行星)</j.0:fenLei>
+    <j.0:faXianShiJian>1684年</j.0:faXianShiJian>
+    <j.0:faXianZhe rdf:resource="http://ws.nju.edu.cn/clinga/A2336119"/>
+    <j.0:shiXingDeng>-0.4~1.3</j.0:shiXingDeng>
+    <j.0:biaoMianWenDu>-191.15℃~-130.15℃</j.0:biaoMianWenDu>
+    <j.0:ziZhuanZhouQi>10.546h</j.0:ziZhuanZhouQi>
+    <j.0:daQiCengZuCheng>氢、氦</j.0:daQiCengZuCheng>
+    <j.0:faXianZhe rdf:resource="http://ws.nju.edu.cn/clinga/A2335078"/>
+    <j.0:zhiJing>120536㎞</j.0:zhiJing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2360986">
+    <j.0:liXinLv>0.244671664(J2000)0.24880766(平均值)</j.0:liXinLv>
+    <j.0:biaoMianZhongLi>0.655m/s²</j.0:biaoMianZhongLi>
+    <j.0:tiJi>6.39×10⁹km³</j.0:tiJi>
+    <j.0:jinRiDian>29.657天文单位(4.437×10⁹km)</j.0:jinRiDian>
+    <j.0:beiJiChiJing>132.993°</j.0:beiJiChiJing>
+    <j.0:yiZhiWeiXingShuLiang>5</j.0:yiZhiWeiXingShuLiang>
+    <j.0:jueDuiXingDeng>-0.8</j.0:jueDuiXingDeng>
+    <j.0:taoYiSuDu>1.229km/s</j.0:taoYiSuDu>
+    <j.0:juDiJuLi>5.9×10⁹km</j.0:juDiJuLi>
+    <j.0:yuanRiDian>48.871天文单位(7.311×10⁹km)</j.0:yuanRiDian>
+    <j.0:pingJinDianJiao>14.85度</j.0:pingJinDianJiao>
+    <j.0:guiDaoQingJiao>17.1449°</j.0:guiDaoQingJiao>
+    <j.0:waiWenMing>Pluto</j.0:waiWenMing>
+    <j.0:fanZhaoLv>0.49到0.66(几何,有35%浮动)</j.0:fanZhaoLv>
+    <j.0:daQiCengGouCheng>甲烷、氮气、一氧化碳</j.0:daQiCengGouCheng>
+    <j.0:pingJunMiDu>2.03±0.06g/cm³</j.0:pingJunMiDu>
+    <j.0:beiJiChiWei>−6.163°</j.0:beiJiChiWei>
+    <j.0:biaoMianWenDu>平均零下229℃</j.0:biaoMianWenDu>
+    <j.0:zhiJing>2370±20千米</j.0:zhiJing>
+    <j.0:gongZhuanZhouQi>247.68年(90465天)</j.0:gongZhuanZhouQi>
+    <j.0:huiHeZhouQi>366.73日</j.0:huiHeZhouQi>
+    <j.0:fenLei>矮行星;太阳系的行星(已排除)</j.0:fenLei>
+    <j.0:mingMingZhe>威尼斯•伯妮</j.0:mingMingZhe>
+    <j.0:banZhangZhou>39.264天文单位(5.874×10⁹km)</j.0:banZhangZhou>
+    <j.0:ziZhuanZhouQi>6日9小时17分36秒</j.0:ziZhuanZhouQi>
+    <j.0:gongZhuanPingJunSuDu>4.7km/s</j.0:gongZhuanPingJunSuDu>
+    <j.0:shiXingDeng>13.65~16.3(平均15.1)</j.0:shiXingDeng>
+    <j.0:faXianZhe rdf:resource="http://ws.nju.edu.cn/clinga/A2123252"/>
+    <j.0:faXianShiJian>1930年2月18日</j.0:faXianShiJian>
+    <j.0:shengJiaoDianJingDu>110.28683°</j.0:shengJiaoDianJingDu>
+    <j.0:zhiLiang>1.305±0.007×10²²kg</j.0:zhiLiang>
+    <j.0:zhongWenMing>冥王星</j.0:zhongWenMing>
+    <j.0:bieCheng rdf:resource="http://ws.nju.edu.cn/clinga/A317873"/>
+    <j.0:biaoMianJi>1.665×10⁷km²</j.0:biaoMianJi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2371531">
+    <j.0:zhongWenMing>火星</j.0:zhongWenMing>
+    <j.0:shiXingDeng>最大:-2.91,冲:平均-2.0</j.0:shiXingDeng>
+    <j.0:juDiJuLi>0.55~4亿千米</j.0:juDiJuLi>
+    <j.0:zhiLiang>6.4219×10²³kg</j.0:zhiLiang>
+    <j.0:chuXianLe>火星生物</j.0:chuXianLe>
+    <j.0:taoYiSuDu>5.02km/s</j.0:taoYiSuDu>
+    <j.0:shengJiaoDianJingDu>49.57854°</j.0:shengJiaoDianJingDu>
+    <j.0:biaoMianYinLi>3.72m/s^2</j.0:biaoMianYinLi>
+    <j.0:guiDaoQingJiao>1.85061°(对太阳赤道5.65°)</j.0:guiDaoQingJiao>
+    <j.0:ziZhuanZhouQi>24.6229h</j.0:ziZhuanZhouQi>
+    <j.0:fenLei>行星</j.0:fenLei>
+    <j.0:gongZhuanZhouQi>687天</j.0:gongZhuanZhouQi>
+    <j.0:banZhangZhou>2.2793664亿公里</j.0:banZhangZhou>
+    <j.0:chiWei>23度19分</j.0:chiWei>
+    <j.0:fanZhaoLv>0.15</j.0:fanZhaoLv>
+    <j.0:juLiTaiYang>22794万千米</j.0:juLiTaiYang>
+    <j.0:chiJing>4时57分</j.0:chiJing>
+    <j.0:liXinLv>0.09341233</j.0:liXinLv>
+    <j.0:zhiJing>6794km</j.0:zhiJing>
+    <j.0:faXianZhe>史前时代就已经为人类所知</j.0:faXianZhe>
+    <j.0:weiXingShuLiang>2</j.0:weiXingShuLiang>
+    <j.0:bieCheng>荧惑,战神玛尔斯</j.0:bieCheng>
+    <j.0:pingJunMiDu>3.94g/cm³</j.0:pingJunMiDu>
+    <j.0:biaoMianWenDu>-63℃</j.0:biaoMianWenDu>
+    <j.0:waiWenMing>Mars</j.0:waiWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A0">
+    <j.0:zhiJing>12756千米</j.0:zhiJing>
+    <j.0:zuiDaGongZhuanSuDu>30.287km/s(109,033km/h)</j.0:zuiDaGongZhuanSuDu>
+    <j.0:fanZhaoLv>0.367</j.0:fanZhaoLv>
+    <j.0:gongZhuanZhouQi>一年(365.24219天)</j.0:gongZhuanZhouQi>
+    <j.0:chiDaoXuanZhuanSuLv>465.11m/s</j.0:chiDaoXuanZhuanSuLv>
+    <j.0:zongHengBi>0.9966471</j.0:zongHengBi>
+    <j.0:yuanRiDianJuLi>152,097,701.0km</j.0:yuanRiDianJuLi>
+    <j.0:biaoMianWenDu rdf:resource="http://ws.nju.edu.cn/clinga/A2422971"/>
+    <j.0:guiDaoQingJiao>0(7.25°至太阳赤道)</j.0:guiDaoQingJiao>
+    <j.0:banZhangZhou>149,597,887.5km</j.0:banZhangZhou>
+    <j.0:pingJunGongZhuanSuDu>29.783km/s(107,218km/h)</j.0:pingJunGongZhuanSuDu>
+    <j.0:guiDaoBanDuanZhou>149,576,999.826km</j.0:guiDaoBanDuanZhou>
+    <j.0:tiJi>1.0832073×10^12km³</j.0:tiJi>
+    <j.0:zhiLiang>5.965×10^24kg</j.0:zhiLiang>
+    <j.0:weiXing>月球</j.0:weiXing>
+    <j.0:chiJing>未定义</j.0:chiJing>
+    <j.0:zhongWenMing>地球</j.0:zhongWenMing>
+    <j.0:bieCheng>盖亚(Gaia)</j.0:bieCheng>
+    <j.0:guiDaoZhouZhang>924,375,700.0km</j.0:guiDaoZhouZhang>
+    <j.0:yuZhouSuDu>11.186km/s(39600km/h)</j.0:yuZhouSuDu>
+    <j.0:hengXingRi>0.997258d(23.934h)</j.0:hengXingRi>
+    <j.0:liXinLv>0.016710219</j.0:liXinLv>
+    <j.0:ziZhuanZhouQi>23h56min4s</j.0:ziZhuanZhouQi>
+    <j.0:jinRiDianJuLi>147,098,074.0km</j.0:jinRiDianJuLi>
+    <j.0:chiDaoYuanZhouZhang>40,075.13km</j.0:chiDaoYuanZhouZhang>
+    <j.0:waiWenMing>Earth</j.0:waiWenMing>
+    <j.0:pingJunMiDu>5507.85kg/m³</j.0:pingJunMiDu>
+    <j.0:jinRiDianFuJiao>114.20783°</j.0:jinRiDianFuJiao>
+    <j.0:biaoMianWenDu rdf:resource="http://ws.nju.edu.cn/clinga/A3377258"/>
+    <j.0:chiWei>+90°</j.0:chiWei>
+    <j.0:zuiXiaoGongZhuanSuDu>29.291km/s(105,448km/h)</j.0:zuiXiaoGongZhuanSuDu>
+    <j.0:taoYiSuDu>11.2km/s(≅39,600km/h)</j.0:taoYiSuDu>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,769 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://ws.nju.edu.cn/clinga/">
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1721543">
+    <j.0:shuiTiZongMianJi>2560平方千米</j.0:shuiTiZongMianJi>
+    <j.0:bieCheng>腐臭之海,腐海,懒海</j.0:bieCheng>
+    <j.0:waiWenMing>SivashSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>锡瓦什海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1686306">
+    <j.0:nianJunJiangShuiLiang>2000毫米。</j.0:nianJunJiangShuiLiang>
+    <j.0:nianJunQiWen>25~27℃</j.0:nianJunQiWen>
+    <j.0:zuiDaShenDu>1589米</j.0:zuiDaShenDu>
+    <j.0:zhanDiMianJi rdf:resource="http://ws.nju.edu.cn/clinga/A82168"/>
+    <j.0:qiHouLeiXing rdf:resource="http://ws.nju.edu.cn/clinga/A2313257"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2350276"/>
+    <j.0:waiWenMingCheng>Balisea</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>巴厘海</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2256541">
+    <j.0:mingMing>E.休斯</j.0:mingMing>
+    <j.0:youMing>古地中海</j.0:youMing>
+    <j.0:waiWenMing>Tethys</j.0:waiWenMing>
+    <j.0:zhongWenMing>特提斯海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A83379">
+    <j.0:jianYiYouWanShiZhang>3-5小时</j.0:jianYiYouWanShiZhang>
+    <j.0:shiYiYouWanJiJie>5月-10月</j.0:shiYiYouWanJiJie>
+    <j.0:menPiaoJiaGe>无需门票</j.0:menPiaoJiaGe>
+    <j.0:kaiFangShiJian>全天</j.0:kaiFangShiJian>
+    <j.0:zhanDiMianJi>438000平方千米</j.0:zhanDiMianJi>
+    <j.0:qiHouLeiXing>热带沙漠气候</j.0:qiHouLeiXing>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A83238"/>
+    <j.0:waiWenMingCheng>RedSea</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>红海</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1553758">
+    <j.0:xingChengGuoCheng>最後一次冰期中冰消过程中形成</j.0:xingChengGuoCheng>
+    <j.0:rongJi>113000立方千米</j.0:rongJi>
+    <j.0:pingJunShenDu>127米</j.0:pingJunShenDu>
+    <j.0:mianJi>约88万平方千米</j.0:mianJi>
+    <j.0:diLiWeiZhi>俄罗斯西伯利亚以北</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>KarskojeMore</j.0:waiWenMing>
+    <j.0:zhongWenMing>喀拉海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A8380616">
+    <j.0:pingJunShuiShen>1,205米</j.0:pingJunShuiShen>
+    <j.0:mianJi>约940,000平方公里</j.0:mianJi>
+    <j.0:zhongWenMing>阿根廷海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A80770">
+    <j.0:haiYuXingZhi>中国领海,国际公海</j.0:haiYuXingZhi>
+    <j.0:zhuQuanGuoJia rdf:resource="http://ws.nju.edu.cn/clinga/A109632"/>
+    <j.0:zuiGaoShuiShen>2700米</j.0:zuiGaoShuiShen>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A96075"/>
+    <j.0:pingJunShuiShen>349米</j.0:pingJunShuiShen>
+    <j.0:haiYuLeiXing rdf:resource="http://ws.nju.edu.cn/clinga/A2290855"/>
+    <j.0:bieMing>东中国海</j.0:bieMing>
+    <j.0:waiWenMing>EastChinaSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>东海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1077832">
+    <j.0:suoShuQuYu rdf:resource="http://ws.nju.edu.cn/clinga/A96075"/>
+    <j.0:yinNiGuanFangYu>LautFlores</j.0:yinNiGuanFangYu>
+    <j.0:waiWenMing>FloresSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>弗洛勒斯海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2086428">
+    <j.0:xiangGuanWenJian rdf:resource="http://ws.nju.edu.cn/clinga/A670659"/>
+    <j.0:kuanDu>200海里</j.0:kuanDu>
+    <j.0:waiWenMing>patrimonialsea</j.0:waiWenMing>
+    <j.0:zhongWenMing>承袭海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2286722">
+    <j.0:yanAnGuo>日本,俄罗斯,朝鲜,韩国</j.0:yanAnGuo>
+    <j.0:youMing>
+      <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A566537">
+        <j.0:diLiWeiZhi>今日本海北部及鞑靼海峡</j.0:diLiWeiZhi>
+        <j.0:zhongWenMingCheng>鲸海</j.0:zhongWenMingCheng>
+      </rdf:Description>
+    </j.0:youMing>
+    <j.0:teShuDiWei>西北太平洋最大陆缘海</j.0:teShuDiWei>
+    <j.0:zuiDaShuiShen>3742米</j.0:zuiDaShuiShen>
+    <j.0:pingJunShuiShen>1752米</j.0:pingJunShuiShen>
+    <j.0:mianJi>97.8万平方公里</j.0:mianJi>
+    <j.0:waiWenMing>SeaofJapan</j.0:waiWenMing>
+    <j.0:zhongWenMing>日本海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4900886">
+    <j.0:pingJunShuiShen>400米</j.0:pingJunShuiShen>
+    <j.0:zuiShenHaiGou>为2000米</j.0:zuiShenHaiGou>
+    <j.0:zhang>697km</j.0:zhang>
+    <j.0:zhongWenMing>阿弗拉海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4368537">
+    <j.0:shiJian>6亿到4亿年前</j.0:shiJian>
+    <j.0:diLiWeiZhi>地球的南半球</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>IapetusOcean</j.0:waiWenMing>
+    <j.0:zhongWenMing>巨神海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2277483">
+    <j.0:qiHouLeiXing rdf:resource="http://ws.nju.edu.cn/clinga/A424208"/>
+    <j.0:diXingDiMao>波罗的海地盾坡面上的凹陷区</j.0:diXingDiMao>
+    <j.0:waiWenMing>WhiteSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>白海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3979262">
+    <j.0:nianPingJunQiHou>24.5摄氏度</j.0:nianPingJunQiHou>
+    <j.0:haiYuMianJi>2.5平方公里</j.0:haiYuMianJi>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2578481"/>
+    <j.0:zhongWenMing>春园海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A365506">
+    <j.0:mianJi>37600平方公里</j.0:mianJi>
+    <j.0:fenLei>内陆海</j.0:fenLei>
+    <j.0:bieMing>亚速海</j.0:bieMing>
+    <j.0:zhongWenMing>阿速海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2850329">
+    <j.0:kuan>约215公里</j.0:kuan>
+    <j.0:zhang>约440公里</j.0:zhang>
+    <j.0:diDian rdf:resource="http://ws.nju.edu.cn/clinga/A2354360"/>
+    <j.0:zhongWenMing>詹姆斯湾</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1525092">
+    <j.0:zuiKuan>1270千米。</j.0:zuiKuan>
+    <j.0:mianJi>约120万平方千米</j.0:mianJi>
+    <j.0:haiYuZhang>2100千米</j.0:haiYuZhang>
+    <j.0:zhongWenMing>斐济海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3288450">
+    <j.0:zuiDaDao>维提岛和瓦努阿岛</j.0:zuiDaDao>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2326714"/>
+    <j.0:waiWenMing>KoroSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>科罗海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1515618">
+    <j.0:dingYi>海域</j.0:dingYi>
+    <j.0:waiWenMing>AlboranSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿尔沃兰海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A98719">
+    <j.0:zuiDaShenDu>459米</j.0:zuiDaShenDu>
+    <j.0:shengXingFengXiang>西风</j.0:shengXingFengXiang>
+    <j.0:bieMing>L?aumlnemeri</j.0:bieMing>
+    <j.0:pingJunJiangShuiLiang>500-600毫米</j.0:pingJunJiangShuiLiang>
+    <j.0:mianJi>42万平方千米</j.0:mianJi>
+    <j.0:haiYuMianJi>42万平方千米</j.0:haiYuMianJi>
+    <j.0:waiWenMingCheng>BalticSea</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>波罗的(dì)海</j.0:zhongWenMingCheng>
+    <j.0:pingJunShenDu>55米</j.0:pingJunShenDu>
+    <j.0:diLiWeiZhi>位于东北欧洲</j.0:diLiWeiZhi>
+    <j.0:qiHouTiaoJian>属海洋性气候向大陆性气候过渡地</j.0:qiHouTiaoJian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1674249">
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2370100"/>
+    <j.0:nianDai>中世纪</j.0:nianDai>
+    <j.0:zhongWenMing>绿海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A95005">
+    <j.0:zuiDaShenDu>7,686m</j.0:zuiDaShenDu>
+    <j.0:biaoMianJi>2,754,000km2</j.0:biaoMianJi>
+    <j.0:weiZhi>15°N75°W</j.0:weiZhi>
+    <j.0:qiHouTiaoJian>热带地区</j.0:qiHouTiaoJian>
+    <j.0:suoChuWeiZhi>大西洋</j.0:suoChuWeiZhi>
+    <j.0:pingJunShuiShen>2491米</j.0:pingJunShuiShen>
+    <j.0:quanMianJi>2,754,000㎞²</j.0:quanMianJi>
+    <j.0:waiWenMing>CaribbeanSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>加勒比海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A47833">
+    <j.0:kaiFangShiJian>7*24</j.0:kaiFangShiJian>
+    <j.0:waiWenMingCheng>PortShelter</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>牛尾海</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1535624">
+    <j.0:dongXiKuan>300-1000千米</j.0:dongXiKuan>
+    <j.0:haiQuNanBeiZhang>1400千米</j.0:haiQuNanBeiZhang>
+    <j.0:qiHou rdf:resource="http://ws.nju.edu.cn/clinga/A2313257"/>
+    <j.0:zhongWenMing>拉克沙群岛海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2640327">
+    <j.0:zhanDiMianJi>260,000平方公里(100,000平方英里)</j.0:zhanDiMianJi>
+    <j.0:qiHouLeiXing>热带季风气候</j.0:qiHouLeiXing>
+    <j.0:diLiWeiZhi>太平洋西部海域</j.0:diLiWeiZhi>
+    <j.0:zhongWenMingCheng>苏禄海</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2500359">
+    <j.0:xingZhi>一个迷人的海滩</j.0:xingZhi>
+    <j.0:diDian rdf:resource="http://ws.nju.edu.cn/clinga/A2366881"/>
+    <j.0:waiWenMing>Hahei</j.0:waiWenMing>
+    <j.0:zhongWenMing>哈海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2833702">
+    <j.0:mianJi>1.4万平方千米</j.0:mianJi>
+    <j.0:waiWenMingCheng>SibuyanSea</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>锡布延海</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2648120">
+    <j.0:fuJinDaoYu>布鲁岛、安汶岛、塞兰岛等</j.0:fuJinDaoYu>
+    <j.0:haiYuQiHou>热带雨林气候</j.0:haiYuQiHou>
+    <j.0:mianJi>47万平方千米</j.0:mianJi>
+    <j.0:diLiWeiZhi>南太平洋西部海域</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>BandaSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>班达海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1525487">
+    <j.0:zongMianJi>7273平方公里</j.0:zongMianJi>
+    <j.0:waiWenMing>CanarySea</j.0:waiWenMing>
+    <j.0:zhongWenMing>加那利海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2627539">
+    <j.0:shenDu>0.9m-14m(之间</j.0:shenDu>
+    <j.0:weiYu>前苏联西南部</j.0:weiYu>
+    <j.0:waiWenMing>TheSeaofAzov</j.0:waiWenMing>
+    <j.0:zhongWenMing>亚述海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A106084">
+    <j.0:qiHou rdf:resource="http://ws.nju.edu.cn/clinga/A2313257"/>
+    <j.0:zuiShenChu>5203米</j.0:zuiShenChu>
+    <j.0:pingJunShenDu>2734米</j.0:pingJunShenDu>
+    <j.0:zongMianJi>386万平方千米</j.0:zongMianJi>
+    <j.0:waiWenMing>ArabianSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿拉伯海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3192415">
+    <j.0:diWei>南中国海和太平洋间的重要通路</j.0:diWei>
+    <j.0:gangKou>甲描育、卡巴洛甘和马斯巴特</j.0:gangKou>
+    <j.0:qiHou>热带海洋性气候</j.0:qiHou>
+    <j.0:mianJi>4260平方千米</j.0:mianJi>
+    <j.0:suoZaiDi>菲律宾</j.0:suoZaiDi>
+    <j.0:waiWenMing>SibuyanSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>萨马海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3207512">
+    <j.0:shuiWen>-1°-2℃</j.0:shuiWen>
+    <j.0:shen>6,468米</j.0:shen>
+    <j.0:haiYuMianJi>90万平方公里</j.0:haiYuMianJi>
+    <j.0:waiWenMing>ScotiaSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>斯科舍海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2375049">
+    <j.0:zongMianJi>42.2万平方公里</j.0:zongMianJi>
+    <j.0:waiWenMing>BalticSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>波罗地海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10134656">
+    <j.0:mianJi>4,791,000平方公里</j.0:mianJi>
+    <j.0:nanBeiZhangYue>2,250公里</j.0:nanBeiZhangYue>
+    <j.0:dongXiKuanYue>2~150千米</j.0:dongXiKuanYue>
+    <j.0:zhongWenMing>梦幻珊瑚海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2372444">
+    <j.0:nanBeiZhangWei>2300千米</j.0:nanBeiZhangWei>
+    <j.0:haiMianJiYueWei>100万平方公里</j.0:haiMianJiYueWei>
+    <j.0:taWeiYu rdf:resource="http://ws.nju.edu.cn/clinga/A675860"/>
+    <j.0:zhongWenMing>北海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2932071">
+    <j.0:pingJunShuiShen>61米</j.0:pingJunShuiShen>
+    <j.0:zhuYaoGangKou>都柏林、邓多克等</j.0:zhuYaoGangKou>
+    <j.0:mianJi>约10万平方公里</j.0:mianJi>
+    <j.0:diLiWeiZhi>大不列颠岛与爱尔兰岛之间</j.0:diLiWeiZhi>
+    <j.0:waiWenMingCheng>IrishSea</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>爱尔兰海</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4130187">
+    <j.0:zhuYaoFanWei rdf:resource="http://ws.nju.edu.cn/clinga/A1556519"/>
+    <j.0:sheJiFangMian>地理位置</j.0:sheJiFangMian>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2743801"/>
+    <j.0:zhongWenMing>倒风内海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4894129">
+    <j.0:pinYin>zhānghǎi</j.0:pinYin>
+    <j.0:chuChu>《琼州府志》</j.0:chuChu>
+    <j.0:zhongWenMing>涨海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1844702">
+    <j.0:zuiShenChu>4193米</j.0:zuiShenChu>
+    <j.0:mianJi>约140万平方千米</j.0:mianJi>
+    <j.0:diLiWeiZhi>北大西洋西北部</j.0:diLiWeiZhi>
+    <j.0:zhongWenMing>拉布拉多海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3103959">
+    <j.0:teDian>表面有大量的果囊马尾藻漂浮</j.0:teDian>
+    <j.0:diDian>北大西洋西印度群岛与亚速尔间</j.0:diDian>
+    <j.0:bieCheng>无岸的海</j.0:bieCheng>
+    <j.0:zhongWenMing>萨尔加索海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1100595">
+    <j.0:zuiDaShuiShen>2850米</j.0:zuiDaShuiShen>
+    <j.0:mianJi>1.5万平方公里</j.0:mianJi>
+    <j.0:faYu>MerLigurienne</j.0:faYu>
+    <j.0:yiDaLiYu>MareLigure</j.0:yiDaLiYu>
+    <j.0:laDingYu>MareLigusticum</j.0:laDingYu>
+    <j.0:zhongWenMing>利古里亚海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2654156">
+    <j.0:shiYiYouWanJiJie>四季皆宜</j.0:shiYiYouWanJiJie>
+    <j.0:kaiFangShiJian>全天</j.0:kaiFangShiJian>
+    <j.0:qiHouLeiXing>热带季风气候</j.0:qiHouLeiXing>
+    <j.0:zhuYaoGangKou>缅甸仰光</j.0:zhuYaoGangKou>
+    <j.0:mianJi>79.8万平方千米</j.0:mianJi>
+    <j.0:waiWenMing>Myanmarsea</j.0:waiWenMing>
+    <j.0:zhongWenMing>缅甸海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1648171">
+    <j.0:hanYi>“红色的海洋”</j.0:hanYi>
+    <j.0:weiZhi>介于阿拉伯半岛和非洲大陆之间</j.0:weiZhi>
+    <j.0:waiWenMing>THALASSAERYTHRAE</j.0:waiWenMing>
+    <j.0:zhongWenMing>埃及红海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2278713">
+    <j.0:xianZhuang>与南海并称“中南海</j.0:xianZhuang>
+    <j.0:beiZhu rdf:resource="http://ws.nju.edu.cn/clinga/A86981"/>
+    <j.0:shiDai>金、元</j.0:shiDai>
+    <j.0:zhongWenMing>中海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1914791">
+    <j.0:chuZi rdf:resource="http://ws.nju.edu.cn/clinga/A1972594"/>
+    <j.0:youMing>青天</j.0:youMing>
+    <j.0:chuanShuoMing>蓝色的海洋</j.0:chuanShuoMing>
+    <j.0:zhongWenMing>碧海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2309503">
+    <j.0:pingJunShuiShen>230米</j.0:pingJunShuiShen>
+    <j.0:zhuYaoDaoYu>科尔古耶夫岛巴伦支岛熊岛</j.0:zhuYaoDaoYu>
+    <j.0:zhouBianGuoJia>挪威俄罗斯</j.0:zhouBianGuoJia>
+    <j.0:zuiDaShuiShen>450米(北角)</j.0:zuiDaShuiShen>
+    <j.0:dianXingYanDu>3.5%(35psu)</j.0:dianXingYanDu>
+    <j.0:dongXiKuaDu>2220千米</j.0:dongXiKuaDu>
+    <j.0:zhouBianShuiTi>北冰洋挪威海白海</j.0:zhouBianShuiTi>
+    <j.0:zhuYaoGangKou>摩尔曼斯克</j.0:zhuYaoGangKou>
+    <j.0:mianJi>1405000平方千米</j.0:mianJi>
+    <j.0:zhuYaoHeLiu>伯朝拉河</j.0:zhuYaoHeLiu>
+    <j.0:zhongWenMing>巴伦支海</j.0:zhongWenMing>
+    <j.0:waiWenMing>BarentsSea(英语)</j.0:waiWenMing>
+    <j.0:nanBeiKuaDu>1684千米</j.0:nanBeiKuaDu>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1585136">
+    <j.0:nanBei>420千米</j.0:nanBei>
+    <j.0:dongXiZhang>1450千米</j.0:dongXiZhang>
+    <j.0:mianJi>433000平方千米</j.0:mianJi>
+    <j.0:xingZhi>南太平洋属海</j.0:xingZhi>
+    <j.0:waiWenMing>LautJawa</j.0:waiWenMing>
+    <j.0:zhongWenMing>爪哇海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3309614">
+    <j.0:kuanDu>约2000千米</j.0:kuanDu>
+    <j.0:zhangDu>约3450千米</j.0:zhangDu>
+    <j.0:mianJi>约580万平方千米</j.0:mianJi>
+    <j.0:suoShuDiQu>菲律宾</j.0:suoShuDiQu>
+    <j.0:diLiWeiZhi>西太平洋边缘</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>PhilippineSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>菲律宾海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2382072">
+    <j.0:haiChan>海象、海豹、北极熊等。</j.0:haiChan>
+    <j.0:linGuo>俄罗斯</j.0:linGuo>
+    <j.0:qiHou>气候严寒</j.0:qiHou>
+    <j.0:weiZhi>72°17′N,164°9′5″E</j.0:weiZhi>
+    <j.0:pingJunShenDu>45米</j.0:pingJunShenDu>
+    <j.0:zuiShen>358米</j.0:zuiShen>
+    <j.0:mianJi>93.6万平方千米</j.0:mianJi>
+    <j.0:waiWenMing>EastSiberianSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>东西伯利亚海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2329821">
+    <j.0:mianJi>38万平方公里</j.0:mianJi>
+    <j.0:waiWenMing>YellowSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>黄海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2638285">
+    <j.0:kuanDu>南北宽5-55公里</j.0:kuanDu>
+    <j.0:zhangDu>东西长440公里</j.0:zhangDu>
+    <j.0:waiWenMing>SetoNaiki</j.0:waiWenMing>
+    <j.0:zhongWenMing>濑户内海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2280521">
+    <j.0:haiYuKuan>560千米</j.0:haiYuKuan>
+    <j.0:haiYuZhang>1280千米</j.0:haiYuZhang>
+    <j.0:haiShuiYanDu>34~35‰左右</j.0:haiShuiYanDu>
+    <j.0:haiMianShuiWen>25~28℃</j.0:haiMianShuiWen>
+    <j.0:qiHou>热带气候,高温潮湿</j.0:qiHou>
+    <j.0:pingJunShenDu>50~80公尺(165~260呎)</j.0:pingJunShenDu>
+    <j.0:mianJi>65万平方公里(25万平方哩)</j.0:mianJi>
+    <j.0:diLiWeiZhi>澳大利亚北岸</j.0:diLiWeiZhi>
+    <j.0:zhongWenMing>阿拉弗拉海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A70680">
+    <j.0:zhuYaoDaoYu rdf:resource="http://ws.nju.edu.cn/clinga/A2757203"/>
+    <j.0:daoYu rdf:resource="http://ws.nju.edu.cn/clinga/A2724314"/>
+    <j.0:daoYu rdf:resource="http://ws.nju.edu.cn/clinga/A2974920"/>
+    <j.0:diDian>香港</j.0:diDian>
+    <j.0:zhongWenMing>西贡海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2339073">
+    <j.0:qiHouTiaoJian>地中海气候</j.0:qiHouTiaoJian>
+    <j.0:nanBeiZhang>大约为1800千米</j.0:nanBeiZhang>
+    <j.0:dongXiZhang>4000千米</j.0:dongXiZhang>
+    <j.0:leiXing>陆间海</j.0:leiXing>
+    <j.0:zhuMingJingDian>撒丁岛,圣托里尼</j.0:zhuMingJingDian>
+    <j.0:waiWenMingCheng>MediterraneanSea</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>地中海</j.0:zhongWenMingCheng>
+    <j.0:pingJunShenDu>1500米</j.0:pingJunShenDu>
+    <j.0:mianJi>约为2512000㎞²</j.0:mianJi>
+    <j.0:zuiShenShenDu>5267米</j.0:zuiShenShenDu>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1516538">
+    <j.0:nianPingJunQiWen>25~27℃</j.0:nianPingJunQiWen>
+    <j.0:qiHou>热带雨林气候</j.0:qiHou>
+    <j.0:weiZhi>海域地处赤道地区</j.0:weiZhi>
+    <j.0:waiWenMing>LautAru</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿鲁海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2304069">
+    <j.0:zhouBianGuoJia>挪威、冰岛等</j.0:zhouBianGuoJia>
+    <j.0:zhouBianGangKou>特隆赫姆、纳尔维克</j.0:zhouBianGangKou>
+    <j.0:zhouBianHaiYu>冰岛海、巴伦支海、北冰洋</j.0:zhouBianHaiYu>
+    <j.0:mianJi>138.3万平方公里</j.0:mianJi>
+    <j.0:waiWenMing>Norskehavet</j.0:waiWenMing>
+    <j.0:zhongWenMing>挪威海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3179725">
+    <j.0:leiXing>海域</j.0:leiXing>
+    <j.0:jieDuan>衰老退化阶段</j.0:jieDuan>
+    <j.0:youCheng>残留海</j.0:youCheng>
+    <j.0:zhongWenMing>残海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1598685">
+    <j.0:mianJi>约7万平方千米</j.0:mianJi>
+    <j.0:nanBeiKuan>200千米</j.0:nanBeiKuan>
+    <j.0:zhongWenMing>巴利阿里海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2489170">
+    <j.0:suoShuDiQu>四川省遂宁市</j.0:suoShuDiQu>
+    <j.0:xiuJianShiJian>2003年</j.0:xiuJianShiJian>
+    <j.0:mianJi>超过1000亩</j.0:mianJi>
+    <j.0:diLiWeiZhi>大英县</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>DaYingSiHai</j.0:waiWenMing>
+    <j.0:zhongWenMing>大英死海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2309601">
+    <j.0:zuiDaShuiShen>2980米</j.0:zuiDaShuiShen>
+    <j.0:pingJunShenDu>578米</j.0:pingJunShenDu>
+    <j.0:mianJi>约71.4万平方千米</j.0:mianJi>
+    <j.0:waiWenMing>LaptevSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>拉普捷夫海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3410228">
+    <j.0:dongXiZhang>270千米</j.0:dongXiZhang>
+    <j.0:nanBeiKuan>115千米</j.0:nanBeiKuan>
+    <j.0:diLiWeiZhi>菲律宾中南部</j.0:diLiWeiZhi>
+    <j.0:bieCheng>棉兰老海、民答那峨海</j.0:bieCheng>
+    <j.0:waiWenMing>BoholSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>保和海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A667929">
+    <j.0:haiShuiPingJunShen>6公尺</j.0:haiShuiPingJunShen>
+    <j.0:waiWenMingCheng>PechoraSea</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>伯朝拉海</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1004627">
+    <j.0:lingYu>渤海、黄海、东海、南海等</j.0:lingYu>
+    <j.0:xingZhi>新华夏系所属浅海海域的总称</j.0:xingZhi>
+    <j.0:waiWenMing>Neocathaysiansea</j.0:waiWenMing>
+    <j.0:zhongWenMing>新华夏海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2367927">
+    <j.0:zuiDaShuiShen>85米</j.0:zuiDaShuiShen>
+    <j.0:pingJunShuiShen>18米</j.0:pingJunShuiShen>
+    <j.0:mianJi>7.7284万平方千米</j.0:mianJi>
+    <j.0:waiWenMing>bohai</j.0:waiWenMing>
+    <j.0:zhongWenMing>渤海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5012685">
+    <j.0:zuiJiaGuanShangWeiZhi>爬窗户</j.0:zuiJiaGuanShangWeiZhi>
+    <j.0:zuiJiaGuanShangRiQi>下大雨时期</j.0:zuiJiaGuanShangRiQi>
+    <j.0:haiYuMianJi>峰值456平方公里</j.0:haiYuMianJi>
+    <j.0:zhongWenMing>石门海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2937135">
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2334040"/>
+    <j.0:faXianRen rdf:resource="http://ws.nju.edu.cn/clinga/A88531"/>
+    <j.0:beiFaXianShiJian>1642年</j.0:beiFaXianShiJian>
+    <j.0:waiWenMing>TasmanSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>塔斯曼海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2044589">
+    <j.0:kuan>450千米</j.0:kuan>
+    <j.0:zhang>650千米</j.0:zhang>
+    <j.0:waiWenMing>NatunaSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>纳土纳海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A97941">
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A1056874"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2336329"/>
+    <j.0:mianJi>356万平方公里</j.0:mianJi>
+    <j.0:jiChang>美兰机场、凤凰机场、永兴岛机场</j.0:jiChang>
+    <j.0:zhongWenMingCheng>南海</j.0:zhongWenMingCheng>
+    <j.0:fangYan>粤语、客家语、闽南话、海南话、雷州话</j.0:fangYan>
+    <j.0:xingZhengQuLeiBie rdf:resource="http://ws.nju.edu.cn/clinga/A2353128"/>
+    <j.0:bieMing>
+      <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2737254">
+        <j.0:zhuYaoDaoYu>南沙群岛、中沙群岛、东沙群岛</j.0:zhuYaoDaoYu>
+        <j.0:zhuYaoHeLiu>珠江、红河和湄公河</j.0:zhuYaoHeLiu>
+        <j.0:zuiShenChu>深海平原5567米左右</j.0:zuiShenChu>
+        <j.0:mianJi>356万平方公里</j.0:mianJi>
+        <j.0:zhongWenMingCheng>南中国海</j.0:zhongWenMingCheng>
+      </rdf:Description>
+    </j.0:bieMing>
+    <j.0:zhuYaoBuFen rdf:resource="http://ws.nju.edu.cn/clinga/A1563468"/>
+    <j.0:zhuQuan rdf:resource="http://ws.nju.edu.cn/clinga/A2697565"/>
+    <j.0:waiWenMingCheng>SouthChinaSea</j.0:waiWenMingCheng>
+    <j.0:zhuYaoBuFen rdf:resource="http://ws.nju.edu.cn/clinga/A2697565"/>
+    <j.0:qiHouTiaoJian>热带季风气候、亚热带季风气候</j.0:qiHouTiaoJian>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A99475"/>
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A1587204"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A86015"/>
+    <j.0:diLiWeiZhi>中国南部,西太平洋</j.0:diLiWeiZhi>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2371293"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2253956">
+    <j.0:haiShuiYanDu>24-33.5‰</j.0:haiShuiYanDu>
+    <j.0:zuiDaShuiShen>1256米</j.0:zuiDaShuiShen>
+    <j.0:pingJunShuiShen>深88米</j.0:pingJunShuiShen>
+    <j.0:mianJi>59.5万平方千米</j.0:mianJi>
+    <j.0:suoShuDiQu>北冰洋</j.0:suoShuDiQu>
+    <j.0:waiWenMing>ChukcheeSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>楚科奇海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2897261">
+    <j.0:jianYiYouWanShiZhang>1-2小时</j.0:jianYiYouWanShiZhang>
+    <j.0:yiChanZhongLei rdf:resource="http://ws.nju.edu.cn/clinga/A3531534"/>
+    <j.0:zhuMingJingDian>山峰终年积雪</j.0:zhuMingJingDian>
+    <j.0:menPiaoJiaGe>包含在九寨沟门票内</j.0:menPiaoJiaGe>
+    <j.0:jingDianJiBie>国家AAAAA级旅游景区</j.0:jingDianJiBie>
+    <j.0:kaiFangShiJian>全天开放</j.0:kaiFangShiJian>
+    <j.0:diLiWeiZhi>四川省</j.0:diLiWeiZhi>
+    <j.0:zhongWenMingCheng>九寨沟长海</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2372110">
+    <j.0:zhongWenMing>帝汶海</j.0:zhongWenMing>
+    <j.0:kuan>约408公里</j.0:kuan>
+    <j.0:waiWenMing>TimorSea</j.0:waiWenMing>
+    <j.0:haiLiuFangXiang>随季风交替而改变</j.0:haiLiuFangXiang>
+    <j.0:zuiDaShenDu>超过3300公尺</j.0:zuiDaShenDu>
+    <j.0:jiaoDaHaiWan>约瑟夫.波拿巴湾、比格尔湾等</j.0:jiaoDaHaiWan>
+    <j.0:tiJi>25万立方千米</j.0:tiJi>
+    <j.0:mianJi>615000平方公里</j.0:mianJi>
+    <j.0:haiQu>热带季风气候</j.0:haiQu>
+    <j.0:haiZhongPenDi>博拿巴盆地</j.0:haiZhongPenDi>
+    <j.0:jiaoDaDaoYu>梅尔维尔岛、巴瑟斯特岛等</j.0:jiaoDaDaoYu>
+    <j.0:jingWeiDu>南纬7.4,东经128.55</j.0:jingWeiDu>
+    <j.0:chaoXiGaoDu>一般2米以上,最高达9米</j.0:chaoXiGaoDu>
+    <j.0:liuSu>每小时0.8~1.6公里</j.0:liuSu>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2729244">
+    <j.0:jingDianLeiXing>湖泊</j.0:jingDianLeiXing>
+    <j.0:suoShuChengShi>北京</j.0:suoShuChengShi>
+    <j.0:jianYiYouWanShiZhang>4小时</j.0:jianYiYouWanShiZhang>
+    <j.0:jianLiShiJian>1925</j.0:jianLiShiJian>
+    <j.0:shiYiYouWanJiJie>四季皆宜</j.0:shiYiYouWanJiJie>
+    <j.0:suoShuGuoJia>中国</j.0:suoShuGuoJia>
+    <j.0:zhuMingJingDian>后海</j.0:zhuMingJingDian>
+    <j.0:diZhi>北京市西城区</j.0:diZhi>
+    <j.0:zhongWenMing>后海</j.0:zhongWenMing>
+    <j.0:menPiaoJiaGe>免费</j.0:menPiaoJiaGe>
+    <j.0:kaiFangShiJian>全天</j.0:kaiFangShiJian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3316489">
+    <j.0:nanBeiZongShen>约18公里</j.0:nanBeiZongShen>
+    <j.0:zuiKuanChu>约17公里</j.0:zuiKuanChu>
+    <j.0:mianJi>135平方公里</j.0:mianJi>
+    <j.0:zhongWenMing>茅尾海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A333205">
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A3204790"/>
+    <j.0:aErBaNiYaYu>DetiJon</j.0:aErBaNiYaYu>
+    <j.0:waiWenMing>IonianSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>爱奥尼亚海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A87735">
+    <j.0:zhanDiMianJi>超1000亩</j.0:zhanDiMianJi>
+    <j.0:suoShuGuoJia>中国</j.0:suoShuGuoJia>
+    <j.0:qiHouLeiXing>亚热带湿润季风气候</j.0:qiHouLeiXing>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A3522787"/>
+    <j.0:jingDianJiBie>AAAA级</j.0:jingDianJiBie>
+    <j.0:zhuMingJingDian>死海健康盐疗水上休闲娱乐</j.0:zhuMingJingDian>
+    <j.0:menPiaoJiaGe>218元</j.0:menPiaoJiaGe>
+    <j.0:jingQuLeiXing>主题景观</j.0:jingQuLeiXing>
+    <j.0:kaiFangShiJian>早10:00-晚19:00</j.0:kaiFangShiJian>
+    <j.0:shiYiYouWanJiJie>夏季</j.0:shiYiYouWanJiJie>
+    <j.0:zhongWenMingCheng>中国死海</j.0:zhongWenMingCheng>
+    <j.0:waiWenMingCheng>ChineseSeaofDeath</j.0:waiWenMingCheng>
+    <j.0:suoShuChengShi>四川省遂宁市</j.0:suoShuChengShi>
+    <j.0:jianYiYouWanShiZhang>4小时</j.0:jianYiYouWanShiZhang>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1690285">
+    <j.0:houLai>才逐渐冲积浮聚成陆</j.0:houLai>
+    <j.0:shiYiGe>海气昏昏水拍天的海湾</j.0:shiYiGe>
+    <j.0:chengHaiDaBuFen>地方还处于大海之中</j.0:chengHaiDaBuFen>
+    <j.0:zhongWenMing>汕头澄海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2372055">
+    <j.0:zuiDaShuiShen>4773米</j.0:zuiDaShuiShen>
+    <j.0:pingJunShuiShen>1636米</j.0:pingJunShuiShen>
+    <j.0:mianJi>230.4万平方公里</j.0:mianJi>
+    <j.0:waiWenMing>BeringSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>白令海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1099541">
+    <j.0:pingJunShuiShen>585米</j.0:pingJunShuiShen>
+    <j.0:weiYu rdf:resource="http://ws.nju.edu.cn/clinga/A96075"/>
+    <j.0:waiWenMing>AmundsenSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿蒙森海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2407818">
+    <j.0:qiHouTiaoJian>热带雨林气候</j.0:qiHouTiaoJian>
+    <j.0:mianJi>18.7万平方千米</j.0:mianJi>
+    <j.0:suoShuDiQu>印度尼西亚</j.0:suoShuDiQu>
+    <j.0:diLiWeiZhi>伊里安岛西侧</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>SelanSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>塞兰海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2374137">
+    <j.0:shiYiYouWanJiJie>4月-10月</j.0:shiYiYouWanJiJie>
+    <j.0:jianYiYouWanShiZhang>3-4天</j.0:jianYiYouWanShiZhang>
+    <j.0:suoShuChengShi>雅典、伊兹密尔、博德鲁姆等</j.0:suoShuChengShi>
+    <j.0:suoShuGuoJia>希腊、土耳其</j.0:suoShuGuoJia>
+    <j.0:zhuMingJingDian>阿尔忒弥斯神庙遗迹、克里特岛米诺斯王宫</j.0:zhuMingJingDian>
+    <j.0:kaiFangShiJian>全天</j.0:kaiFangShiJian>
+    <j.0:qiHouLeiXing>地中海气候</j.0:qiHouLeiXing>
+    <j.0:zhongWenMingCheng>爱琴海</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3401366">
+    <j.0:diLiWeiZhi>太平洋南部,南极半岛西侧</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>BellinsgauzenSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>别林斯高晋海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3190935">
+    <j.0:mianJi>面积10.5万平方公里.</j.0:mianJi>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2350276"/>
+    <j.0:waiWenMing>SavuSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>萨武海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2270822">
+    <j.0:suoShuDiQu>太平洋</j.0:suoShuDiQu>
+    <j.0:mianJi>158.3万平方千米</j.0:mianJi>
+    <j.0:zhuYaoRuHaiHeLiu>阿穆尔河(中国黑龙江)</j.0:zhuYaoRuHaiHeLiu>
+    <j.0:zuiDaShuiShen>3916米</j.0:zuiDaShuiShen>
+    <j.0:daLuJiaKuanDu>约400千米</j.0:daLuJiaKuanDu>
+    <j.0:zhongWenMingCheng>鄂霍次克海</j.0:zhongWenMingCheng>
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A2260440"/>
+    <j.0:pingJunShuiShen>821米</j.0:pingJunShuiShen>
+    <j.0:waiWenMingCheng>SeaofOkhotsk</j.0:waiWenMingCheng>
+    <j.0:xingChengShiJian>第四纪</j.0:xingChengShiJian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2978121">
+    <j.0:chuChu>《唐书·突厥传》</j.0:chuChu>
+    <j.0:bieCheng>里海</j.0:bieCheng>
+    <j.0:leiBie>古海名</j.0:leiBie>
+    <j.0:zhongWenMing>雷翥海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1699381">
+    <j.0:nianJunQiWen>22~23℃</j.0:nianJunQiWen>
+    <j.0:mianJi>24万平方公里</j.0:mianJi>
+    <j.0:nianJiangShuiLiang>2000~2500毫米</j.0:nianJiangShuiLiang>
+    <j.0:diLiWeiZhi>太平洋西南部</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>BismarckSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>俾斯麦海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A8403788">
+    <j.0:pingJunShuiShen>64米</j.0:pingJunShuiShen>
+    <j.0:mianJi>47,000平方公里</j.0:mianJi>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A110096"/>
+    <j.0:zhongWenMing>赫布里底海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2259354">
+    <j.0:jiBie>世界上最浅的海</j.0:jiBie>
+    <j.0:zhuYaoHeLiu>顿河和库班河</j.0:zhuYaoHeLiu>
+    <j.0:mianJi>约37600平方千米</j.0:mianJi>
+    <j.0:diLiWeiZhi>俄罗斯和乌克兰南部</j.0:diLiWeiZhi>
+    <j.0:zhongWenMingCheng>亚速海</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1504526">
+    <j.0:cunZaiLe>约3000万年</j.0:cunZaiLe>
+    <j.0:youMing>副特提斯洋</j.0:youMing>
+    <j.0:waiWenMing>PannonianSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>潘诺尼亚海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A106230">
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2356164"/>
+    <j.0:zhiZui>世界上最小的海</j.0:zhiZui>
+    <j.0:waiWenMing>SeaofMarmara</j.0:waiWenMing>
+    <j.0:zhongWenMing>马尔马拉海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2731329">
+    <j.0:mianJi rdf:resource="http://ws.nju.edu.cn/clinga/A2578481"/>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2350276"/>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A99398"/>
+    <j.0:jiuMing>摩鹿加海</j.0:jiuMing>
+    <j.0:waiWenMing>印尼语LautMaluku</j.0:waiWenMing>
+    <j.0:zhongWenMing>马鲁古海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A99538">
+    <j.0:shuiYuTeSe>没有海岸线的水域</j.0:shuiYuTeSe>
+    <j.0:mingMingYiJu>海面漂浮大量马尾藻</j.0:mingMingYiJu>
+    <j.0:mianJi>500~600万平方千米</j.0:mianJi>
+    <j.0:bieMing>萨加索海</j.0:bieMing>
+    <j.0:waiWenMingCheng>SargassoSea</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>马尾藻海</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1540253">
+    <j.0:mianJi>4260平方千米</j.0:mianJi>
+    <j.0:weiYu rdf:resource="http://ws.nju.edu.cn/clinga/A1079832"/>
+    <j.0:zhongWenMing>卡莫特斯海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2939669">
+    <j.0:zuiDaShenDu>9,103(米)</j.0:zuiDaShenDu>
+    <j.0:pingJunShenDu>2,652(米)</j.0:pingJunShenDu>
+    <j.0:tiJi>2,002(千立方公里)</j.0:tiJi>
+    <j.0:mianJi>755(千平方公里)</j.0:mianJi>
+    <j.0:waiWenMing>SolomonSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>所罗门海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A73497">
+    <j.0:mingMingRen>霍尔特</j.0:mingMingRen>
+    <j.0:waiWenMing>CelticSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>凯尔特海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1531874">
+    <j.0:mianJi>6100平方千米</j.0:mianJi>
+    <j.0:nianJunJiangShuiLiang>2000~3000毫米</j.0:nianJunJiangShuiLiang>
+    <j.0:qiHou rdf:resource="http://ws.nju.edu.cn/clinga/A2284590"/>
+    <j.0:zhongWenMing>米沙鄢海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1409980">
+    <j.0:weiZhi>希腊东南,爱琴海南部</j.0:weiZhi>
+    <j.0:bieMing>干地亚海</j.0:bieMing>
+    <j.0:waiWenMing>SeaofCrete</j.0:waiWenMing>
+    <j.0:zhongWenMing>克里特海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1537112">
+    <j.0:shuXing rdf:resource="http://ws.nju.edu.cn/clinga/A99398"/>
+    <j.0:mianJi>约20万平方千米</j.0:mianJi>
+    <j.0:xingZhuang>海域呈三角形三边均长约200千米</j.0:xingZhuang>
+    <j.0:zhongWenMing>哈马黑拉海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1794034">
+    <j.0:diDian>太平洋</j.0:diDian>
+    <j.0:youMing rdf:resource="http://ws.nju.edu.cn/clinga/A1102175"/>
+    <j.0:waiWenMing>CelebesSea</j.0:waiWenMing>
+    <j.0:zhongWenMing>西里伯斯海</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A8098215">
+    <j.0:buZhou>西北海外,大荒之隅,有山不合,</j.0:buZhou>
+    <j.0:diDian>新疆塔里木盆地东部。</j.0:diDian>
+    <j.0:jiZai>《山海经》</j.0:jiZai>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A8098215"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5238609">
+    <j.0:zhongGuoTaiDu>强烈反对</j.0:zhongGuoTaiDu>
+    <j.0:guoJiTongYongMing>南中国海</j.0:guoJiTongYongMing>
+    <j.0:feiLvBinChengWei rdf:resource="http://ws.nju.edu.cn/clinga/A5238609"/>
+    <j.0:waiWenMing>TheSouthChinaSea</j.0:waiWenMing>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A2737254"/>
+  </rdf:Description>
+</rdf:RDF>

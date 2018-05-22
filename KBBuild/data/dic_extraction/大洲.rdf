@@ -1,0 +1,119 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://ws.nju.edu.cn/clinga/">
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2354264">
+    <j.0:zhongWenMingCheng>亚洲</j.0:zhongWenMingCheng>
+    <j.0:mianJi>4457.9万平方公里</j.0:mianJi>
+    <j.0:waiWenMingCheng>Asia,アジア</j.0:waiWenMingCheng>
+    <j.0:yuYan rdf:resource="http://ws.nju.edu.cn/clinga/A2327762"/>
+    <j.0:zuiDaDouShi rdf:resource="http://ws.nju.edu.cn/clinga/A2325037"/>
+    <j.0:renKouMiDu>93.41人/km²</j.0:renKouMiDu>
+    <j.0:yuYan rdf:resource="http://ws.nju.edu.cn/clinga/A107404"/>
+    <j.0:xingZhengQuLeiBie>洲</j.0:xingZhengQuLeiBie>
+    <j.0:qiHouTiaoJian>气候复杂多样,大陆性气候分布广,季风气候显著</j.0:qiHouTiaoJian>
+    <j.0:bieMing>亚细亚洲</j.0:bieMing>
+    <j.0:zuiDaDouShi rdf:resource="http://ws.nju.edu.cn/clinga/A76897"/>
+    <j.0:minZu>约1000个</j.0:minZu>
+    <j.0:yuYan rdf:resource="http://ws.nju.edu.cn/clinga/A2335855"/>
+    <j.0:yuYan rdf:resource="http://ws.nju.edu.cn/clinga/A2356136"/>
+    <j.0:biaoZhunShiJian>UTC+2~UTC+12</j.0:biaoZhunShiJian>
+    <j.0:zhuYaoGuoJia>中国,韩国,朝鲜,日本,伊朗等</j.0:zhuYaoGuoJia>
+    <j.0:renKou>41.643亿</j.0:renKou>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2337515"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2341754"/>
+    <j.0:guoJiaHeDiQu>48个</j.0:guoJiaHeDiQu>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2383370"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A94500">
+    <j.0:renKou>387,489,196人(2011年)</j.0:renKou>
+    <j.0:waiWenMingCheng>SouthAmerica</j.0:waiWenMingCheng>
+    <j.0:zhuYaoGuoJia>巴西、阿根廷、哥伦比亚、秘鲁等</j.0:zhuYaoGuoJia>
+    <j.0:xingZhengQuLeiBie>大洲</j.0:xingZhengQuLeiBie>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2342944"/>
+    <j.0:yuYan rdf:resource="http://ws.nju.edu.cn/clinga/A108747"/>
+    <j.0:mianJi>17,840,000平方公里</j.0:mianJi>
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A345207"/>
+    <j.0:zhongWenMingCheng>南亚美利加洲</j.0:zhongWenMingCheng>
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A2264699"/>
+    <j.0:bieMing>南美洲</j.0:bieMing>
+    <j.0:suoShuDiQu>美洲南部</j.0:suoShuDiQu>
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A2369671"/>
+    <j.0:renKouMiDu>21.4人/平方公里(2011年)</j.0:renKouMiDu>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A1706338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A101361">
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2341031"/>
+    <j.0:xiaXiaDiQu>14个独立国家</j.0:xiaXiaDiQu>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A1057696"/>
+    <j.0:mianJi>897万平方千米</j.0:mianJi>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A77604"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2350698"/>
+    <j.0:diLiWeiZhi>太平洋西南部和南部</j.0:diLiWeiZhi>
+    <j.0:renKou>2900万人</j.0:renKou>
+    <j.0:zhuYaoGuoJia>澳大利亚、新西兰等</j.0:zhuYaoGuoJia>
+    <j.0:zhongWenMingCheng>大洋洲</j.0:zhongWenMingCheng>
+    <j.0:suoShuDiQu>太平洋</j.0:suoShuDiQu>
+    <j.0:dianHuaQuHao>61(澳大利亚)等</j.0:dianHuaQuHao>
+    <j.0:waiWenMingCheng>英文:Oceania法文:Océanie</j.0:waiWenMingCheng>
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A2264699"/>
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A2284590"/>
+    <j.0:bieMing>大洋洲及太平洋岛屿</j.0:bieMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2334203">
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A895290"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A1556830"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2322857"/>
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A919827"/>
+    <j.0:renKouMiDu>70人km²</j.0:renKouMiDu>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A899691"/>
+    <j.0:waiWenMingCheng>Europe</j.0:waiWenMingCheng>
+    <j.0:guoJiaHeDiQu>48个</j.0:guoJiaHeDiQu>
+    <j.0:zhongWenMingCheng>欧洲</j.0:zhongWenMingCheng>
+    <j.0:xingZhengQuLeiBie>洲</j.0:xingZhengQuLeiBie>
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A2264699"/>
+    <j.0:renKou>约7.4亿(2014年)</j.0:renKou>
+    <j.0:fangYan>英语、法语、西班牙语、俄语等</j.0:fangYan>
+    <j.0:bieMing>欧罗巴洲</j.0:bieMing>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A1972902"/>
+    <j.0:mianJi>1016万平方公里</j.0:mianJi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2362072">
+    <j.0:zhongYaoChengShi rdf:resource="http://ws.nju.edu.cn/clinga/A93023"/>
+    <j.0:renJunGDP>37613美元(仅次于大洋洲)</j.0:renJunGDP>
+    <j.0:zuiGaoFeng>麦金利山(6193米)</j.0:zuiGaoFeng>
+    <j.0:zhuYaoYuYan>英语,另有法语、西班牙语等</j.0:zhuYaoYuYan>
+    <j.0:waiWenMing>NorthAmerica</j.0:waiWenMing>
+    <j.0:zhongYaoChengShi rdf:resource="http://ws.nju.edu.cn/clinga/A81802"/>
+    <j.0:mianJi>约2471万平方公里</j.0:mianJi>
+    <j.0:zhuYaoGuoJia>美国、加拿大、墨西哥等</j.0:zhuYaoGuoJia>
+    <j.0:zhongYaoChengShi rdf:resource="http://ws.nju.edu.cn/clinga/A2354896"/>
+    <j.0:renKouShuLiang>约5.5亿(2014年)</j.0:renKouShuLiang>
+    <j.0:zhongYaoChengShi rdf:resource="http://ws.nju.edu.cn/clinga/A2355757"/>
+    <j.0:zhuYaoMinZu>欧洲裔</j.0:zhuYaoMinZu>
+    <j.0:quanCheng>北亚美利加洲</j.0:quanCheng>
+    <j.0:zhuYaoZongJiao>基督新教、天主教等</j.0:zhuYaoZongJiao>
+    <j.0:zhongWenMing>北美洲</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2321944">
+    <j.0:liShiZuiDiQiWen>-89.2℃</j.0:liShiZuiDiQiWen>
+    <j.0:zhuYaoZiYuan rdf:resource="http://ws.nju.edu.cn/clinga/A2358269"/>
+    <j.0:pingJunFengSu>17.5m/s</j.0:pingJunFengSu>
+    <j.0:luDiMianJi>1239万平方千米</j.0:luDiMianJi>
+    <j.0:zhuYaoZiYuan rdf:resource="http://ws.nju.edu.cn/clinga/A1982965"/>
+    <j.0:luDiPingJunHaiBa>2350m</j.0:luDiPingJunHaiBa>
+    <j.0:zongMianJi>1424万平方千米</j.0:zongMianJi>
+    <j.0:nianPingJunJiangShuiLiang>55mm</j.0:nianPingJunJiangShuiLiang>
+    <j.0:zhuYaoZiYuan rdf:resource="http://ws.nju.edu.cn/clinga/A902735"/>
+    <j.0:zuiDiDian rdf:resource="http://ws.nju.edu.cn/clinga/A671715"/>
+    <j.0:waiWenMing>Antarctica</j.0:waiWenMing>
+    <j.0:daoYuMianJi>7.6万</j.0:daoYuMianJi>
+    <j.0:bingCengPingJunHouDu>1880m</j.0:bingCengPingJunHouDu>
+    <j.0:zhuYaoZiYuan rdf:resource="http://ws.nju.edu.cn/clinga/A2299745"/>
+    <j.0:luYuanBingMianJi>1580000平方千米</j.0:luYuanBingMianJi>
+    <j.0:zhuYaoZiYuan rdf:resource="http://ws.nju.edu.cn/clinga/A2337219"/>
+    <j.0:zuiGaoDian rdf:resource="http://ws.nju.edu.cn/clinga/A1253643"/>
+    <j.0:zongBingLiang>28672000km³</j.0:zongBingLiang>
+    <j.0:haiAnXianZhangDu>17968km</j.0:haiAnXianZhangDu>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A2321944"/>
+  </rdf:Description>
+</rdf:RDF>

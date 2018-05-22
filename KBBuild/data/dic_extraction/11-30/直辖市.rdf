@@ -1,0 +1,159 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://ws.nju.edu.cn/clinga/">
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2374265">
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2299095"/>
+    <j.0:waiWenMingCheng>Beijing</j.0:waiWenMingCheng>
+    <j.0:shiShuJiShiHua rdf:resource="http://ws.nju.edu.cn/clinga/A904315"/>
+    <j.0:youZhengQuMa>100000</j.0:youZhengQuMa>
+    <j.0:gaoDengXueFu rdf:resource="http://ws.nju.edu.cn/clinga/A2348526"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2324573"/>
+    <j.0:xianRenLingDao rdf:resource="http://ws.nju.edu.cn/clinga/A2326928"/>
+    <j.0:jiChang rdf:resource="http://ws.nju.edu.cn/clinga/A2513523"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2325403"/>
+    <j.0:zhengFuZhuDi rdf:resource="http://ws.nju.edu.cn/clinga/A2641452"/>
+    <j.0:mianJi>16410.54平方千米</j.0:mianJi>
+    <j.0:zhongWenMingCheng>北京</j.0:zhongWenMingCheng>
+    <j.0:diTieYunYingLiCheng>554km</j.0:diTieYunYingLiCheng>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A3104038"/>
+    <j.0:gaoDengXueFu rdf:resource="http://ws.nju.edu.cn/clinga/A2751576"/>
+    <j.0:xiaXiaDiQu>16个市辖区</j.0:xiaXiaDiQu>
+    <j.0:jiChang rdf:resource="http://ws.nju.edu.cn/clinga/A3114220"/>
+    <j.0:dianHuaQuHao>(+86)010</j.0:dianHuaQuHao>
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2640985"/>
+    <j.0:renJunShengChanZongZhi>106284元人民币(2015年)</j.0:renJunShengChanZongZhi>
+    <j.0:qiHouTiaoJian>北温带季风气候</j.0:qiHouTiaoJian>
+    <j.0:renKou>2170.5万人(2015年)</j.0:renKou>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A2276261"/>
+    <j.0:xianRenLingDao rdf:resource="http://ws.nju.edu.cn/clinga/A383224"/>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A1988992"/>
+    <j.0:gaoDengXueFu rdf:resource="http://ws.nju.edu.cn/clinga/A2359536"/>
+    <j.0:zuiGaoJianZhu rdf:resource="http://ws.nju.edu.cn/clinga/A109546"/>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A2310836"/>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A2337153"/>
+    <j.0:xianRenLingDao rdf:resource="http://ws.nju.edu.cn/clinga/A2325825"/>
+    <j.0:fangYan rdf:resource="http://ws.nju.edu.cn/clinga/A2364569"/>
+    <j.0:chePaiDaiMa>京A-Q</j.0:chePaiDaiMa>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2333819"/>
+    <j.0:xingZhengQuLeiBie rdf:resource="http://ws.nju.edu.cn/clinga/A104602"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A101333"/>
+    <j.0:zhengFuZhuDi rdf:resource="http://ws.nju.edu.cn/clinga/A2065384"/>
+    <j.0:diQuShengChanZongZhi>22968.6亿元人民币(2015年)</j.0:diQuShengChanZongZhi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A78665">
+    <j.0:dianHuaQuHao>021</j.0:dianHuaQuHao>
+    <j.0:jiChang rdf:resource="http://ws.nju.edu.cn/clinga/A3532009"/>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A2702343"/>
+    <j.0:renKou>2425.68万(2015年)</j.0:renKou>
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A109632"/>
+    <j.0:fangYan rdf:resource="http://ws.nju.edu.cn/clinga/A104355"/>
+    <j.0:diQuShengChanZongZhi>24964.99亿元(2015年)</j.0:diQuShengChanZongZhi>
+    <j.0:xiaXiaDiQu>15区、1县</j.0:xiaXiaDiQu>
+    <j.0:zhuYaoLingDao rdf:resource="http://ws.nju.edu.cn/clinga/A2334198"/>
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A2360159"/>
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2389853"/>
+    <j.0:zuiGaoJianZhu>上海中心大厦(632m)</j.0:zuiGaoJianZhu>
+    <j.0:shiHua rdf:resource="http://ws.nju.edu.cn/clinga/A80342"/>
+    <j.0:zhuMingDaXue rdf:resource="http://ws.nju.edu.cn/clinga/A2361200"/>
+    <j.0:xingZhengQuLeiBie rdf:resource="http://ws.nju.edu.cn/clinga/A104602"/>
+    <j.0:zhuMingDaXue rdf:resource="http://ws.nju.edu.cn/clinga/A2352638"/>
+    <j.0:chePaiDaiMa>沪</j.0:chePaiDaiMa>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2170256"/>
+    <j.0:jiChang rdf:resource="http://ws.nju.edu.cn/clinga/A64389"/>
+    <j.0:mianJi>6,340平方公里</j.0:mianJi>
+    <j.0:zhengFuZhuDi rdf:resource="http://ws.nju.edu.cn/clinga/A2307541"/>
+    <j.0:zhongWenMingCheng>上海</j.0:zhongWenMingCheng>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A1240324"/>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A79498"/>
+    <j.0:diTieYunYingLiCheng>617km</j.0:diTieYunYingLiCheng>
+    <j.0:renLeiFaZhanZhiShu>0.9(极高)</j.0:renLeiFaZhanZhiShu>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A1693569"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2480881"/>
+    <j.0:zhuYaoLingDao rdf:resource="http://ws.nju.edu.cn/clinga/A2591725"/>
+    <j.0:zhuYaoLingDao rdf:resource="http://ws.nju.edu.cn/clinga/A2252340"/>
+    <j.0:zhuYaoLingDao rdf:resource="http://ws.nju.edu.cn/clinga/A2580107"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A97720"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2355950"/>
+    <j.0:shiShu rdf:resource="http://ws.nju.edu.cn/clinga/A2643809"/>
+    <j.0:renJunShengChanZongZhi>97,131元(2014年)</j.0:renJunShengChanZongZhi>
+    <j.0:fangYan rdf:resource="http://ws.nju.edu.cn/clinga/A1571514"/>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A2539505"/>
+    <j.0:waiWenMingCheng>Shanghai</j.0:waiWenMingCheng>
+    <j.0:youZhengQuMa>200000</j.0:youZhengQuMa>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A103444">
+    <j.0:jiChang rdf:resource="http://ws.nju.edu.cn/clinga/A2273838"/>
+    <j.0:mianJi>1.1946万平方千米</j.0:mianJi>
+    <j.0:youZhengQuMa>300000</j.0:youZhengQuMa>
+    <j.0:zhongWenMingCheng>天津</j.0:zhongWenMingCheng>
+    <j.0:xianRenLingDao rdf:resource="http://ws.nju.edu.cn/clinga/A334936"/>
+    <j.0:renJunShengChanZongZhi>105201元(2014年)</j.0:renJunShengChanZongZhi>
+    <j.0:waiWenMingCheng>MunicipalityofTientsin/Tianjin</j.0:waiWenMingCheng>
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A2773116"/>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A3115557"/>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A968447"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2483542"/>
+    <j.0:bieMing>津、沽等</j.0:bieMing>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A1989047"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2329142"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2252477"/>
+    <j.0:dianHuaQuHao>022</j.0:dianHuaQuHao>
+    <j.0:diQuShengChanZongZhi>16538.19亿元(2015年)</j.0:diQuShengChanZongZhi>
+    <j.0:zhuMingGaoXiao rdf:resource="http://ws.nju.edu.cn/clinga/A2366035"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2364205"/>
+    <j.0:xiaXiaDiQu>15区、1县</j.0:xiaXiaDiQu>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A3100620"/>
+    <j.0:xingZhengQuLeiBie rdf:resource="http://ws.nju.edu.cn/clinga/A104602"/>
+    <j.0:fangYan rdf:resource="http://ws.nju.edu.cn/clinga/A2274530"/>
+    <j.0:renKou>1516.81万(2014年)</j.0:renKou>
+    <j.0:chePaiDaiMa>津</j.0:chePaiDaiMa>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2358689">
+    <j.0:hangKongJiDi rdf:resource="http://ws.nju.edu.cn/clinga/A2795815"/>
+    <j.0:zhengFuZhuDi rdf:resource="http://ws.nju.edu.cn/clinga/A1566874"/>
+    <j.0:yinShi rdf:resource="http://ws.nju.edu.cn/clinga/A2249018"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A88297"/>
+    <j.0:hangKongJiDi rdf:resource="http://ws.nju.edu.cn/clinga/A2785350"/>
+    <j.0:shiShuShiHua rdf:resource="http://ws.nju.edu.cn/clinga/A2329558"/>
+    <j.0:fangYan rdf:resource="http://ws.nju.edu.cn/clinga/A2368678"/>
+    <j.0:jiChang rdf:resource="http://ws.nju.edu.cn/clinga/A2971185"/>
+    <j.0:yinShi rdf:resource="http://ws.nju.edu.cn/clinga/A1401942"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2261480"/>
+    <j.0:gaoDengXueFu rdf:resource="http://ws.nju.edu.cn/clinga/A2373685"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A108353"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2261995"/>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A3962649"/>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A1427318"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A11054632"/>
+    <j.0:guiDaoJiaoTong>1、2、3、6、国博线以及在建多线</j.0:guiDaoJiaoTong>
+    <j.0:mianJi>8.2402万平方千米</j.0:mianJi>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A1215839"/>
+    <j.0:jiChang rdf:resource="http://ws.nju.edu.cn/clinga/A51349"/>
+    <j.0:renKou>3016.55万人(2015年)</j.0:renKou>
+    <j.0:xingZhengQuLeiBie rdf:resource="http://ws.nju.edu.cn/clinga/A104602"/>
+    <j.0:youZhengQuMa>400000-409912</j.0:youZhengQuMa>
+    <j.0:zhongWenMingCheng rdf:resource="http://ws.nju.edu.cn/clinga/A2358689"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A100093"/>
+    <j.0:xingZhengQuLeiBie rdf:resource="http://ws.nju.edu.cn/clinga/A151234"/>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A1678241"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2288873"/>
+    <j.0:xiaXiaDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2762546"/>
+    <j.0:chePaiDaiMa>渝A、B、C、D、F、G、H</j.0:chePaiDaiMa>
+    <j.0:qiHouTiaoJian rdf:resource="http://ws.nju.edu.cn/clinga/A118392"/>
+    <j.0:waiWenMingCheng rdf:resource="http://ws.nju.edu.cn/clinga/A1250822"/>
+    <j.0:hangKongJiDi rdf:resource="http://ws.nju.edu.cn/clinga/A2791972"/>
+    <j.0:zuiGaoJianZhu rdf:resource="http://ws.nju.edu.cn/clinga/A2187208"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A3228023"/>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A2411310"/>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A3116944"/>
+    <j.0:jiChang rdf:resource="http://ws.nju.edu.cn/clinga/A11019720"/>
+    <j.0:fangYan rdf:resource="http://ws.nju.edu.cn/clinga/A3103840"/>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A5276916"/>
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2944314"/>
+    <j.0:wenHua rdf:resource="http://ws.nju.edu.cn/clinga/A2735191"/>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A1682631"/>
+    <j.0:fangYan rdf:resource="http://ws.nju.edu.cn/clinga/A418369"/>
+    <j.0:dianHuaQuHao>(+86)023</j.0:dianHuaQuHao>
+    <j.0:fangYan rdf:resource="http://ws.nju.edu.cn/clinga/A2412800"/>
+  </rdf:Description>
+</rdf:RDF>

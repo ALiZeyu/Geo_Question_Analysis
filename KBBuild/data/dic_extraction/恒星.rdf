@@ -1,0 +1,1423 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://ws.nju.edu.cn/clinga/">
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12447563">
+    <j.0:chuangJianCiTiaoZhe>王宇恒</j.0:chuangJianCiTiaoZhe>
+    <j.0:bieCheng>59Aql</j.0:bieCheng>
+    <j.0:seZhiShu>1.01</j.0:seZhiShu>
+    <j.0:guangPuLeiXing>K0III</j.0:guangPuLeiXing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:chiJing>19h54m14.99s</j.0:chiJing>
+    <j.0:shiXingDeng>4.70</j.0:shiXingDeng>
+    <j.0:chiWei>8°27′40.0″</j.0:chiWei>
+    <j.0:jueDuiXingDeng>0.95</j.0:jueDuiXingDeng>
+    <j.0:zhongWenMing>天鹅座ξ</j.0:zhongWenMing>
+    <j.0:baiErMingMingFa>ξApl</j.0:baiErMingMingFa>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1102563">
+    <j.0:xingZuo>飞马座</j.0:xingZuo>
+    <j.0:faXianShiJian>1995年</j.0:faXianShiJian>
+    <j.0:faXianZhe>MichaelMayor、DidlerQueloz</j.0:faXianZhe>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>51Pegasi</j.0:waiWenMing>
+    <j.0:zhongWenMing>飞马座51</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4217159">
+    <j.0:xingZuo>天蝎座</j.0:xingZuo>
+    <j.0:nianLing>400万年</j.0:nianLing>
+    <j.0:chiWei>–34°11′56.5″</j.0:chiWei>
+    <j.0:zhiLiang>120太阳质量</j.0:zhiLiang>
+    <j.0:juDiJuLi>8150Mly</j.0:juDiJuLi>
+    <j.0:liangDu>4,200,000L☉</j.0:liangDu>
+    <j.0:waiWenMing>Pismis24-1</j.0:waiWenMing>
+    <j.0:zhiJing>53.2太阳直径</j.0:zhiJing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:jueDuiXingDeng>-7.3</j.0:jueDuiXingDeng>
+    <j.0:guangPuFenLei>O3</j.0:guangPuFenLei>
+    <j.0:zuiLiangXing>Pismis24-1SW</j.0:zuiLiangXing>
+    <j.0:shiXingDeng>10.43</j.0:shiXingDeng>
+    <j.0:biaoMianWenDu>50700K</j.0:biaoMianWenDu>
+    <j.0:chiJing>17h24m43.41s</j.0:chiJing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4668899">
+    <j.0:faXianYiJu>分析凯克-II和</j.0:faXianYiJu>
+    <j.0:faXianShiJian>2011年8月20日</j.0:faXianShiJian>
+    <j.0:faXianZhe rdf:resource="http://ws.nju.edu.cn/clinga/A2370409"/>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>赛吉尔-1矮星系</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A112542">
+    <j.0:guangPuLeiXing>B3Vpe</j.0:guangPuLeiXing>
+    <j.0:shiXingDeng>0.445</j.0:shiXingDeng>
+    <j.0:zhongWenMing>水委一</j.0:zhongWenMing>
+    <j.0:biaoMianWenDu>14500开</j.0:biaoMianWenDu>
+    <j.0:juDiJuLi rdf:resource="http://ws.nju.edu.cn/clinga/A2168856"/>
+    <j.0:ziZhuanSuDu rdf:resource="http://ws.nju.edu.cn/clinga/A2293170"/>
+    <j.0:xingZuo>波江座</j.0:xingZuo>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:chiWei>−57°14'12.3101"</j.0:chiWei>
+    <j.0:chiJing>01h37m42.84548s</j.0:chiJing>
+    <j.0:waiWenMing>αEri</j.0:waiWenMing>
+    <j.0:jueDuiXingDeng>-2.77</j.0:jueDuiXingDeng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2330814">
+    <j.0:chiJing>17h34m56.18s</j.0:chiJing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:jueDuiXingDeng>1.18</j.0:jueDuiXingDeng>
+    <j.0:chuangJianZhe>王宇恒</j.0:chuangJianZhe>
+    <j.0:guangPuLeiXing>A5III</j.0:guangPuLeiXing>
+    <j.0:chiWei>12°33′32.6″</j.0:chiWei>
+    <j.0:shiXingDeng>2.05</j.0:shiXingDeng>
+    <j.0:suoShuXingZuo>蛇夫座</j.0:suoShuXingZuo>
+    <j.0:zhongWenMing>侯</j.0:zhongWenMing>
+    <j.0:bieCheng>αOph</j.0:bieCheng>
+    <j.0:seZhiShu>0.16</j.0:seZhiShu>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1006625">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>北极星</j.0:bieCheng>
+    <j.0:waiWenMing>polaris</j.0:waiWenMing>
+    <j.0:zhongWenMing>波拉利斯</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7062287">
+    <j.0:banJing>3.14R☉</j.0:banJing>
+    <j.0:guangPuFenLei>G0V</j.0:guangPuFenLei>
+    <j.0:chiWei>+41°52′19″</j.0:chiWei>
+    <j.0:chiJing>19h35m02s</j.0:chiJing>
+    <j.0:jueDuiXingDeng>13</j.0:jueDuiXingDeng>
+    <j.0:zhiLiang>1.37M☉</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>Kepler-56</j.0:waiWenMing>
+    <j.0:zhongWenMing>开普勒-56</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10714426">
+    <j.0:weiZhi>大麦哲伦星云</j.0:weiZhi>
+    <j.0:liangDu>220万倍太阳</j.0:liangDu>
+    <j.0:juDiJuLi>170000光年</j.0:juDiJuLi>
+    <j.0:jueDuiXingDeng>-11.1等</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>12.8等</j.0:shiXingDeng>
+    <j.0:zhiLiang>150倍太阳</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>HDE269810</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2378703">
+    <j.0:jueDuiXingDeng>-0.40等</j.0:jueDuiXingDeng>
+    <j.0:zhongWenMing>大陵五</j.0:zhongWenMing>
+    <j.0:shiXingDeng>2.14等</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>英仙座β星</j.0:bieCheng>
+    <j.0:zhiJing>2.5倍太阳直径/3倍太阳直径/1.5倍太阳直径</j.0:zhiJing>
+    <j.0:biaoMianWenDu>12500K/4900K/8400K</j.0:biaoMianWenDu>
+    <j.0:zhiLiang>3.55倍太阳质量/0.79倍太阳质量/1.65倍太阳质量</j.0:zhiLiang>
+    <j.0:juDiJuLi>92.8光年</j.0:juDiJuLi>
+    <j.0:waiWenMing>Algol</j.0:waiWenMing>
+    <j.0:guangPu>B8V+K0IV+A5-7V</j.0:guangPu>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A875684">
+    <j.0:faXianShiJian>2009年</j.0:faXianShiJian>
+    <j.0:faXianZhe>杰夫·库克</j.0:faXianZhe>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>远古超新星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A837821">
+    <j.0:jueDuiXingDeng>-3.5—-8.0</j.0:jueDuiXingDeng>
+    <j.0:biaoMianWenDu>25000K-55000K</j.0:biaoMianWenDu>
+    <j.0:zhiJing>6R⊙-100R⊙</j.0:zhiJing>
+    <j.0:zhiLiang>16M⊙-260M⊙</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>O-Typestar</j.0:waiWenMing>
+    <j.0:zhongWenMing>O型星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4323237">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>金牛座ω¹</j.0:bieCheng>
+    <j.0:waiWenMing>ω¹Tauri</j.0:waiWenMing>
+    <j.0:zhongWenMing>天街增一</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3122254">
+    <j.0:juDiJuLi>83.7±1.4光年</j.0:juDiJuLi>
+    <j.0:chiWei>+5341'41.1"</j.0:chiWei>
+    <j.0:chiJing>11h53m49.83s</j.0:chiJing>
+    <j.0:jueDuiXingDeng>0.37</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>2.50</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>禄存星</j.0:bieCheng>
+    <j.0:waiWenMing>Phecda</j.0:waiWenMing>
+    <j.0:zhongWenMing>天玑</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11791789">
+    <j.0:faXianDi rdf:resource="http://ws.nju.edu.cn/clinga/A2301400"/>
+    <j.0:faXianShiJian>1905年4月6日</j.0:faXianShiJian>
+    <j.0:faXianZhe rdf:resource="http://ws.nju.edu.cn/clinga/A3774724"/>
+    <j.0:fenLei>例:行星、恒星、</j.0:fenLei>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5485635">
+    <j.0:guangPuLeiXing>K1.5III</j.0:guangPuLeiXing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>白羊座39</j.0:bieCheng>
+    <j.0:zhongWenMing>胃宿二</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4199763">
+    <j.0:weiZhi>三角座星系</j.0:weiZhi>
+    <j.0:liangDu>220万倍太阳</j.0:liangDu>
+    <j.0:juDiJuLi>300万光年</j.0:juDiJuLi>
+    <j.0:jueDuiXingDeng>-11.1等</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>16.4等</j.0:shiXingDeng>
+    <j.0:zhiLiang>150倍太阳</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>Var83</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4010571">
+    <j.0:shiXingDeng>12.51</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>Kepler-20</j.0:waiWenMing>
+    <j.0:zhongWenMing>开普勒20</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3120800">
+    <j.0:bieCheng>室女座α</j.0:bieCheng>
+    <j.0:biaoMianWenDu>23,500K</j.0:biaoMianWenDu>
+    <j.0:juDiJuLi>260±20光年(80±6秒差距)</j.0:juDiJuLi>
+    <j.0:banZhangZhou>7.20R☉</j.0:banZhangZhou>
+    <j.0:chiWei>−11°09'41"</j.0:chiWei>
+    <j.0:zhiLiang>10.25M☉</j.0:zhiLiang>
+    <j.0:chiJing>13h25m11.6s</j.0:chiJing>
+    <j.0:fenLei>恒星(双星系统)</j.0:fenLei>
+    <j.0:waiWenMing>Spica</j.0:waiWenMing>
+    <j.0:zhongWenMing>角宿一</j.0:zhongWenMing>
+    <j.0:shiXingDeng>+0.98</j.0:shiXingDeng>
+    <j.0:jueDuiXingDeng>−3.65</j.0:jueDuiXingDeng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4133672">
+    <j.0:bieCheng>金牛座</j.0:bieCheng>
+    <j.0:zhongWenMing>毕宿增十二</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12420766">
+    <j.0:yiDongSuDu>每秒钟24公里</j.0:yiDongSuDu>
+    <j.0:juDiJuLi>约460光年</j.0:juDiJuLi>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>逃逸恒星</j.0:bieCheng>
+    <j.0:zhongWenMing>蛇夫座Ζ</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A419739">
+    <j.0:banZhangZhou>2880000km</j.0:banZhangZhou>
+    <j.0:faXianZhe>中国人</j.0:faXianZhe>
+    <j.0:juDiJuLi>1.471亿千米</j.0:juDiJuLi>
+    <j.0:ziZhuanZhouQi>一年</j.0:ziZhuanZhouQi>
+    <j.0:biaoMianWenDu>表面温度为6000摄氏度</j.0:biaoMianWenDu>
+    <j.0:zhongWenMing>太阳直射</j.0:zhongWenMing>
+    <j.0:zhiLiang>太阳的质量是地球的33万倍1.98×10^27吨</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:pingJunMiDu>每立方厘米1.4克</j.0:pingJunMiDu>
+    <j.0:liXinLv>0.0164</j.0:liXinLv>
+    <j.0:gongZhuanZhouQi>2.5亿年</j.0:gongZhuanZhouQi>
+    <j.0:zhiJing>139.2万km</j.0:zhiJing>
+    <j.0:faXianShiJian>《汉书。五行志》记载,西汉“河平元年(公元前28年)</j.0:faXianShiJian>
+    <j.0:waiWenMing>SUN</j.0:waiWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2163333">
+    <j.0:taoYiSuDu>太阳表面脱离速度=618公里/秒</j.0:taoYiSuDu>
+    <j.0:zhiJing>大约1,392,020km</j.0:zhiJing>
+    <j.0:gongZhuanZhouQi>绕银河系中心公转周期约2.25×10^8年</j.0:gongZhuanZhouQi>
+    <j.0:shiXingDeng>-26.74等</j.0:shiXingDeng>
+    <j.0:zhongWenMing>日环蚀</j.0:zhongWenMing>
+    <j.0:zhiLiang>大约1.98×10^30kg</j.0:zhiLiang>
+    <j.0:pingJunMiDu>大约1411千克/立方米</j.0:pingJunMiDu>
+    <j.0:biaoMianWenDu>大约5505°C</j.0:biaoMianWenDu>
+    <j.0:jueDuiXingDeng>4.83等</j.0:jueDuiXingDeng>
+    <j.0:chiWei>-23°27'到+23°27'</j.0:chiWei>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:juDiJuLi>日地平均距离(1天文单位):1.49597870×10^11米(1亿5千万公里)</j.0:juDiJuLi>
+    <j.0:waiWenMing>Annulareclipse</j.0:waiWenMing>
+    <j.0:ziZhuanZhouQi>约27天6小时36分钟</j.0:ziZhuanZhouQi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3945321">
+    <j.0:xingZuo rdf:resource="http://ws.nju.edu.cn/clinga/A2260333"/>
+    <j.0:chiWei>-25°26′23.00″</j.0:chiWei>
+    <j.0:chiJing>24951.00</j.0:chiJing>
+    <j.0:jueDuiXingDeng>6.14等</j.0:jueDuiXingDeng>
+    <j.0:zhongWenMing>HR844</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4230430">
+    <j.0:liangDu>180万倍太阳</j.0:liangDu>
+    <j.0:juDiJuLi>15000光年</j.0:juDiJuLi>
+    <j.0:jueDuiXingDeng>-10.9等</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>17.8等</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>Wray17-96</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5872837">
+    <j.0:xingZuo rdf:resource="http://ws.nju.edu.cn/clinga/A2303706"/>
+    <j.0:chiWei>-78°36′42.00″</j.0:chiWei>
+    <j.0:chiJing>31557.60</j.0:chiJing>
+    <j.0:zhongWenMing>HR1025</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3098378">
+    <j.0:juDiJuLi>约25.13光年</j.0:juDiJuLi>
+    <j.0:chiWei>-29°37′20″</j.0:chiWei>
+    <j.0:chiJing>22h57m39.1s</j.0:chiJing>
+    <j.0:jueDuiXingDeng>+1.72</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>+1.16</j.0:shiXingDeng>
+    <j.0:biaoMianWenDu>约8751k</j.0:biaoMianWenDu>
+    <j.0:fenLei>A3V型白色主序恒星</j.0:fenLei>
+    <j.0:waiWenMing>αPsA</j.0:waiWenMing>
+    <j.0:zhongWenMing>北落师门</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A6094019">
+    <j.0:zhongWenMing>大犬座cx</j.0:zhongWenMing>
+    <j.0:fenLei rdf:resource="http://ws.nju.edu.cn/clinga/A2327558"/>
+    <j.0:zhiJing>不少于89.7亿千米</j.0:zhiJing>
+    <j.0:biaoMianWenDu>3200k</j.0:biaoMianWenDu>
+    <j.0:waiWenMing>CanisMajorCX</j.0:waiWenMing>
+    <j.0:zhiLiang>20-50太阳质量</j.0:zhiLiang>
+    <j.0:jueDuiXingDeng>-10.8</j.0:jueDuiXingDeng>
+    <j.0:faXianShiJian>2012年</j.0:faXianShiJian>
+    <j.0:bieCheng>cxcma</j.0:bieCheng>
+    <j.0:juDiJuLi>4300-6900光年</j.0:juDiJuLi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A173111">
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2139655"/>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2332509"/>
+    <j.0:bieCheng rdf:resource="http://ws.nju.edu.cn/clinga/A2104570"/>
+    <j.0:zhongWenMing>第一星族星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2355732">
+    <j.0:jueDuiXingDeng>4.83</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>(V)−26.74</j.0:shiXingDeng>
+    <j.0:taoYiSuDu>617.7km/s</j.0:taoYiSuDu>
+    <j.0:biaoMianWenDu>5770K</j.0:biaoMianWenDu>
+    <j.0:zhiJing>1.392×10^6km</j.0:zhiJing>
+    <j.0:pingJunMiDu>1.408×10^3kg/㎥</j.0:pingJunMiDu>
+    <j.0:zhiLiang>1.9891×10^30kg</j.0:zhiLiang>
+    <j.0:waiWenMing>Sun</j.0:waiWenMing>
+    <j.0:zhongWenMing>太阳</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A696824">
+    <j.0:juLiDiQiu>800光年</j.0:juLiDiQiu>
+    <j.0:teZheng>光谱呈现奇特的变化性</j.0:teZheng>
+    <j.0:fenLei>双子恒星</j.0:fenLei>
+    <j.0:zhongWenMing>CHCygni共生恒星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A13022650">
+    <j.0:zhiJing>Ce中为7400倍太阳直径</j.0:zhiJing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:shiXingDeng>Ce中为0.00</j.0:shiXingDeng>
+    <j.0:jueDuiXingDeng>Ce中为-13.94</j.0:jueDuiXingDeng>
+    <j.0:guangPuLeiXing>Ce中为K0</j.0:guangPuLeiXing>
+    <j.0:waiWenMing>HIP795000</j.0:waiWenMing>
+    <j.0:biaoMianWenDu>Ce中为5250k</j.0:biaoMianWenDu>
+    <j.0:juDiJuLi>Ce中为6.1319Kpc</j.0:juDiJuLi>
+    <j.0:ziZhuanZhouQi>Ce中为21.5天</j.0:ziZhuanZhouQi>
+    <j.0:bieCheng>V838Mon</j.0:bieCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A706237">
+    <j.0:faXianZhe>冥王星伴侣搜索团队</j.0:faXianZhe>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhiJing>52-160公里间</j.0:zhiJing>
+    <j.0:banZhangZhou>64,749公里</j.0:banZhangZhou>
+    <j.0:bieCheng>冥卫三</j.0:bieCheng>
+    <j.0:guiDaoQingJiao>0.212°是冥王星的卫星之一</j.0:guiDaoQingJiao>
+    <j.0:zhongWenMing>许德拉卫星</j.0:zhongWenMing>
+    <j.0:biaoMianWenDu>33-55K</j.0:biaoMianWenDu>
+    <j.0:waiWenMing>Hydra</j.0:waiWenMing>
+    <j.0:faXianShiJian>2005年6月</j.0:faXianShiJian>
+    <j.0:liXinLv>0.0051</j.0:liXinLv>
+    <j.0:gongZhuanZhouQi>38.206±0.001d</j.0:gongZhuanZhouQi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A79638">
+    <j.0:juDiJuLi>8.6光年</j.0:juDiJuLi>
+    <j.0:jueDuiXingDeng>+1.43</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>-1.47</j.0:shiXingDeng>
+    <j.0:biaoMianWenDu>约11000摄氏度</j.0:biaoMianWenDu>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>天狼星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3507140">
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2255733"/>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>μAra/μArae</j.0:waiWenMing>
+    <j.0:zhongWenMing>天坛座μ</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3167742">
+    <j.0:juDiJuLi rdf:resource="http://ws.nju.edu.cn/clinga/A2357394"/>
+    <j.0:biaoMianWenDu rdf:resource="http://ws.nju.edu.cn/clinga/A86101"/>
+    <j.0:zhiJing rdf:resource="http://ws.nju.edu.cn/clinga/A2564296"/>
+    <j.0:zhiLiang rdf:resource="http://ws.nju.edu.cn/clinga/A890089"/>
+    <j.0:fenLei rdf:resource="http://ws.nju.edu.cn/clinga/A2327558"/>
+    <j.0:waiWenMing>Lesath</j.0:waiWenMing>
+    <j.0:zhongWenMing>尾宿九</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2430064">
+    <j.0:liYuan>J2000</j.0:liYuan>
+    <j.0:xingGuan>鬼宿天社</j.0:xingGuan>
+    <j.0:xingZuo>船帆座</j.0:xingZuo>
+    <j.0:chiWei>−54°42′30″</j.0:chiWei>
+    <j.0:chiJing>08h44m42.2s</j.0:chiJing>
+    <j.0:shiXingDeng>1.95(2.03/5.1)</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>天社三</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12386429">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>Kepler-62</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11093903">
+    <j.0:suoZaiXingZuo>人马座</j.0:suoZaiXingZuo>
+    <j.0:liangDu>500万倍太阳</j.0:liangDu>
+    <j.0:juDiJuLi>30000-49000光年</j.0:juDiJuLi>
+    <j.0:jueDuiXingDeng>-12等</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>8.6等</j.0:shiXingDeng>
+    <j.0:zhiLiang>130-200倍太阳</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>LVB1806-20</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4008764">
+    <j.0:shiXingDeng>12等</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>HAT-P-5</j.0:bieCheng>
+    <j.0:waiWenMing>GSC02634-01087</j.0:waiWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12891764">
+    <j.0:chiJing>05H38m42.33s</j.0:chiJing>
+    <j.0:guanCeZiLiao>历元J2000.0</j.0:guanCeZiLiao>
+    <j.0:chiWei>-69°06'03.27"</j.0:chiWei>
+    <j.0:faXianShiJian>1985年</j.0:faXianShiJian>
+    <j.0:bieCheng>RMC136a3、BAT99106</j.0:bieCheng>
+    <j.0:xingZuo>剑鱼座</j.0:xingZuo>
+    <j.0:jueDuiReXingDeng>-7.39</j.0:jueDuiReXingDeng>
+    <j.0:nianLing>300000万年</j.0:nianLing>
+    <j.0:zhiJing>19倍太阳</j.0:zhiJing>
+    <j.0:guangDu>3802000倍太阳</j.0:guangDu>
+    <j.0:yanHuaJieDuan>沃尔夫-拉叶星</j.0:yanHuaJieDuan>
+    <j.0:juDiJuLi>163000光年(49970秒差距)</j.0:juDiJuLi>
+    <j.0:guangPu>WN5h</j.0:guangPu>
+    <j.0:zhiLiang>180倍太阳</j.0:zhiLiang>
+    <j.0:biaoMianWenDu>53000K</j.0:biaoMianWenDu>
+    <j.0:waiWenMing>E136a3</j.0:waiWenMing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:shiXingDeng>12.97</j.0:shiXingDeng>
+    <j.0:zhongWenMing>R136a3</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A101595">
+    <j.0:xianJinJuLi>434ly</j.0:xianJinJuLi>
+    <j.0:xianJinShiXingDeng>1.97</j.0:xianJinShiXingDeng>
+    <j.0:xianJinHengXing>勾陈一</j.0:xianJinHengXing>
+    <j.0:hanYi>最靠近北天极的一颗星</j.0:hanYi>
+    <j.0:waiWenMing>Polaris</j.0:waiWenMing>
+    <j.0:zhongWenMing>北极星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5498320">
+    <j.0:shiXingDeng>8.3</j.0:shiXingDeng>
+    <j.0:bieCheng>WASP-33</j.0:bieCheng>
+    <j.0:waiWenMing>HD15082</j.0:waiWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A275102">
+    <j.0:fenLei rdf:resource="http://ws.nju.edu.cn/clinga/A3318997"/>
+    <j.0:bieCheng>Porrima和Arich</j.0:bieCheng>
+    <j.0:waiWenMing>γVir/γVirginis</j.0:waiWenMing>
+    <j.0:zhongWenMing>东上相</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A9255592">
+    <j.0:teDian>含铁量极低</j.0:teDian>
+    <j.0:faXianZhe>SkyMapperSouthernSkySurve</j.0:faXianZhe>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>SMSS03136708</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A62522">
+    <j.0:U-BSeZhiShu>-0.46</j.0:U-BSeZhiShu>
+    <j.0:B-VSeZhiShu>-0.13</j.0:B-VSeZhiShu>
+    <j.0:zhiLiang></j.0:zhiLiang>
+    <j.0:bianXingLeiXing>None</j.0:bianXingLeiXing>
+    <j.0:xingZuo>天鹤座</j.0:xingZuo>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>鹤一</j.0:zhongWenMing>
+    <j.0:waiWenMing>Alnair或AlNair</j.0:waiWenMing>
+    <j.0:bieCheng>AlNa'ir</j.0:bieCheng>
+    <j.0:guangPuFenLei>B7IV</j.0:guangPuFenLei>
+    <j.0:xingGuan rdf:resource="http://ws.nju.edu.cn/clinga/A2050405"/>
+    <j.0:juDiJuLi>101±3光年(31.1±0.8秒差距)</j.0:juDiJuLi>
+    <j.0:shiXingDeng>+1.73</j.0:shiXingDeng>
+    <j.0:jueDuiXingDeng>-0.74</j.0:jueDuiXingDeng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A8668840">
+    <j.0:juDiJuLi rdf:resource="http://ws.nju.edu.cn/clinga/A2357394"/>
+    <j.0:taoYiSuDu>每秒477公里</j.0:taoYiSuDu>
+    <j.0:zhiLiang>太阳质量的9倍</j.0:zhiLiang>
+    <j.0:faXianZhe rdf:resource="http://ws.nju.edu.cn/clinga/A2281296"/>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>超高速星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2401371">
+    <j.0:fenLei rdf:resource="http://ws.nju.edu.cn/clinga/A3321861"/>
+    <j.0:banJing>r=2MG/c2</j.0:banJing>
+    <j.0:tiChuRen rdf:resource="http://ws.nju.edu.cn/clinga/A84847"/>
+    <j.0:shiJian rdf:resource="http://ws.nju.edu.cn/clinga/A1568094"/>
+    <j.0:xingZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2337135"/>
+    <j.0:waiWenMing>Schwarzschildblackhole</j.0:waiWenMing>
+    <j.0:zhongWenMing>史瓦西黑洞</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10292218">
+    <j.0:juDiJuLi>约400光年</j.0:juDiJuLi>
+    <j.0:shiXingDeng>1.58等和2.09等</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>十字架二</j.0:bieCheng>
+    <j.0:waiWenMing>AlphaCrucis</j.0:waiWenMing>
+    <j.0:zhongWenMing>南十字座α</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3484166">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>VVCEPHEIA</j.0:waiWenMing>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A2286735"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7824634">
+    <j.0:leiXing rdf:resource="http://ws.nju.edu.cn/clinga/A2373366"/>
+    <j.0:shiXingDeng>3.20</j.0:shiXingDeng>
+    <j.0:chiJing>2h58m15.65s</j.0:chiJing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:guangPuLeiXing>A4III+...</j.0:guangPuLeiXing>
+    <j.0:chiWei>﹣40°18′16.6″</j.0:chiWei>
+    <j.0:zhongWenMing>天园六</j.0:zhongWenMing>
+    <j.0:bieCheng>ΘEri</j.0:bieCheng>
+    <j.0:chuangJianZhe>王宇恒</j.0:chuangJianZhe>
+    <j.0:waiWenMing>HIP13847A</j.0:waiWenMing>
+    <j.0:jueDuiXingDeng>﹣0.27</j.0:jueDuiXingDeng>
+    <j.0:seZhiShu>0.16</j.0:seZhiShu>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2030512">
+    <j.0:chiWei>+51°29′20.3〃</j.0:chiWei>
+    <j.0:chiJing>17h56m36.4s</j.0:chiJing>
+    <j.0:shiXingDeng>2.24</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>γDra/天龙座γ</j.0:bieCheng>
+    <j.0:zhongWenMing>天棓四</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11344877">
+    <j.0:guangPuXing>O型</j.0:guangPuXing>
+    <j.0:juDiJuLi>840光年</j.0:juDiJuLi>
+    <j.0:shiXingDeng>1.8等</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>天社一</j.0:bieCheng>
+    <j.0:waiWenMing>Roger</j.0:waiWenMing>
+    <j.0:zhongWenMing>船帆座γ星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3111650">
+    <j.0:guiDaoQingJiao>31.9°</j.0:guiDaoQingJiao>
+    <j.0:liXinLv>0.36</j.0:liXinLv>
+    <j.0:banZhangZhou>1.18"</j.0:banZhangZhou>
+    <j.0:zhongWenMing>南河三</j.0:zhongWenMing>
+    <j.0:waiWenMing>αCMi</j.0:waiWenMing>
+    <j.0:xingZuo>小犬座</j.0:xingZuo>
+    <j.0:xingGuan>南河</j.0:xingGuan>
+    <j.0:guangPuLeiXing>F5IV-V</j.0:guangPuLeiXing>
+    <j.0:juDiJuLi>约11.46光年</j.0:juDiJuLi>
+    <j.0:chiJing>07h39m18.1s</j.0:chiJing>
+    <j.0:shiXingDeng>约0.34</j.0:shiXingDeng>
+    <j.0:nianLing>约1.7×1000000000年</j.0:nianLing>
+    <j.0:xingBiaoBianHao>HIP37279</j.0:xingBiaoBianHao>
+    <j.0:jueDuiXingDeng>约2.67</j.0:jueDuiXingDeng>
+    <j.0:chiWei>+05°13'29"</j.0:chiWei>
+    <j.0:fenLei>恒星</j.0:fenLei>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A9459531">
+    <j.0:chiJing>7h03m45.50s</j.0:chiJing>
+    <j.0:chiWei>﹣15°39′26.3″</j.0:chiWei>
+    <j.0:seZhiShu>﹣0.12</j.0:seZhiShu>
+    <j.0:shiXingDeng>4.10</j.0:shiXingDeng>
+    <j.0:jueDuiXingDeng>﹣1.56</j.0:jueDuiXingDeng>
+    <j.0:chuangJianCiTiaoZhe>王宇恒</j.0:chuangJianCiTiaoZhe>
+    <j.0:zhongWenMing>天狼增四</j.0:zhongWenMing>
+    <j.0:fenLei rdf:resource="http://ws.nju.edu.cn/clinga/A2327558"/>
+    <j.0:bieCheng>γCMa</j.0:bieCheng>
+    <j.0:guangPuLeiXing>B8II</j.0:guangPuLeiXing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5487883">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>双鱼座82</j.0:bieCheng>
+    <j.0:waiWenMing>82Psc</j.0:waiWenMing>
+    <j.0:zhongWenMing>奎宿增十三</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3465902">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>DenebDulfim</j.0:waiWenMing>
+    <j.0:zhongWenMing>败瓜一</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2309567">
+    <j.0:ziZhuanZhouQi>15.9h</j.0:ziZhuanZhouQi>
+    <j.0:ziZhuanSuDu>315km/s</j.0:ziZhuanSuDu>
+    <j.0:zhiLiang>205022115414235.8kg</j.0:zhiLiang>
+    <j.0:nianLing>50000000年</j.0:nianLing>
+    <j.0:shiCha>0.004113″</j.0:shiCha>
+    <j.0:chiWei>+11°58′02.7″</j.0:chiWei>
+    <j.0:zhongWenMing>轩辕十四</j.0:zhongWenMing>
+    <j.0:shiXingDeng>1.35</j.0:shiXingDeng>
+    <j.0:guangPuLeiXing>B7V</j.0:guangPuLeiXing>
+    <j.0:juDiJuLi>约79.5光年</j.0:juDiJuLi>
+    <j.0:waiWenMing>αLeo</j.0:waiWenMing>
+    <j.0:bieCheng>帝王之星、王者之星</j.0:bieCheng>
+    <j.0:chiJing>10h08m22.1s</j.0:chiJing>
+    <j.0:jueDuiXingDeng>-0.58</j.0:jueDuiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2275015">
+    <j.0:zhongWenMing>太子</j.0:zhongWenMing>
+    <j.0:chuangJianZhe>王宇恒</j.0:chuangJianZhe>
+    <j.0:chiWei>71°50′02.4″</j.0:chiWei>
+    <j.0:shiXingDeng>3.00</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:chiJing>15h20m43.67s</j.0:chiJing>
+    <j.0:jueDuiXingDeng>﹣2.87</j.0:jueDuiXingDeng>
+    <j.0:seZhiShu>0.07</j.0:seZhiShu>
+    <j.0:bieCheng>北极一</j.0:bieCheng>
+    <j.0:guangPuLeiXing>A3II-III</j.0:guangPuLeiXing>
+    <j.0:guangBianFanWei>3.04-3.09</j.0:guangBianFanWei>
+    <j.0:leiXing>脉动变星</j.0:leiXing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12942453">
+    <j.0:jueDuiXingDeng>-12</j.0:jueDuiXingDeng>
+    <j.0:xuanZhuanSuDu>200km/s</j.0:xuanZhuanSuDu>
+    <j.0:jinShuFengDu>0.4</j.0:jinShuFengDu>
+    <j.0:chiJing>5H38m42.45s</j.0:chiJing>
+    <j.0:juDiJuLi>163000光年(49970秒差距)</j.0:juDiJuLi>
+    <j.0:zhongWenMing>R136a2</j.0:zhongWenMing>
+    <j.0:faXianZhe>维格尔特和贝尔</j.0:faXianZhe>
+    <j.0:zhiJing>32586840km</j.0:zhiJing>
+    <j.0:shiXingDeng>12.34</j.0:shiXingDeng>
+    <j.0:guangDu>4900000倍太阳</j.0:guangDu>
+    <j.0:seZhiShuB-V>0.23</j.0:seZhiShuB-V>
+    <j.0:chiWei>-69°06'2.2"</j.0:chiWei>
+    <j.0:xingZuo>剑鱼座</j.0:xingZuo>
+    <j.0:faXianShiJian>1985年</j.0:faXianShiJian>
+    <j.0:guangPu>WN5h</j.0:guangPu>
+    <j.0:biaoMianWenDu>56000K</j.0:biaoMianWenDu>
+    <j.0:keJianGuangDu>32000倍太阳</j.0:keJianGuangDu>
+    <j.0:guanCeZiLiao>历元J2000.0</j.0:guanCeZiLiao>
+    <j.0:bieCheng>RMC136a2、MH511、BAT99109</j.0:bieCheng>
+    <j.0:jueDuiReXingDeng>-6.5</j.0:jueDuiReXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>R136a2</j.0:waiWenMing>
+    <j.0:zhiLiang>179倍太阳</j.0:zhiLiang>
+    <j.0:yanHuaJieDuan>沃尔夫-拉叶星</j.0:yanHuaJieDuan>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11997117">
+    <j.0:taoYiSuDu>1200公里/秒</j.0:taoYiSuDu>
+    <j.0:faXianShiJian>1982年</j.0:faXianShiJian>
+    <j.0:faXianZhe>彼得·乌舍尔(PeterUsher)</j.0:faXianZhe>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>超高速星</j.0:bieCheng>
+    <j.0:zhongWenMing>US708</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5483805">
+    <j.0:guangPuLeiXing>B3V</j.0:guangPuLeiXing>
+    <j.0:shiXingDeng>+4.65</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>白羊座35</j.0:bieCheng>
+    <j.0:zhongWenMing>胃宿一</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7447718">
+    <j.0:banXing>91Aqr</j.0:banXing>
+    <j.0:shiXingDeng>+4.21</j.0:shiXingDeng>
+    <j.0:bieCheng>羽林军卅九</j.0:bieCheng>
+    <j.0:zhongWenMing>宝瓶座91</j.0:zhongWenMing>
+    <j.0:jueDuiXingDeng>0.95</j.0:jueDuiXingDeng>
+    <j.0:liangDu>33L☉</j.0:liangDu>
+    <j.0:xingGuan rdf:resource="http://ws.nju.edu.cn/clinga/A2725544"/>
+    <j.0:zhiLiang>2.5M☉</j.0:zhiLiang>
+    <j.0:banXing>HD219430</j.0:banXing>
+    <j.0:juDiJuLi rdf:resource="http://ws.nju.edu.cn/clinga/A2168856"/>
+    <j.0:ziZhuanZhouQi>&lt;17km/s0.0698Year</j.0:ziZhuanZhouQi>
+    <j.0:jinShuLiang>-0.085(±0.055)</j.0:jinShuLiang>
+    <j.0:banJing>8.55R☉</j.0:banJing>
+    <j.0:guangPuFenLei>K0III</j.0:guangPuFenLei>
+    <j.0:waiWenMing>(91Aquarii)</j.0:waiWenMing>
+    <j.0:chiWei>−9°05′16″</j.0:chiWei>
+    <j.0:jingXiangSuDu>-26.4±0.9km/s</j.0:jingXiangSuDu>
+    <j.0:xingZuo>宝瓶座</j.0:xingZuo>
+    <j.0:chiJing>23h15m53.5s</j.0:chiJing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1985248">
+    <j.0:juDiJuLi>79.4±1.1光年</j.0:juDiJuLi>
+    <j.0:chiWei>+5622'56.6"</j.0:chiWei>
+    <j.0:chiJing>11h01m50.49s</j.0:chiJing>
+    <j.0:jueDuiXingDeng>0.36等</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>2.4等</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>北斗二、巨门星</j.0:bieCheng>
+    <j.0:waiWenMing>Merak</j.0:waiWenMing>
+    <j.0:zhongWenMing>天璇</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1429567">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>伦琴射线星</j.0:bieCheng>
+    <j.0:waiWenMing>Xraystar</j.0:waiWenMing>
+    <j.0:zhongWenMing>X射线星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A6119418">
+    <j.0:chiWei>-02°58′39.5″</j.0:chiWei>
+    <j.0:bieCheng>鲸鱼座68,鲸鱼座ο</j.0:bieCheng>
+    <j.0:chiJing>02h19m20.79s</j.0:chiJing>
+    <j.0:U-BSeZhiShu>1.09</j.0:U-BSeZhiShu>
+    <j.0:waiWenMing>Mira(米拉)</j.0:waiWenMing>
+    <j.0:zhiJing>664-804太阳直径</j.0:zhiJing>
+    <j.0:xingZuo>鲸鱼座</j.0:xingZuo>
+    <j.0:juDiJuLi>420ly</j.0:juDiJuLi>
+    <j.0:shiXingDeng>0.2~10.1</j.0:shiXingDeng>
+    <j.0:guangPuFenLei>M5IIIe-M9IIIe</j.0:guangPuFenLei>
+    <j.0:liangDu>11000太阳亮度</j.0:liangDu>
+    <j.0:zhongWenMing>蒭藁增二</j.0:zhongWenMing>
+    <j.0:B-VSeZhiShu>1.42</j.0:B-VSeZhiShu>
+    <j.0:shiCha>7.79±1.07毫角秒</j.0:shiCha>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:jueDuiXingDeng>0.93</j.0:jueDuiXingDeng>
+    <j.0:xingGuan>蒭藁(昂宿)</j.0:xingGuan>
+    <j.0:zhiLiang>1.18太阳质量</j.0:zhiLiang>
+    <j.0:taoYiSuDu>63.8km/s</j.0:taoYiSuDu>
+    <j.0:biaoMianWenDu>2980K</j.0:biaoMianWenDu>
+    <j.0:bianXingLeiXing>
+      <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A910258">
+        <j.0:daiBiao rdf:resource="http://ws.nju.edu.cn/clinga/A3324087"/>
+        <j.0:shuLiang>约有200万个</j.0:shuLiang>
+        <j.0:leiXing>规则的,半规则的和不规则的</j.0:leiXing>
+        <j.0:fenLei>恒星</j.0:fenLei>
+        <j.0:zhongWenMing>脉动变星</j.0:zhongWenMing>
+      </rdf:Description>
+    </j.0:bianXingLeiXing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A73808">
+    <j.0:xingZuo rdf:resource="http://ws.nju.edu.cn/clinga/A364338"/>
+    <j.0:chiWei>−47°20′12.0″</j.0:chiWei>
+    <j.0:chiJing>08h09m32.0s</j.0:chiJing>
+    <j.0:jueDuiXingDeng>-5.31</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>1.78/4.27</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>天社一</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1575433">
+    <j.0:xingCheng>恒星的核能耗尽后,引力坍缩形成</j.0:xingCheng>
+    <j.0:fenLei>简并矮星,中子星,黑洞</j.0:fenLei>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>致密天体</j.0:bieCheng>
+    <j.0:zhongWenMing>致密星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2639453">
+    <j.0:chiWei>+38°47'01"</j.0:chiWei>
+    <j.0:chiJing>18h36m56.3s</j.0:chiJing>
+    <j.0:jueDuiXingDeng>+0.57</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>+0.03</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>织女星</j.0:bieCheng>
+    <j.0:waiWenMing>αLyr</j.0:waiWenMing>
+    <j.0:zhongWenMing>织女一</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2761324">
+    <j.0:zhongWenMing>大角星</j.0:zhongWenMing>
+    <j.0:waiWenMing>Arcturus</j.0:waiWenMing>
+    <j.0:chiWei>+19°10'56"</j.0:chiWei>
+    <j.0:zhiLiang>1.10±0.06M☉</j.0:zhiLiang>
+    <j.0:jueDuiXingDeng>−0.38</j.0:jueDuiXingDeng>
+    <j.0:biaoMianWenDu>4,300K</j.0:biaoMianWenDu>
+    <j.0:fenLei rdf:resource="http://ws.nju.edu.cn/clinga/A2327558"/>
+    <j.0:mingChengChuZi>希腊词汇</j.0:mingChengChuZi>
+    <j.0:chiJingBaiNianZiXing>μRA-7.685</j.0:chiJingBaiNianZiXing>
+    <j.0:chiJing>14h15m39.7s</j.0:chiJing>
+    <j.0:shiXingDeng>−0.04</j.0:shiXingDeng>
+    <j.0:bieCheng rdf:resource="http://ws.nju.edu.cn/clinga/A2363643"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2077105">
+    <j.0:juDiJuLi>约352光年</j.0:juDiJuLi>
+    <j.0:chiWei>−59°41'19"</j.0:chiWei>
+    <j.0:chiJing>12h47m43.2s</j.0:chiJing>
+    <j.0:jueDuiXingDeng>-3.92</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>1.23到1.31</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>βCru</j.0:waiWenMing>
+    <j.0:zhongWenMing>十字架三</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12273658">
+    <j.0:chiWei>-20°45'34.7"</j.0:chiWei>
+    <j.0:chiJing>5h28m14.73s</j.0:chiJing>
+    <j.0:jueDuiXingDeng>-0.66</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>2.80</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>天兔座β</j.0:bieCheng>
+    <j.0:waiWenMing>HIP25606</j.0:waiWenMing>
+    <j.0:zhongWenMing>厕二</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2948230">
+    <j.0:biaoMianWenDu>4300摄氏度</j.0:biaoMianWenDu>
+    <j.0:houDu>2,000公里</j.0:houDu>
+    <j.0:miDu>比光球层稀薄</j.0:miDu>
+    <j.0:fenLei>恒星大气的一层</j.0:fenLei>
+    <j.0:wenDu>至内而外4,600K~几万度</j.0:wenDu>
+    <j.0:faXianZhe>洛基尔和弗兰克兰</j.0:faXianZhe>
+    <j.0:waiWenMing>Chromosphere</j.0:waiWenMing>
+    <j.0:cengWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2325362"/>
+    <j.0:chuXianShiJian>日全食的食既到生光(见日食)</j.0:chuXianShiJian>
+    <j.0:faXianShiJian>1869年</j.0:faXianShiJian>
+    <j.0:wuLiXingZhi>是一个充满磁场的等离子体层</j.0:wuLiXingZhi>
+    <j.0:tuChuTeZheng rdf:resource="http://ws.nju.edu.cn/clinga/A1236851"/>
+    <j.0:zhongWenMing>色球</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A6529525">
+    <j.0:juDiJuLi>110光年</j.0:juDiJuLi>
+    <j.0:chiWei>+40°04′20.8772″</j.0:chiWei>
+    <j.0:chiJing>17h51m14.02204s</j.0:chiJing>
+    <j.0:shiXingDeng>6.46</j.0:shiXingDeng>
+    <j.0:zhiLiang>1.15M☉</j.0:zhiLiang>
+    <j.0:faXianShiJian>2014年5月</j.0:faXianShiJian>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>HD162826</j.0:waiWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2645071">
+    <j.0:zhiLiang>约为太阳的八分之一</j.0:zhiLiang>
+    <j.0:ziZhuanZhouQi>31天</j.0:ziZhuanZhouQi>
+    <j.0:faXianShiJian>1915年</j.0:faXianShiJian>
+    <j.0:jueDuiXingDeng>15.49等</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>11.05等</j.0:shiXingDeng>
+    <j.0:xingChengShiJian>48.5亿年前</j.0:xingChengShiJian>
+    <j.0:biaoMianWenDu>2670K-3100K</j.0:biaoMianWenDu>
+    <j.0:chiWei>-62°40'46.10"</j.0:chiWei>
+    <j.0:faXianZhe>罗伯特·因尼斯</j.0:faXianZhe>
+    <j.0:zhongWenMing>比邻星</j.0:zhongWenMing>
+    <j.0:guangPuXing>M型</j.0:guangPuXing>
+    <j.0:waiWenMing>ProximaCentauri</j.0:waiWenMing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:chiJing>14h29m42.90s</j.0:chiJing>
+    <j.0:zhiJing>约为太阳的七分之一</j.0:zhiJing>
+    <j.0:bieCheng>毗邻星</j.0:bieCheng>
+    <j.0:juDiJuLi>4.22光年</j.0:juDiJuLi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12382009">
+    <j.0:seZhiShu>﹣0.22</j.0:seZhiShu>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A2389190"/>
+    <j.0:chiWei>6°20′58.7″</j.0:chiWei>
+    <j.0:hanYi>蓝色超巨星</j.0:hanYi>
+    <j.0:waiWenMing>Bellatrix</j.0:waiWenMing>
+    <j.0:jueDuiXingDeng>﹣2.84</j.0:jueDuiXingDeng>
+    <j.0:chuangZaoCiTiaoZhe>王宇恒</j.0:chuangZaoCiTiaoZhe>
+    <j.0:guangPuLeiXing>B2III</j.0:guangPuLeiXing>
+    <j.0:bieCheng>γOri</j.0:bieCheng>
+    <j.0:shiXingDeng>1.60</j.0:shiXingDeng>
+    <j.0:chiJing>5h25m7.86s</j.0:chiJing>
+    <j.0:fenLei rdf:resource="http://ws.nju.edu.cn/clinga/A2327558"/>
+    <j.0:biaoMianWenDu>22000K</j.0:biaoMianWenDu>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11429422">
+    <j.0:suoZaiXingZuo>人马座</j.0:suoZaiXingZuo>
+    <j.0:liangDu>450万倍太阳</j.0:liangDu>
+    <j.0:juDiJuLi>25000光年</j.0:juDiJuLi>
+    <j.0:jueDuiXingDeng>-11.9等</j.0:jueDuiXingDeng>
+    <j.0:zhiLiang>130倍-200倍太阳</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>QPM-241</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5760021">
+    <j.0:juDiJuLi>14,300光年</j.0:juDiJuLi>
+    <j.0:faXianShiJian>1764年</j.0:faXianShiJian>
+    <j.0:faXianZhe>CharlesMessier</j.0:faXianZhe>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>messier天体10号</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A64642">
+    <j.0:zhiLiang>6M⊙</j.0:zhiLiang>
+    <j.0:biaoMianWenDu>7200K</j.0:biaoMianWenDu>
+    <j.0:liangDu>2200L</j.0:liangDu>
+    <j.0:bieCheng>小熊座α星</j.0:bieCheng>
+    <j.0:chiWei>+89°15′51〃</j.0:chiWei>
+    <j.0:waiWenMing>Cynosure</j.0:waiWenMing>
+    <j.0:zhongWenMing>勾陈一</j.0:zhongWenMing>
+    <j.0:jueDuiXingDeng>(MV)-3.64</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>(V)1.97</j.0:shiXingDeng>
+    <j.0:ziZhuan>~17km/s</j.0:ziZhuan>
+    <j.0:chiJing>02h31m48.7s</j.0:chiJing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7981829">
+    <j.0:chiWei>+34°30.43′29″</j.0:chiWei>
+    <j.0:chiJing>172825.9</j.0:chiJing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>HD159222</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2044910">
+    <j.0:chiWei>−09°27′29.744″</j.0:chiWei>
+    <j.0:chiJing>033255.8442</j.0:chiJing>
+    <j.0:zhiLiang>0.85M☉</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>εEri/εEridani</j.0:waiWenMing>
+    <j.0:zhongWenMing>天苑四</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A463327">
+    <j.0:jueDuiXingDeng>−0.31</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>2.04</j.0:shiXingDeng>
+    <j.0:faXianShiJian>公元前</j.0:faXianShiJian>
+    <j.0:faXianZhe>未知</j.0:faXianZhe>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>鲸鱼座β星</j.0:bieCheng>
+    <j.0:waiWenMing>BetaCeti、DenebKaitos</j.0:waiWenMing>
+    <j.0:zhongWenMing>土司空</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4024432">
+    <j.0:faXianShiJian>2010年6月</j.0:faXianShiJian>
+    <j.0:fenLei rdf:resource="http://ws.nju.edu.cn/clinga/A5604724"/>
+    <j.0:waiWenMing>Kepler-9</j.0:waiWenMing>
+    <j.0:zhongWenMing>开普勒9</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4638064">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>双太阳星系</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10506469">
+    <j.0:jueDuiXingDeng>-11.4等</j.0:jueDuiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>LSS4067</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A110487">
+    <j.0:chiJing>05h14m32.30s</j.0:chiJing>
+    <j.0:jueDuiXingDeng>-6.93</j.0:jueDuiXingDeng>
+    <j.0:waiWenMing>Rigel</j.0:waiWenMing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhiLiang>3.580×10^31kg</j.0:zhiLiang>
+    <j.0:shiXingDeng>0.18</j.0:shiXingDeng>
+    <j.0:chiWei>−08°12'06"</j.0:chiWei>
+    <j.0:biaoMianWenDu>1,1300℃</j.0:biaoMianWenDu>
+    <j.0:zhongWenMing>参宿七</j.0:zhongWenMing>
+    <j.0:zhiJing>1.07184×10^8km</j.0:zhiJing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3481517">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>乌鸦座γ(γCrv/γCorvi)</j.0:bieCheng>
+    <j.0:waiWenMing>Gienah</j.0:waiWenMing>
+    <j.0:zhongWenMing>轸宿一</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10300256">
+    <j.0:juDiJuLi>40光年</j.0:juDiJuLi>
+    <j.0:pingJunMiDu>140克/cm³</j.0:pingJunMiDu>
+    <j.0:biaoMianWenDu>1800℃</j.0:biaoMianWenDu>
+    <j.0:waiWenMing>J0523</j.0:waiWenMing>
+    <j.0:shiXingDeng>21.05</j.0:shiXingDeng>
+    <j.0:faXianZhe>2MASS项目</j.0:faXianZhe>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>J0523</j.0:zhongWenMing>
+    <j.0:zhiJing>12.5万千米</j.0:zhiJing>
+    <j.0:faXianShiJian>2014年</j.0:faXianShiJian>
+    <j.0:zhiLiang>木星的77倍(太阳的7.21%)</j.0:zhiLiang>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3602275">
+    <j.0:juDiJuLi>12光年</j.0:juDiJuLi>
+    <j.0:zhiLiang>地球的4倍</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>TauCeti</j.0:waiWenMing>
+    <j.0:zhongWenMing>鲸鱼座T星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A9479128">
+    <j.0:zhiJing>相較於地球的半徑是太陽的0.009</j.0:zhiJing>
+    <j.0:pingJunMiDu>大約是太陽密度的百萬倍</j.0:pingJunMiDu>
+    <j.0:faXianShiJian>1783年1月31</j.0:faXianShiJian>
+    <j.0:faXianZhe>威廉·赫歇尔</j.0:faXianZhe>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>简并矮星</j.0:bieCheng>
+    <j.0:zhongWenMing>碳氧白矮星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11095227">
+    <j.0:chiWei>+6°55.5′9″</j.0:chiWei>
+    <j.0:chiJing>105049.9</j.0:chiJing>
+    <j.0:shiXingDeng>5.81</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>BD+062369</j.0:bieCheng>
+    <j.0:zhongWenMing>狮子座56</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A6075496">
+    <j.0:zhiLiang>太阳质量的1.13倍</j.0:zhiLiang>
+    <j.0:juDiQiu>大约320光年</j.0:juDiQiu>
+    <j.0:liXinLv>0.44±0.07</j.0:liXinLv>
+    <j.0:zhongWenMing>HD23127</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12126533">
+    <j.0:chiJing>10h17m5.65s</j.0:chiJing>
+    <j.0:chuangJianZhe>王宇恒</j.0:chuangJianZhe>
+    <j.0:shiXingDeng>3.45</j.0:shiXingDeng>
+    <j.0:waiWenMing>HIP50372</j.0:waiWenMing>
+    <j.0:zhongWenMing>中台一</j.0:zhongWenMing>
+    <j.0:jueDuiXingDeng>0.33</j.0:jueDuiXingDeng>
+    <j.0:guangPuLeiXing>A2IV</j.0:guangPuLeiXing>
+    <j.0:bieCheng>λUMa</j.0:bieCheng>
+    <j.0:seZhiShu>0.04</j.0:seZhiShu>
+    <j.0:chiWei>42°54′51.9″</j.0:chiWei>
+    <j.0:fenLei>恒星</j.0:fenLei>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A314390">
+    <j.0:xingZuo>天鹅座</j.0:xingZuo>
+    <j.0:shiXingDeng>4.9等</j.0:shiXingDeng>
+    <j.0:faXianShiJian>1600年</j.0:faXianShiJian>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>PCygnistars</j.0:waiWenMing>
+    <j.0:zhongWenMing>天鹅座P型星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2949369">
+    <j.0:banQiu>北半球,南半球等</j.0:banQiu>
+    <j.0:baDaXingXing>水、金、土、火等</j.0:baDaXingXing>
+    <j.0:tianTiFenLei>恒星、星云等</j.0:tianTiFenLei>
+    <j.0:zhongWenMing>地理系统分类</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2824929">
+    <j.0:zhiLiang>约1.9个太阳质量</j.0:zhiLiang>
+    <j.0:jueDuiXingDeng>+1.56</j.0:jueDuiXingDeng>
+    <j.0:juDiJuLi>约49.05光年</j.0:juDiJuLi>
+    <j.0:guangPuFenLei>A7IV</j.0:guangPuFenLei>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:biaoMianWenDu>约7600k</j.0:biaoMianWenDu>
+    <j.0:chiJing>21h18m34.8s</j.0:chiJing>
+    <j.0:zhiJing>约2.5个太阳直径</j.0:zhiJing>
+    <j.0:waiWenMing>αCep</j.0:waiWenMing>
+    <j.0:zhongWenMing>天钩五</j.0:zhongWenMing>
+    <j.0:chiWei>+62°35′08.0″</j.0:chiWei>
+    <j.0:shiXingDeng>+2.45</j.0:shiXingDeng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12175164">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>周边星体</j.0:bieCheng>
+    <j.0:waiWenMing>OutSpaceStars</j.0:waiWenMing>
+    <j.0:zhongWenMing>周边球</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A512566">
+    <j.0:fenLei>恒星团</j.0:fenLei>
+    <j.0:bieCheng>安全岛</j.0:bieCheng>
+    <j.0:waiWenMing>Arches</j.0:waiWenMing>
+    <j.0:zhongWenMing>银河平静岛</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11817860">
+    <j.0:suoZaiXingZuo>船底座</j.0:suoZaiXingZuo>
+    <j.0:liangDu>550万倍太阳</j.0:liangDu>
+    <j.0:juDiJuLi>7500光年</j.0:juDiJuLi>
+    <j.0:jueDuiXingDeng>-12.1</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>6.97等</j.0:shiXingDeng>
+    <j.0:zhiLiang>120-127倍太阳</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>HD93129A</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A6177740">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>金牛T星</j.0:bieCheng>
+    <j.0:waiWenMing>Hind'sNebu-xindexingyun</j.0:waiWenMing>
+    <j.0:zhongWenMing>欣德星云</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10510437">
+    <j.0:liangDu>110万倍太阳</j.0:liangDu>
+    <j.0:jueDuiXingDeng>-10.4等</j.0:jueDuiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>VarB</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1095892">
+    <j.0:gongZhuanZhouQi>117天</j.0:gongZhuanZhouQi>
+    <j.0:biaoMianWenDu>摄氏80度</j.0:biaoMianWenDu>
+    <j.0:faXianShiJian>1996</j.0:faXianShiJian>
+    <j.0:zhongWenMing>室女座70</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A79088">
+    <j.0:shiXingDeng>(V)−26.74</j.0:shiXingDeng>
+    <j.0:banJing>6.955×10⁵km</j.0:banJing>
+    <j.0:chiJing>286.13°</j.0:chiJing>
+    <j.0:taoYiSuDu>617.7km/s</j.0:taoYiSuDu>
+    <j.0:waiWenMing>Sun</j.0:waiWenMing>
+    <j.0:zhiJing>1.392×10⁶km</j.0:zhiJing>
+    <j.0:chiWei>+63.87°</j.0:chiWei>
+    <j.0:zhiLiang>1.9891×10³⁰kg</j.0:zhiLiang>
+    <j.0:biaoMianWenDu>5770K</j.0:biaoMianWenDu>
+    <j.0:bieCheng>白驹金虎赤乌阳乌金乌金轮火轮</j.0:bieCheng>
+    <j.0:zhongWenMing>太阳</j.0:zhongWenMing>
+    <j.0:gongZhuanZhouQi>(2.25–2.50)×10⁸a</j.0:gongZhuanZhouQi>
+    <j.0:pingJunMiDu>1.408×10³kg/㎥</j.0:pingJunMiDu>
+    <j.0:ziZhuanZhouQi>25.05天</j.0:ziZhuanZhouQi>
+    <j.0:juDiJuLi>1.496×10⁸km</j.0:juDiJuLi>
+    <j.0:jueDuiXingDeng>4.83</j.0:jueDuiXingDeng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4532110">
+    <j.0:ziZhuanSuDu rdf:resource="http://ws.nju.edu.cn/clinga/A2293170"/>
+    <j.0:shiXingDeng>7.223</j.0:shiXingDeng>
+    <j.0:bieCheng rdf:resource="http://ws.nju.edu.cn/clinga/A621652"/>
+    <j.0:zhongWenMing>玛土撒拉星</j.0:zhongWenMing>
+    <j.0:jinShuHanLiang>−2.40±0.10</j.0:jinShuHanLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:liYuan>2000J</j.0:liYuan>
+    <j.0:jingXiangSuDu>169km/s</j.0:jingXiangSuDu>
+    <j.0:suoShuXingZuo>天秤座</j.0:suoShuXingZuo>
+    <j.0:biaoMianWenDu>5777±55K</j.0:biaoMianWenDu>
+    <j.0:waiWenMing>HD140283</j.0:waiWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2722691">
+    <j.0:teDian>昏暗、数量不太少</j.0:teDian>
+    <j.0:biaoMianWenDu>1000K左右</j.0:biaoMianWenDu>
+    <j.0:zhiLiang>不足太阳8%</j.0:zhiLiang>
+    <j.0:faXianShiJian>1999年</j.0:faXianShiJian>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>甲烷矮星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2723998">
+    <j.0:guangPuLeiXing>M型</j.0:guangPuLeiXing>
+    <j.0:biaoMianWenDu>2,500至5,000K</j.0:biaoMianWenDu>
+    <j.0:zhiJing>低于太阳的三分一</j.0:zhiJing>
+    <j.0:zhiLiang>不会超过太阳的一半</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>reddwarf</j.0:waiWenMing>
+    <j.0:zhongWenMing>红矮星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2092279">
+    <j.0:hengXingLeiBie rdf:resource="http://ws.nju.edu.cn/clinga/A2738319"/>
+    <j.0:xingZuo rdf:resource="http://ws.nju.edu.cn/clinga/A2083924"/>
+    <j.0:chiWei>-39°32′54″</j.0:chiWei>
+    <j.0:chiJing>12°7′33.4″</j.0:chiJing>
+    <j.0:waiWenMing>2M1207</j.0:waiWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4134124">
+    <j.0:shiXingDeng>+4.62</j.0:shiXingDeng>
+    <j.0:zhongWenMing>天高一</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1231609">
+    <j.0:xingZuo>半人马座</j.0:xingZuo>
+    <j.0:zhiLiang>0.123太阳质量</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>半人马座α星C</j.0:bieCheng>
+    <j.0:waiWenMing>RigilKent</j.0:waiWenMing>
+    <j.0:zhongWenMing>南门二丙星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11792029">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>飞马座EQ</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3086369">
+    <j.0:fenLei>三合恒星</j.0:fenLei>
+    <j.0:bieCheng>半马座α星</j.0:bieCheng>
+    <j.0:waiWenMing>Centaurusα</j.0:waiWenMing>
+    <j.0:zhongWenMing>南门二</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A94905">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>仙人寿星</j.0:bieCheng>
+    <j.0:waiWenMing>Canopus</j.0:waiWenMing>
+    <j.0:zhongWenMing>寿星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7044471">
+    <j.0:chiWei rdf:resource="http://ws.nju.edu.cn/clinga/A2345034"/>
+    <j.0:ziZhuanZhouQi>9年</j.0:ziZhuanZhouQi>
+    <j.0:fenLei>Be型恒星,</j.0:fenLei>
+    <j.0:waiWenMing>MWC349</j.0:waiWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11076756">
+    <j.0:shiXingDeng>8.75</j.0:shiXingDeng>
+    <j.0:zhongWenMing>仙后座PZ</j.0:zhongWenMing>
+    <j.0:waiWenMing>PZCassiopeiae</j.0:waiWenMing>
+    <j.0:bieCheng>V*PZCas、IRC+60417、HIP117078</j.0:bieCheng>
+    <j.0:fenLei>恒星(红超巨星)</j.0:fenLei>
+    <j.0:juDiJuLi>17800光年</j.0:juDiJuLi>
+    <j.0:taoYiSuDu>-45.68±0.68km/s</j.0:taoYiSuDu>
+    <j.0:chiWei>+61°47′22,1823″</j.0:chiWei>
+    <j.0:B-VSeZhiShu>2.5</j.0:B-VSeZhiShu>
+    <j.0:chiJing>23h44m03,28104s</j.0:chiJing>
+    <j.0:zhiLiang>1,190–1,940R☉</j.0:zhiLiang>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12615525">
+    <j.0:chuangJianZhe>王宇恒</j.0:chuangJianZhe>
+    <j.0:suoShuXingZuo>天秤座</j.0:suoShuXingZuo>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>氐宿三</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12531806">
+    <j.0:jingXiangSuDu>12.21公里/秒</j.0:jingXiangSuDu>
+    <j.0:zhiLiang>1.79*10^29kg</j.0:zhiLiang>
+    <j.0:faXianZhe>美国2MASS项目</j.0:faXianZhe>
+    <j.0:zhongWenMing>2MASSJ05233822-1403022</j.0:zhongWenMing>
+    <j.0:zhiJing>12.5万千米</j.0:zhiJing>
+    <j.0:bieCheng>J0523</j.0:bieCheng>
+    <j.0:pianCiJiao>14°03′2.29″</j.0:pianCiJiao>
+    <j.0:ziZhuanSuDu>21公里/秒</j.0:ziZhuanSuDu>
+    <j.0:shiXingDeng>21.05</j.0:shiXingDeng>
+    <j.0:biaoMianWenDu>2074K(1800℃)</j.0:biaoMianWenDu>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2253576"/>
+    <j.0:juDiJuLi>约40光年</j.0:juDiJuLi>
+    <j.0:waiWenMing>2MASSJ05233822-1403022</j.0:waiWenMing>
+    <j.0:faXianShiJian>2014年</j.0:faXianShiJian>
+    <j.0:pingJunMiDu>140g/cm³</j.0:pingJunMiDu>
+    <j.0:jueDuiXingDeng>20.6</j.0:jueDuiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11529485">
+    <j.0:suoZaiXingZuo>船底座</j.0:suoZaiXingZuo>
+    <j.0:juDiJuLi>11000光年</j.0:juDiJuLi>
+    <j.0:jueDuiXingDeng>-11.3等</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>7.5等</j.0:shiXingDeng>
+    <j.0:zhiLiang>118倍太阳</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>HD93250</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4230326">
+    <j.0:leiXing>G5V型</j.0:leiXing>
+    <j.0:waiWenMing>HD9446</j.0:waiWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11128383">
+    <j.0:waiWenMing>Kepler-444</j.0:waiWenMing>
+    <j.0:chiWei>+41:38:05</j.0:chiWei>
+    <j.0:biaoMianWenDu>5040(±74.0)K</j.0:biaoMianWenDu>
+    <j.0:zhiLiang>0.758(±0.043)M⊙</j.0:zhiLiang>
+    <j.0:chiJing>19:19:01.0</j.0:chiJing>
+    <j.0:shiXingDeng>9.0</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>开普勒444</j.0:zhongWenMing>
+    <j.0:faXianShiJian>2013年</j.0:faXianShiJian>
+    <j.0:zhiJing>0.752(±0.014)R⊙</j.0:zhiJing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12027866">
+    <j.0:seZhiShuB-V>0.53</j.0:seZhiShuB-V>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>BD+241343、SAO78596、HR2439</j.0:bieCheng>
+    <j.0:yinWei>+8.4976</j.0:yinWei>
+    <j.0:chiWei>+24°36'0"</j.0:chiWei>
+    <j.0:zhongWenMing>HD47415</j.0:zhongWenMing>
+    <j.0:shiXingDeng>6.38</j.0:shiXingDeng>
+    <j.0:waiWenMing>HD47415</j.0:waiWenMing>
+    <j.0:chiJing>6h39m31.4s</j.0:chiJing>
+    <j.0:guangPu>F8IV</j.0:guangPu>
+    <j.0:yinJing>189.5798</j.0:yinJing>
+    <j.0:riXinShiXiangSuDu>18km/s</j.0:riXinShiXiangSuDu>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A545023">
+    <j.0:xueMing>NGC7635</j.0:xueMing>
+    <j.0:zhongWenMing>泡泡星云</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1588173">
+    <j.0:jueDuiXingDeng>-1.5等(B9.5III)至-5.5等(O7III)</j.0:jueDuiXingDeng>
+    <j.0:biaoMianWenDu>约9800摄氏度(10000K)及以上</j.0:biaoMianWenDu>
+    <j.0:zhiJing>太阳的5-15倍</j.0:zhiJing>
+    <j.0:zhiLiang>太阳的4-40倍</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>Bluegiant</j.0:waiWenMing>
+    <j.0:zhongWenMing>蓝巨星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3186440">
+    <j.0:chiJing>12h31m9.9s</j.0:chiJing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>南十字座γ星</j.0:bieCheng>
+    <j.0:zhongWenMing>十字架一</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10663850">
+    <j.0:guangPuXing>G型</j.0:guangPuXing>
+    <j.0:juDiJuLi>1500光年</j.0:juDiJuLi>
+    <j.0:shiXingDeng>7.55等</j.0:shiXingDeng>
+    <j.0:fenLei rdf:resource="http://ws.nju.edu.cn/clinga/A2327558"/>
+    <j.0:zhongWenMing>天鹅座TT星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12319958">
+    <j.0:waiWenMing>αLyr</j.0:waiWenMing>
+    <j.0:zhouQi>0.19天</j.0:zhouQi>
+    <j.0:guangPuLeiXing>A0Vvar</j.0:guangPuLeiXing>
+    <j.0:jueDuiXingDeng>+0.57</j.0:jueDuiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:chiJing>18h36m56.3s</j.0:chiJing>
+    <j.0:bieCheng>
+      <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2283706">
+        <j.0:juLi>25.04±0.07光年</j.0:juLi>
+        <j.0:guangPuFenLei>A0V</j.0:guangPuFenLei>
+        <j.0:xingZuo>天琴座</j.0:xingZuo>
+        <j.0:shiXingDeng>0.03</j.0:shiXingDeng>
+        <j.0:banJing>2.26×2.78R☉</j.0:banJing>
+        <j.0:fenLei>恒星</j.0:fenLei>
+        <j.0:bianXingLeiXing>盾牌座δ变星</j.0:bianXingLeiXing>
+        <j.0:biaoMianZhongLi>4.1±0.1</j.0:biaoMianZhongLi>
+        <j.0:zhiLiang>2.135±0.074M☉</j.0:zhiLiang>
+        <j.0:waiWenMing>Vega,αLyrae</j.0:waiWenMing>
+        <j.0:liangDu>37±3</j.0:liangDu>
+        <j.0:bieCheng>织女一,天琴座α,天孙</j.0:bieCheng>
+        <j.0:jueDuiXingDeng>0.58</j.0:jueDuiXingDeng>
+        <j.0:jingXiangSuDu>13.9±0.9km/s</j.0:jingXiangSuDu>
+        <j.0:xingZhuang>扁平状</j.0:xingZhuang>
+        <j.0:zhongWenMing>织女星</j.0:zhongWenMing>
+      </rdf:Description>
+    </j.0:bieCheng>
+    <j.0:chiWei>+38°47'01"</j.0:chiWei>
+    <j.0:shiXingDeng>+0.03</j.0:shiXingDeng>
+    <j.0:zhongWenMing>织女一</j.0:zhongWenMing>
+    <j.0:chuangJianZhe>王宇恒</j.0:chuangJianZhe>
+    <j.0:leiXing>脉动变星</j.0:leiXing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3113341">
+    <j.0:faXianZhe>美国天文学家塞弗特</j.0:faXianZhe>
+    <j.0:fenLei>明亮恒星状天体的旋涡星系</j.0:fenLei>
+    <j.0:waiWenMing>Seyfertgalaxy</j.0:waiWenMing>
+    <j.0:zhongWenMing>塞弗特星系</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12321975">
+    <j.0:chuangJianZhe>王宇恒</j.0:chuangJianZhe>
+    <j.0:shiXingDeng>3.05</j.0:shiXingDeng>
+    <j.0:guangPuLeiXing>M0III-SB</j.0:guangPuLeiXing>
+    <j.0:jueDuiXingDeng>﹣1.19</j.0:jueDuiXingDeng>
+    <j.0:bieCheng>三台四</j.0:bieCheng>
+    <j.0:chiJing>10h22m19.64s</j.0:chiJing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:chiWei>41°29′59.1″</j.0:chiWei>
+    <j.0:zhongWenMing>中台二</j.0:zhongWenMing>
+    <j.0:waiWenMing>μUMa</j.0:waiWenMing>
+    <j.0:seZhiShu>1.61</j.0:seZhiShu>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12870003">
+    <j.0:chuangJianZhe>王宇恒</j.0:chuangJianZhe>
+    <j.0:seZhiShu>0.38</j.0:seZhiShu>
+    <j.0:guangPuLeiXing>F2IV-SB</j.0:guangPuLeiXing>
+    <j.0:chiWei>﹢10°31′45.2″</j.0:chiWei>
+    <j.0:chiJing>11h23m55.61s</j.0:chiJing>
+    <j.0:jueDuiXingDeng>2.03</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>3.95</j.0:shiXingDeng>
+    <j.0:fenLei rdf:resource="http://ws.nju.edu.cn/clinga/A2327558"/>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A2373291"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12729450">
+    <j.0:chuangJianCiTiaoZhe>王宇恒</j.0:chuangJianCiTiaoZhe>
+    <j.0:chiWei>48°02′28.9″</j.0:chiWei>
+    <j.0:shiXingDeng>3.10</j.0:shiXingDeng>
+    <j.0:seZhiShu>0.22</j.0:seZhiShu>
+    <j.0:zhongWenMing>上台一</j.0:zhongWenMing>
+    <j.0:fenLei rdf:resource="http://ws.nju.edu.cn/clinga/A2327558"/>
+    <j.0:chiJing>8h59m12.13s</j.0:chiJing>
+    <j.0:bieCheng>HIP44127</j.0:bieCheng>
+    <j.0:jueDuiXingDeng>2.29</j.0:jueDuiXingDeng>
+    <j.0:guangPuLeiXing>A7IV</j.0:guangPuLeiXing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3161398">
+    <j.0:shiXingDeng>2.62/4.92</j.0:shiXingDeng>
+    <j.0:chiWei>-19°4820</j.0:chiWei>
+    <j.0:chiJing>16h05m26.7s</j.0:chiJing>
+    <j.0:xingZuo>天蝎座</j.0:xingZuo>
+    <j.0:fenLei>恒星系统</j.0:fenLei>
+    <j.0:zhongWenMing>房宿四</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A118753">
+    <j.0:juDiJuLi>7500光年</j.0:juDiJuLi>
+    <j.0:xingZuo>船底座</j.0:xingZuo>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:xingGuan>海山(近南极星区)</j.0:xingGuan>
+    <j.0:liangDu>500万倍太阳</j.0:liangDu>
+    <j.0:waiWenMing>EtaCarinae</j.0:waiWenMing>
+    <j.0:zhiLiang>100-150倍太阳</j.0:zhiLiang>
+    <j.0:chiJing>10h45m03.6s</j.0:chiJing>
+    <j.0:shiXingDeng>6.21(-0.8–7.9)</j.0:shiXingDeng>
+    <j.0:chiWei>-59°41′04″</j.0:chiWei>
+    <j.0:zhongWenMing>海山二星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1579213">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>文昌六星,文曲星</j.0:bieCheng>
+    <j.0:zhongWenMing>文昌宫</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4146674">
+    <j.0:shiXingDeng>+4.82</j.0:shiXingDeng>
+    <j.0:zhongWenMing>天潢五</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5479784">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>双鱼座59</j.0:bieCheng>
+    <j.0:waiWenMing>59Psc</j.0:waiWenMing>
+    <j.0:zhongWenMing>奎宿增四</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11051246">
+    <j.0:guangPuLeiXing>A7III</j.0:guangPuLeiXing>
+    <j.0:juDiJuLi>128光年</j.0:juDiJuLi>
+    <j.0:chiWei>-60°43′43.8″</j.0:chiWei>
+    <j.0:chiJing>11h45m36.57s</j.0:chiJing>
+    <j.0:jueDuiXingDeng>0.66等</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>3.36等</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>HD102249</j.0:bieCheng>
+    <j.0:zhongWenMing>海山六</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10231643">
+    <j.0:xingXingShu>5个</j.0:xingXingShu>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhiJing>0.752(±0.014)R⊙</j.0:zhiJing>
+    <j.0:zhiLiang>0.758(±0.043)M⊙</j.0:zhiLiang>
+    <j.0:faXianShiJian>2013年</j.0:faXianShiJian>
+    <j.0:waiWenMing>Kepler-444</j.0:waiWenMing>
+    <j.0:zhongWenMing>开普勒-444</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A6184571">
+    <j.0:dingYi>光谱型为R的恒星</j.0:dingYi>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>Rstar</j.0:waiWenMing>
+    <j.0:zhongWenMing>R型星</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1671729">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>外星人</j.0:bieCheng>
+    <j.0:waiWenMing>westbook</j.0:waiWenMing>
+    <j.0:zhongWenMing>韦斯特布鲁克</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5568019">
+    <j.0:zhiJing>银经330.57,银纬-23.76</j.0:zhiJing>
+    <j.0:fenLei>一颗位于凤凰座的恒星</j.0:fenLei>
+    <j.0:bieCheng>CP-643948,SAO254358、HR7012</j.0:bieCheng>
+    <j.0:waiWenMing>Thepeacocktoadda</j.0:waiWenMing>
+    <j.0:zhongWenMing>孔雀增一</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3870739">
+    <j.0:xingZhi>位于天蝎座的一个恒星</j.0:xingZhi>
+    <j.0:chiWei>-36°5′24.00″</j.0:chiWei>
+    <j.0:chiJing>172238.00</j.0:chiJing>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>HR6454</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2549582">
+    <j.0:weiZhi>蜘蛛星云中心地带</j.0:weiZhi>
+    <j.0:biaoMianWenDu>4万摄氏度</j.0:biaoMianWenDu>
+    <j.0:faXianShiJian>2010年7月22日</j.0:faXianShiJian>
+    <j.0:faXianZhe>英国谢菲尔德大学科学家</j.0:faXianZhe>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>R136a1</j.0:waiWenMing>
+    <j.0:zhongWenMing>恒星巨无霸</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10507276">
+    <j.0:weiZhi>大麦哲伦蜘蛛星云</j.0:weiZhi>
+    <j.0:liangDu>870万倍太阳</j.0:liangDu>
+    <j.0:juDiJuLi>16.5万光年</j.0:juDiJuLi>
+    <j.0:jueDuiXingDeng>-12.5等</j.0:jueDuiXingDeng>
+    <j.0:shiXingDeng>12.77等</j.0:shiXingDeng>
+    <j.0:zhiLiang>265倍太阳</j.0:zhiLiang>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:zhongWenMing>Ra136a1</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12319922">
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:chiWei>33°21′45.6″</j.0:chiWei>
+    <j.0:zhongWenMing>浙台二</j.0:zhongWenMing>
+    <j.0:shiXingDeng>3.50</j.0:shiXingDeng>
+    <j.0:chuangJianCiTiaoZhe>王宇恒</j.0:chuangJianCiTiaoZhe>
+    <j.0:xiaCiJiXiaoLiangDu>2015.8.21</j.0:xiaCiJiXiaoLiangDu>
+    <j.0:bieCheng>βLyr</j.0:bieCheng>
+    <j.0:suoShuXingZuo rdf:resource="http://ws.nju.edu.cn/clinga/A2313998"/>
+    <j.0:zhouQi>12.9138天</j.0:zhouQi>
+    <j.0:chiJing>18h50m4.80s</j.0:chiJing>
+    <j.0:jueDuiXingDeng>﹣3.85</j.0:jueDuiXingDeng>
+    <j.0:leiXing rdf:resource="http://ws.nju.edu.cn/clinga/A317075"/>
+    <j.0:guangPuLeiXing>A8:V-comp-SB</j.0:guangPuLeiXing>
+    <j.0:zuiXiaoLiangDuShiJian>2408247.95000JD</j.0:zuiXiaoLiangDuShiJian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A12168326">
+    <j.0:hengXingJieDuan>行星星云阶段</j.0:hengXingJieDuan>
+    <j.0:suoZaiXingZuo>水蛇座</j.0:suoZaiXingZuo>
+    <j.0:faXianShiJian>2015年</j.0:faXianShiJian>
+    <j.0:faXianZhe>欧洲南方天文台甚大望远镜</j.0:faXianZhe>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>南方夜枭星云</j.0:bieCheng>
+    <j.0:waiWenMing>ESO378-1</j.0:waiWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A11389708">
+    <j.0:zhiLiang>70%太阳质量</j.0:zhiLiang>
+    <j.0:faXianShiJian>2015年</j.0:faXianShiJian>
+    <j.0:faXianZhe>哈勃太空望远镜和夏威夷W.M.凯克天文台</j.0:faXianZhe>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:waiWenMing>OGLE-2005-BLG-169</j.0:waiWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1275655">
+    <j.0:xingGuan>柱(毕宿)</j.0:xingGuan>
+    <j.0:xingZuo>御夫座</j.0:xingZuo>
+    <j.0:shiXingDeng>3.04</j.0:shiXingDeng>
+    <j.0:fenLei>恒星</j.0:fenLei>
+    <j.0:bieCheng>御夫座ε</j.0:bieCheng>
+    <j.0:zhongWenMing>柱一</j.0:zhongWenMing>
+  </rdf:Description>
+</rdf:RDF>

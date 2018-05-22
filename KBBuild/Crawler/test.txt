@@ -1,0 +1,1609 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+
+
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="referrer" content="always" />
+<meta name="description" content="又称“第四纪大冰期”。第三纪末气候转冷，第四纪初期，寒冷气候带向中低纬度地带迁移，使高纬度地区和山地广泛发育冰盖或冰川。这一时期大约始于距今200-300万年前，结束于1—2万年前。规模很大。在欧洲冰盖南缘可达北纬50°附近；在北美冰盖前缘延伸到北纬40°以南；南极洲的冰盖也远比现在...">
+<title>第四纪冰期_百度百科</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
+
+<meta name="keywords" content="第四纪冰期 quaternary ice age quaternary ice age 第四纪冰期基本介绍 第四纪冰期我国情况 第四纪冰期影响 第四纪冰期成因">
+<meta name="image" content="https://bkssl.bdimg.com/cms/static/baike.png">
+<script type="text/javascript">
+  // 配置 PD 监控。
+  window.alogObjectConfig = {
+    product: '103',
+    page: '103_1',
+    speed: {
+      sample: '0.008'
+    },
+    monkey: {
+      sample: '1',
+      hid: '1533'
+    },
+    exception: { 
+      sample: '0.004'
+    },
+    feature: {
+      sample: '0.004'
+    },
+    csp: {
+      sample: '0.008',
+      'default-src': [
+        {match: '*.baidu.com,*.bdimg.com,localhost', target: 'Accept'},
+        {match: '*', target: 'Accept,Warn'}
+      ]
+    }
+  };
+
+  void function(a,b,c,d,e,f,g){a.alogObjectName=e,a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=a[e].l||+new Date,d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d;var h=!0;if(a.alogObjectConfig&&a.alogObjectConfig.sample){var i=Math.random();a.alogObjectConfig.rand=i,i>a.alogObjectConfig.sample&&(h=!1)}h&&(f=b.createElement(c),f.async=!0,f.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),g=b.getElementsByTagName(c)[0],g.parentNode.insertBefore(f,g))}(window,document,"script","/hunter/alog/alog.min.js","alog"),void function(){function a(){}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date),alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:a,tti:a,page_ready:a}}();
+  void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+</script>
+<meta name="csrf-token" content="">
+<meta itemprop="dateUpdate" content="2016-08-30" />
+
+<!--[if lte IE 9]>
+<script>
+    (function() {
+      var e = "abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(","),
+        i = e.length;
+      while (i--) {
+        document.createElement(e[i]);
+      }
+    })();
+  </script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_7c6775d.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_4c062e6.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/component/userbar-n/userbar-n_5b008b4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module_0236b79.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/announcement/announcement_cba33f4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/label/label_ca156c6.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/newSideShare/sideShare_2af1cbd.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/video/pageMask/pageMask_ff9a193.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/mainContent_98e3702.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaRelation_ac86a59.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_3b0d7a5.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/toolButtons-n_6e90fdd.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/userInfo-n_7e90184.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/searchHeader-n_f9a6e5b.css"/>    
+</head>
+
+<script type="text/javascript">
+    alog('speed.set', 'ht', +new Date);
+</script>
+<script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?55b574651fcae74b0a9f1cf9c8d7c93a";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
+<body class="wiki-lemma normal">
+
+
+<div class="header-wrapper pc-header-new">
+<div class="topbar cmn-clearfix">
+<ul class="wgt-userbar" id="j-wgt-userbar">
+<li>
+<a href="http://www.baidu.com/">百度首页</a>
+</li>
+</ul>
+<div class="separator"></div>
+<div class="wiki-common-headTabBar">
+<a href="https://www.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://www.baidu.com/s?ie=utf-8&fr=bks0000&wd=">网页</a>
+<a href="http://news.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://news.baidu.com/ns?tn=news&cl=2&rn=20&ct=1&fr=bks0000&ie=utf-8&word=">新闻</a>
+<a href="https://tieba.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=">贴吧</a>
+<a href="https://zhidao.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://zhidao.baidu.com/search?pn=0&&rn=10&lm=0&fr=bks0000&word=">知道</a>
+<a href="http://music.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://music.baidu.com/search?f=ms&ct=134217728&ie=utf-8&rn=&lm=-1&pn=30&fr=bks0000&key=">音乐</a>
+<a href="http://image.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=">图片</a>
+<a href="http://v.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://v.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=22&ie=utf-8&fr=bks0000&word=">视频</a>
+<a href="http://map.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://map.baidu.com/m?ie=utf-8&fr=bks0000&word=">地图</a>
+<a href="https://wenku.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&fr=bks0000&word=">文库</a>
+<b class="baike">百科</b>
+</div>
+</div>
+<div class="header">
+<div class="layout">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-main cmn-clearfix wgt-searchbar-large">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080011" name="word" type="text" autocomplete="off" autocorrect="off" value="第四纪冰期" /><button id="search" nslog="normal" nslog-type="10080008" type="button">进入词条</button><button id="searchLemma" nslog="normal" nslog-type="10080009" type="button">全站搜索</button><a class="help" href="/help" nslog="normal" nslog-type="10080010" target="_blank">帮助</a>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="close" nslog="normal" nslog-type="10080012">关闭</span>
+</li>
+</ul>
+</div></div>
+</div>
+<div class="declare-wrap" id="J-declare-wrap">
+<div class="declare" id="J-declare">声明：百科词条人人可编辑，词条创建和修改均免费，绝不存在官方及代理商付费代编，请勿上当受骗。<a class="declare-details" target="_blank" href="/common/declaration">详情>></a>
+<div class="close-btn" id="J-declare-close">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-wrapper">
+<div class="wgt-navbar">
+<div class="navbar-bg">
+<div class="navbar-bg-top">
+<div class="navbar-content layout">
+<div class="navbar-content-box">
+<dl class="index ">
+<dt><a href="/">首页</a></dt>
+</dl>
+<dl class="cat ">
+<dt><a>分类</a></dt>
+<dd>
+<div><a href="/art" target="_blank" class="art">艺术</a></div>
+<div><a href="/science" target="_blank" class="technology">科学</a></div>
+<div><a href="/ziran" target="_blank">自然</a></div>
+<div><a href="/wenhua" target="_blank">文化</a></div>
+<div><a href="/dili" target="_blank">地理</a></div>
+<div><a href="/shenghuo" target="_blank">生活</a></div>
+<div><a href="/shehui" target="_blank">社会</a></div>
+<div><a href="/renwu" target="_blank">人物</a></div>
+<div><a href="/jingji" target="_blank">经济</a></div>
+<div><a href="/tiyu" target="_blank">体育</a></div>
+<div><a href="/lishi" target="_blank">历史</a></div>
+</dd>
+</dl>
+<dl class="special ">
+<dt><a>特色百科</a></dt>
+<dd>
+<div><a href="/calendar/" target="_blank">历史上的今天</a></div>
+<div><a href="/museum/" target="_blank">数字博物馆</a></div>
+<div><a href="/item/史记·2016?fr=navbar" target="_blank">史记·2016</a></div>
+<div><a href="/city/" target="_blank">城市百科</a></div>
+<div><a href="/operation/worldwar2" target="_blank">二战百科</a></div>
+<div><a href="/feiyi?fr=dhlfeiyi" target="_blank">非遗百科</a></div>
+</dd>
+</dl>
+<dl class="user" >
+<dt><a>用户</a></dt>
+<dd>
+<div><a href="/kedou/" target="_blank">蝌蚪团</a></div>
+<div><a href="/event/ranmeng/" target="_blank">燃梦计划</a></div>
+<div><a href="/task/" target="_blank">百科任务</a></div>
+<div><a href="/mall/" target="_blank">百科商城</a></div>
+</dd>
+</dl>
+<dl class="cooperation" >
+<dt><a>权威合作</a></dt>
+<dd>
+<div><a href="/operation/cooperation#joint" target="_blank">合作模式</a></div>
+<div><a href="/operation/cooperation#issue" target="_blank">常见问题</a></div>
+<div><a href="/operation/cooperation#connection" target="_blank">联系方式</a></div>
+</dd>
+</dl>
+<dl class="mobile" >
+<dt><a>手机百科</a></dt>
+<dd>
+<div><a href="/m#wap" target="_blank">网页版</a></div>
+</dd>
+</dl>
+<div class="usercenter">
+<div><a href="/usercenter" target="_blank"><em class="cmn-icon cmn-icons cmn-icons_navbar-usercenter"></em>个人中心</a></div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="body-wrapper">
+<div class="before-content">
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" title="添加义项" nslog-type="50000101">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a href="/divideload/%E7%AC%AC%E5%9B%9B%E7%BA%AA%E5%86%B0%E6%9C%9F" title="拆分词条" target="_blank" class="split-icon top-tool-icon" style="display:none;" nslog-type="50000104">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a href="javascript:void(0);" id="j-top-vote" class="top-vote top-tool-icon" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1 >第四纪冰期</h1>
+<a href="javascript:;" class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" target="_blank" href="/view/10812319.htm" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">又称“<a target=_blank href="/item/%E7%AC%AC%E5%9B%9B%E7%BA%AA">第四纪</a>大冰期”。第三纪末气候转冷，第四纪初期，寒冷<a target=_blank href="/item/%E6%B0%94%E5%80%99%E5%B8%A6">气候带</a>向中低纬度地带迁移，使高纬度地区和山地广泛发育冰盖或冰川。这一时期大约始于距今200-300万年前，结束于1—2万年前。规模很大。在欧洲冰盖南缘可达北纬50°附近；在北美冰盖前缘延伸到北纬40°以南；南极洲的冰盖也远比现在大得多。包括赤道附近地区的<a target=_blank href="/item/%E5%B1%B1%E5%B2%B3%E5%86%B0%E5%B7%9D">山岳冰川</a>和<a target=_blank href="/item/%E5%B1%B1%E9%BA%93%E5%86%B0%E5%B7%9D">山麓冰川</a>，都曾经向下延伸到较低的位置。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+第四纪冰期
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+Quaternary glaciation
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">别&nbsp;&nbsp;&nbsp;&nbsp;称</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E5%86%B0%E5%B7%9D%E6%97%B6%E6%9C%9F">冰川时期</a>
+</dd>
+<dt class="basicInfo-item name">世界形态</dt>
+<dd class="basicInfo-item value">
+地球表面覆盖有大规模冰川
+</dd>
+<dt class="basicInfo-item name">重要标志</dt>
+<dd class="basicInfo-item value">
+全球性大幅度气温变冷
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">基本介绍</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_1">冰期</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_2">标志</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_3">划分依据</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">我国情况</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">影响</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">成因</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_1">天文学成因</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_2">物理学成因</a></span>
+</li>
+</ol>
+
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a name="1" class="lemma-anchor para-title" ></a>
+<a name="sub293930_1" class="lemma-anchor " ></a>
+<a name="基本介绍" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">第四纪冰期</span>基本介绍</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a name="1_1" class="lemma-anchor para-title" ></a>
+<a name="sub293930_1_1" class="lemma-anchor " ></a>
+<a name="冰期" class="lemma-anchor " ></a>
+<a name="1-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">第四纪冰期</span>冰期</h3>
+</div>
+<div class="para" label-module="para">冰期是指地球表面覆盖有大规模冰川的<a target=_blank href="/item/%E5%9C%B0%E8%B4%A8%E6%97%B6%E6%9C%9F">地质时期</a>，又称为<a target=_blank href="/item/%E5%86%B0%E5%B7%9D%E6%97%B6%E6%9C%9F">冰川时期</a>。两次冰期之间为一相对温暖时期，称为<a target=_blank href="/item/%E9%97%B4%E5%86%B0%E6%9C%9F">间冰期</a>。地球历史上曾发生过多次冰期，如近一次是<a target=_blank href="/item/%E7%AC%AC%E5%9B%9B%E7%BA%AA">第四纪</a>冰期。</div><div class="anchor-list">
+<a name="1_2" class="lemma-anchor para-title" ></a>
+<a name="sub293930_1_2" class="lemma-anchor " ></a>
+<a name="标志" class="lemma-anchor " ></a>
+<a name="1-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">第四纪冰期</span>标志</h3>
+</div>
+<div class="para" label-module="para">冰期时期最重要的标志是全球性大幅度气温变冷，在中、高纬（包括极地）及高山区广泛形成大面积的冰盖和<a target=_blank href="/item/%E5%B1%B1%E5%B2%B3%E5%86%B0%E5%B7%9D">山岳冰川</a>。由于水分由海洋向冰盖区转移，<a target=_blank href="/item/%E5%A4%A7%E9%99%86%E5%86%B0%E7%9B%96">大陆冰盖</a>不断扩大增厚，引起海平面大幅度下降。所以，冰期盛行时的气候表现为干冷。冰盖的存在和海陆形势变化，<a target=_blank href="/item/%E6%B0%94%E5%80%99%E5%B8%A6">气候带</a>也相应移动，大气环流和洋流都发生变化，这均直接影响动植物生长、演化和分布。</div><div class="anchor-list">
+<a name="1_3" class="lemma-anchor para-title" ></a>
+<a name="sub293930_1_3" class="lemma-anchor " ></a>
+<a name="划分依据" class="lemma-anchor " ></a>
+<a name="1-3" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">第四纪冰期</span>划分依据</h3>
+</div>
+<div class="para" label-module="para"><a target=_blank href="/item/%E6%96%B0%E7%94%9F%E4%BB%A3">新生代</a>以前的<a target=_blank href="/item/%E5%A4%A7%E5%86%B0%E6%9C%9F">大冰期</a>因时代古老，可辨认的<a target=_blank href="/item/%E5%86%B0%E5%B7%9D%E9%81%97%E8%BF%B9">冰川遗迹</a>零散残缺，研究程度也较差，如今多依据地层中所含带<a target=_blank href="/item/%E5%86%B0%E5%B7%9D%E6%93%A6%E7%97%95">冰川擦痕</a>的混碛岩、页岩中的燧石结核和带冰川擦痕的基岩底盘等。新生代大冰期的冰川遗迹保存普遍较为完整，尤以晚新生代冰期的研究较为深入，如沉积连续性好的<a target=_blank href="/item/%E6%B7%B1%E6%B5%B7%E6%B2%89%E7%A7%AF">深海沉积</a>岩芯、黄土等,能较完整地记录全球气候和环境的变化。20世纪70年代以来，各国学者用氧<a target=_blank href="/item/%E5%90%8C%E4%BD%8D%E7%B4%A0">同位素</a>分析、放射性年代测定及古地磁等方法力图恢复和重建晚新生代的<a target=_blank href="/item/%E5%85%A8%E7%90%83%E6%B0%94%E5%80%99%E5%8F%98%E5%8C%96">全球气候变化</a>和<a target=_blank href="/item/%E6%B2%89%E7%A7%AF%E7%8E%AF%E5%A2%83">沉积环境</a>，作为划分冰期的重要依据。此外，包含海洋生物、哺乳动物、植物孢粉化石的生物<a target=_blank href="/item/%E5%9C%B0%E5%B1%82%E5%AD%A6">地层学</a>，<a target=_blank href="/item/%E5%9C%B0%E8%B2%8C%E5%88%86%E6%9E%90">地貌分析</a>，<a target=_blank href="/item/%E6%B2%89%E7%A7%AF%E5%B2%A9%E7%9F%B3%E5%AD%A6">沉积岩石学</a>以及古土壤等方法也常作为研究晚新生代环境和冰期划分的依据。</div><div class="anchor-list">
+<a name="2" class="lemma-anchor para-title" ></a>
+<a name="sub293930_2" class="lemma-anchor " ></a>
+<a name="我国情况" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">第四纪冰期</span>我国情况</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><a target=_blank href="/item/%E4%B8%AD%E5%9B%BD%E8%A5%BF%E9%83%A8">中国西部</a>高山地区的冰期划分已为人们所公认，以研究较好的<a target=_blank href="/item/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1">喜马拉雅山</a><a target=_blank href="/item/%E7%8F%A0%E7%A9%86%E6%9C%97%E7%8E%9B%E5%B3%B0">珠穆朗玛峰</a>区北坡为例，<a target=_blank href="/item/%E7%AC%AC%E5%9B%9B%E7%BA%AA">第四纪</a>冰期划分为：a.依据<a target=_blank href="/item/%E5%B8%8C%E5%A4%8F%E9%82%A6%E9%A9%AC%E5%B3%B0">希夏邦马峰</a>北坡附近的老冰碛平台确立的早<a target=_blank href="/item/%E6%9B%B4%E6%96%B0%E4%B8%96">更新世</a>的希夏邦马冰期b.依据珠穆朗玛峰西侧聂<a target=_blank href="/item/%E8%81%82%E9%9B%84">聂雄</a>拉高平台的冰水-冰碛沉积确立的<a target=_blank href="/item/%E4%B8%AD%E6%9B%B4%E6%96%B0%E4%B8%96">中更新世</a>的聂聂雄拉冰期。c.在<a target=_blank href="/item/%E7%BB%92%E5%B8%83">绒布</a>河谷中<a target=_blank href="/item/%E5%9F%BA%E9%9A%86">基隆</a>寺附近的残破漂砾群及上游绒布寺的<a target=_blank href="/item/%E7%BB%88%E7%A2%9B">终碛</a>垅分别代表<a target=_blank href="/item/%E6%99%9A%E6%9B%B4%E6%96%B0%E4%B8%96">晚更新世</a>早期的基隆寺阶段和较晚期的绒布寺阶段，这两个阶段构成了晚更新世的<a target=_blank href="/item/%E7%8F%A0%E7%A9%86%E6%9C%97%E7%8E%9B">珠穆朗玛</a>冰期，也有的学者将这两个阶段划为两个独立的冰期。</div>
+<div class="para" label-module="para">关于<a target=_blank href="/item/%E4%B8%AD%E5%9B%BD%E4%B8%9C%E9%83%A8">中国东部</a>第四纪冰期的问题，仍在争论中。1944年，<a target=_blank href="/item/%E6%9D%8E%E5%9B%9B%E5%85%89">李四光</a>以庐山为样板，将中国东部第四纪冰期由老到新划分出鄱阳、大姑、<a target=_blank href="/item/%E5%BA%90%E5%B1%B1%E5%86%B0%E6%9C%9F">庐山冰期</a>，再加上1937年H.von费师孟提出的末次冰期──<a target=_blank href="/item/%E5%A4%A7%E7%90%86%E5%86%B0%E6%9C%9F">大理冰期</a>,建立了中国东部第四纪冰期系列。对此，一些中外学者一直持有不同意见。80年代初，<a target=_blank href="/item/%E6%96%BD%E9%9B%85%E9%A3%8E">施雅风</a>等提出：除<a target=_blank href="/item/%E5%A4%AA%E7%99%BD%E5%B1%B1">太白山</a>、<a target=_blank href="/item/%E9%95%BF%E7%99%BD%E5%B1%B1">长白山</a>主峰区及台湾<a target=_blank href="/item/%E4%B8%AD%E5%A4%AE%E5%B1%B1%E8%84%89">中央山脉</a>等海拔3500米以上的高山存在<a target=_blank href="/item/%E7%AC%AC%E5%9B%9B%E7%BA%AA%E5%86%B0%E5%B7%9D%E9%81%97%E8%BF%B9">第四纪冰川遗迹</a>外，长江中下游山地、<a target=_blank href="/item/%E5%B9%BF%E8%A5%BF%E6%A1%82%E6%9E%97">广西桂林</a>、湖北<a target=_blank href="/item/%E7%A5%9E%E5%86%9C%E6%9E%B6">神农架</a>、<a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1">北京西山</a>、东北<a target=_blank href="/item/%E5%A4%A7%E5%85%B4%E5%AE%89%E5%B2%AD">大兴安岭</a>等都缺乏可靠的古冰川证据；<a target=_blank href="/item/%E4%B8%AD%E5%9B%BD%E4%B8%9C%E9%83%A8">中国东部</a>和西部在第四纪冰期时的表现形式是不一样的，东部地区不具备发育成<a target=_blank href="/item/%E5%B1%B1%E5%B2%B3%E5%86%B0%E5%B7%9D">山岳冰川</a>的水、热和地形条件，只是处于一个气候较寒冷的时期，<a target=_blank href="/item/%E6%9D%8E%E5%9B%9B%E5%85%89">李四光</a>所确认的东部古冰川遗迹实非冰川成因，如把泥石流堆积误认为冰碛物等；东部地区第四纪冰期系列，除大理冰期外，其他冰期均缺乏根据。</div>
+<div class="para" label-module="para"><b>中国第四纪冰川</b></div>
+<div class="para" label-module="para">中国<a target=_blank href="/item/%E7%AC%AC%E5%9B%9B%E7%BA%AA%E5%86%B0%E5%B7%9D">第四纪冰川</a>，是李四光于1922年首先在<a target=_blank href="/item/%E5%A4%AA%E8%A1%8C%E5%B1%B1">太行山</a>东麓及<a target=_blank href="/item/%E5%B1%B1%E8%A5%BF%E5%A4%A7%E5%90%8C">山西大同</a>盆地发现的，冰川的范围包括东北的长白山、大、<a target=_blank href="/item/%E5%B0%8F%E5%85%B4%E5%AE%89%E5%B2%AD">小兴安岭</a>，北方和西北的<a target=_blank href="/item/%E5%B4%82%E5%B1%B1">崂山</a>、<a target=_blank href="/item/%E6%B3%B0%E5%B1%B1">泰山</a>、<a target=_blank href="/item/%E5%8D%8E%E5%B1%B1">华山</a>、太白山、<a target=_blank href="/item/%E7%A7%A6%E5%B2%AD">秦岭</a>、<a target=_blank href="/item/%E4%BA%94%E5%8F%B0%E5%B1%B1">五台山</a>、太行山、<a target=_blank href="/item/%E5%90%95%E6%A2%81%E5%B1%B1">吕梁山</a>、<a target=_blank href="/item/%E9%98%B4%E5%B1%B1">阴山</a>、<a target=_blank href="/item/%E8%B4%BA%E5%85%B0%E5%B1%B1">贺兰山</a>，南方的滇、黔、桂、赣、浙、西藏等山地和高原，也波及到东部山区并常以冰舌向<a target=_blank href="/item/%E5%B1%B1%E9%BA%93%E5%B9%B3%E5%8E%9F">山麓平原</a>流溢。这次大冰期，可分四次亚冰期、三次<a target=_blank href="/item/%E9%97%B4%E5%86%B0%E6%9C%9F">间冰期</a>和一个冰后期。在最大一次冰期中，全球大陆有32%的面积被冰川覆盖，大量的冰停滞于大陆上，致使海面下降约130米。原始人类正是在<a target=_blank href="/item/%E7%AC%AC%E5%9B%9B%E7%BA%AA">第四纪</a>冰期和间冰期的气候变化中，发展成为现代人的。</div>
+<div class="para" label-module="para">我们说如今正处在第四纪大冰期中，其实，第四纪大冰期中的气候也有很大的变化，曾经出现过几次亚冰期和亚间冰期，变化的时间短则几千年，长则几万年或十几万年。</div>
+<div class="para" label-module="para">在20世纪初，地质学家根据<a target=_blank href="/item/%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1">阿尔卑斯山</a>区的资料，确定那里存在四次亚冰期的规律。这就是：群智亚冰期、民德亚冰期、里斯亚冰期和武木亚冰期，在这些亚冰期之间是亚<a target=_blank href="/item/%E9%97%B4%E5%86%B0%E6%9C%9F">间冰期</a>。以后在北欧、北美、亚洲等地也纷纷找到了对应的亚冰期。在我国对应的亚冰期是：都阳亚冰期、大姑亚冰期、庐山亚冰期和大理亚冰期。</div>
+<div class="para" label-module="para">在<a target=_blank href="/item/%E7%AC%AC%E5%9B%9B%E7%BA%AA">第四纪</a>大冰期中，仍然有寒冷和温暖的更替。在寒冷时期，雪线高度下降，<a target=_blank href="/item/%E5%86%B0%E5%B7%9D%E5%89%8D%E8%BF%9B">冰川前进</a>，出现亚冰期，其中以民德（我国为大姑）亚冰期和<a target=_blank href="/item/%E9%87%8C%E6%96%AF">里斯</a>（庐山）亚冰期的冰川规模最大，群智亚冰期规模最小。在温暖时期，气温升高，雪线高度上升，冰川退缩，出现亚间冰期。民德一里斯（大姑-庐山）亚间冰期长达17-18万年。在第四纪大冰期，高纬度气温的急剧下降，导致<a target=_blank href="/item/%E4%B8%A4%E6%9E%81">两极</a>地区形成永久冰盖；在亚冰期，冰川一直伸展到<a target=_blank href="/item/%E4%B8%AD%E7%BA%AC%E5%BA%A6">中纬度</a>，在亚间冰期才退缩到高纬度。</div>
+<div class="para" label-module="para">根据科学研究发现，从亚<a target=_blank href="/item/%E9%97%B4%E5%86%B0%E6%9C%9F">间冰期</a>向亚冰期过渡时，气候常呈渐变形式，其中没有清楚的界线。从亚冰期向亚间冰期过渡时，气候常呈突变形式，两者之间有明确的<a target=_blank href="/item/%E5%88%86%E7%95%8C%E7%BA%BF">分界线</a>。科学家们称为终止线。在距今1.1万年前后出现了一条终止线，间冰期，气候由冷增暖。</div>
+<div class="para" label-module="para">在第四纪大冰期中，为什么会有亚冰期和亚间冰期的更替呢？</div>
+<div class="para" label-module="para">按照<a target=_blank href="/item/%E5%8D%97%E6%96%AF%E6%8B%89%E5%A4%AB">南斯拉夫</a>气候学家来兰柯维奇在20世纪30年代提出的理论，是由于<a target=_blank href="/item/%E5%9C%B0%E7%90%83%E8%BD%A8%E9%81%93">地球轨道</a>三要素的自然小波动造成的。地球轨道三要素是指：地球轨道的偏心率、地轴的倾斜度和春分点的位置。</div>
+<div class="para" label-module="para"><a target=_blank href="/item/%E5%9C%B0%E7%90%83%E7%BB%95%E5%A4%AA%E9%98%B3%E5%85%AC%E8%BD%AC">地球绕太阳公转</a>的轨道是一个椭圆，太阳位于椭圆的一个焦点上。这样，地球处在轨道的不同位置，距离太阳的远近就不相同，获得的太阳辐射能量就有差异，如冬季在远日点，夏季在近日点，冬季就寒冷而漫长，夏季炎热而短促。地球轨道如今的偏心率是0.017，但是偏心率可以在0.001-0.054的范围内变动。它的变动周期约为96000年。偏心率的变化影响<a target=_blank href="/item/%E6%97%A5%E5%9C%B0%E8%B7%9D%E7%A6%BB">日地距离</a>，从而影响<a target=_blank href="/item/%E5%A4%AA%E9%98%B3%E8%BE%90%E5%B0%84%E5%BC%BA%E5%BA%A6">太阳辐射强度</a>，导致地球上的气候发生变化。</div>
+<div class="para" label-module="para">地球在春分点处在地球公转轨道上的什么位置，将影响季节的起止时间，也会使近日点和远日点的时间发生变化。地球在春分点的位置沿着地球公转轨道向西缓慢地移动，大约每21000年，春分点的位置在地球公转轨道上移动一周。春分节气的时间，每隔70年就要推迟一天。如今北半球夏季远日，夏季比冬季长8天。大约10000年后，就会变成冬季远日，冬季反而会比夏季长8天。就是说，不太冷而且短促的冬季，将会变成寒冷而漫长的冬季。</div>
+<div class="para" label-module="para">地轨倾斜又称<a target=_blank href="/item/%E9%BB%84%E8%B5%A4%E4%BA%A4%E8%A7%92">黄赤交角</a>，是地球上产生四季的原因。地轨<a target=_blank href="/item/%E5%80%BE%E6%96%9C%E5%BA%A6">倾斜度</a>的变化，会导致<a target=_blank href="/item/%E5%9B%9E%E5%BD%92%E7%BA%BF">回归线</a>和<a target=_blank href="/item/%E6%9E%81%E5%9C%88">极圈</a>的纬度发生变化，从而改变地球上的季节。地轨倾斜使回归线在纬度22.1°-24.4°之间变化，使极圈在67.9°-65.76°之间变化。变动的<a target=_blank href="/item/%E6%97%B6%E9%97%B4%E5%91%A8%E6%9C%9F">时间周期</a>41000年。地轨倾斜度增大时，回归线纬度升高，极圈纬度降低，高纬度的年<a target=_blank href="/item/%E5%A4%AA%E9%98%B3%E8%BE%90%E5%B0%84%E6%80%BB%E9%87%8F">太阳辐射总量</a>增加，冬寒夏热、<a target=_blank href="/item/%E6%B0%94%E6%B8%A9%E5%B9%B4%E8%BE%83%E5%B7%AE">气温年较差</a>增大，低纬度的年太阳辐射总量减少。地轨倾斜度减少时，高纬度冬暖夏凉，气温年较差减少，夏季温度低更有利于冰川发展。</div><div class="anchor-list">
+<a name="3" class="lemma-anchor para-title" ></a>
+<a name="sub293930_3" class="lemma-anchor " ></a>
+<a name="影响" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">第四纪冰期</span>影响</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">冰期对全球的影响是显著的。①大面积冰盖的存在改变了<a target=_blank href="/item/%E5%9C%B0%E8%A1%A8%E6%B0%B4%E4%BD%93">地表水体</a>的分布。晚<a target=_blank href="/item/%E6%96%B0%E7%94%9F%E4%BB%A3">新生代</a>大冰期时，水圈水分大量聚集于陆地而使全球海平面大约下降了 100米。如果现今地表冰体全部融化，则全球海平面将会上升80～90米，世界上众多大城市和低地将被淹没。②冰期时的大冰盖厚达数千米，使地壳的局部承受着巨大压力而缓慢下降，有的被压降100～200米,<a target=_blank href="/item/%E5%8D%97%E6%9E%81%E5%A4%A7%E9%99%86">南极大陆</a>的基底就被降于海平面以下。北欧随着<a target=_blank href="/item/%E7%AC%AC%E5%9B%9B%E7%BA%AA">第四纪</a>冰盖的消失，地壳则缓慢在上升。这种地壳均衡运动至今仍在继续着。③冰期改变了全球气候带的分布，大量喜暖性动植物种灭绝。</div><div class="anchor-list">
+<a name="4" class="lemma-anchor para-title" ></a>
+<a name="sub293930_4" class="lemma-anchor " ></a>
+<a name="成因" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">第四纪冰期</span>成因</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">学者们提出过种种解释，但至今没有得到满意的答案。归纳起来，主要有天文学和地球物理学成因说。</div><div class="anchor-list">
+<a name="4_1" class="lemma-anchor para-title" ></a>
+<a name="sub293930_4_1" class="lemma-anchor " ></a>
+<a name="天文学成因" class="lemma-anchor " ></a>
+<a name="4-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">第四纪冰期</span>天文学成因</h3>
+</div>
+<div class="para" label-module="para">主要考虑太阳、其他行星与地球间的相互关系。①太阳光度的周期变化影响地球的气候。太阳光度处于弱变化时，辐射量减少，地球变冷，乃至出现冰期气候。<a target=_blank href="/item/%E7%B1%B3%E5%85%B0">米兰</a><a target=_blank href="/item/%E7%A7%91%E7%BB%B4%E5%A5%87">科维奇</a>认为，夏半年太阳辐射量的减少是导致冰期发生的可能因素。②地球黄赤交角的周期变化导致气温的变化。黄赤交角指黄道与天赤道的交角，它的变化主要受行星摄动的影响。当黄赤交角大时，冬夏差别增大，年平均日射率最小，使低纬地区处于寒冷时期，有利于冰川生成。</div><div class="anchor-list">
+<a name="4_2" class="lemma-anchor para-title" ></a>
+<a name="sub293930_4_2" class="lemma-anchor " ></a>
+<a name="物理学成因" class="lemma-anchor " ></a>
+<a name="4-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">第四纪冰期</span>物理学成因</h3>
+</div>
+<div class="para" label-module="para">影响因素较多，有大气物理方面的，也有地理地质方面的。①大气透明度的影响。频繁的火山活动等使大气层饱含着火山灰，透明度低,减少了太阳辐射量，导致地球变冷。②<a target=_blank href="/item/%E6%9E%84%E9%80%A0%E8%BF%90%E5%8A%A8">构造运动</a>的影响。构造运动造成陆地升降、陆块位移、视极移动，改变了海陆分布和环流型式，可使地球变冷。云量、蒸发和冰雪反射的反馈作用，进一步使地球变冷,促使冰期来临。③大气中CO2的屏蔽作用CO2能阻止或减低地表热量的损失。如果大气中CO2含量增加到今天的2～3倍，则极地气温将上升8～9℃；如果今日大气中的CO2含量减少55～60%，则中纬地带气温将下降4～5℃。在<a target=_blank href="/item/%E5%9C%B0%E8%B4%A8%E6%97%B6%E6%9C%9F">地质时期</a>火山活动和生物活动使大气圈中CO2含量有很大变化，当CO2屏蔽作用减少到一定程度，则可能出现冰期。</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a name="rs_293930_35270" class="anchor-2"></a>
+<div id="rs-container-293930-35270" class="rslazy rs-container" lazy-init="lemmars.tableAction(baidu.g('rs-293930-35270'))"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":35270,"fentryTableName":"\u53e4\u5730\u7406\u5b66","fentryTableType":1,"entryId":2335487,"templateId":0,"entryTitle":"\u53e4\u5730\u7406\u5b66","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([293930, rsdataList]);
+        }
+    </script>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E7%AC%AC%E5%9B%9B%E7%BA%AA%E5%86%B0%E6%9C%9F/5329536/0/a8014c086e061d959ab092a37bf40ad163d9cab3?fr=lemma&amp;ct=single" target="_blank" nslog-type="10002401">
+<img src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=60d4aa822df5e0feee188e07645b5395/a8014c086e061d959ab092a37bf40ad163d9cab3.jpg" />
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>第四纪冰期图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaId="5329536" data-lemmaTitle="第四纪冰期"></div><div class="lemmaWgt-sideRecommend">
+<a name="zhixinWrap" class="qnAnchor"></a>
+<div class="zhixin-box" id="zhixinWrap" data-source="" data-newLemmaId="5329536">
+</div>
+<form id="zhixinErrorForm" class="hidden" action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" target="zhixinSubErr" method="post">
+<input class="js-url" name="fb_html_url" type="hidden" />
+<input class="js-query" name="fb_query" type="hidden" />
+<input class="js-title" name="fb_card_title" type="hidden" />
+<input class="js-content" name="fb_content" type="hidden" />
+<input class="js-souceId" name="fb_source_id" type="hidden" />
+</form>
+<iframe id="zhixinSubErr" name="zhixinSubErr" style="display:none" frameborder="0"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：21次<a href="/historylist/%E7%AC%AC%E5%9B%9B%E7%BA%AA%E5%86%B0%E6%9C%9F/5329536" class="nslog:1021" target="_blank">历史版本</a></li>
+<li>最近更新：<span class="j-modified-time" style="display:none">2016-08-30</span></li>
+<li>创建者：<a class="show-userCard" data-uid="22751132" title="查看此用户资料" target="_blank" href="http://www.baidu.com/p/zy19842006" nslog-type="1022">zy19842006</a></li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#1" class="title-link">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">基本介绍</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#1_1" class="title-link">
+<span class="text">
+<span class="title-index">1.1</span>
+<span class="title-link" nslog-type="10002802">冰期</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#1_2" class="title-link">
+<span class="text">
+<span class="title-index">1.2</span>
+<span class="title-link" nslog-type="10002802">标志</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#1_3" class="title-link">
+<span class="text">
+<span class="title-index">1.3</span>
+<span class="title-link" nslog-type="10002802">划分依据</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#2" class="title-link">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">我国情况</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#3" class="title-link">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">影响</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#4" class="title-link">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">成因</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#4_1" class="title-link">
+<span class="text">
+<span class="title-index">4.1</span>
+<span class="title-link" nslog-type="10002802">天文学成因</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#4_2" class="title-link">
+<span class="text">
+<span class="title-index">4.2</span>
+<span class="title-link" nslog-type="10002802">物理学成因</span>
+</span>
+</a>
+</dd>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);"></a>
+<a class="gotop-button" href="javascript:void(0);"></a>
+</div>
+</div>
+<div id="side_box_fengchao" class="fengchao side-box" nslog="area" nslog-type="10000902">
+</div>
+<div id="side_box_unionAd" class="unionAd side-box">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你喜欢</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+<div class="bottom-promotion" id="bottom-promotion">
+<div id="BOTTOM_PRO_AD"></div>
+</div>
+</div>
+</div>
+
+<div class="wgt-footer-main">
+<div class="content">
+<dl class="fresh">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-fresh"></em>新手上路</dt>
+<dd>
+<div><a target="_blank" href="/usercenter/tasks#guide">成长任务</a></div>
+<div><a target="_blank" href="/help#main01">编辑入门</a></div>
+<div><a target="_blank" href="/help#main06">编辑规则</a></div>
+<div><a target="_blank" href="/help#main05">百科术语</a></div>
+</dd>
+</dl>
+<dl class="question">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-question"></em>我有疑问</dt>
+<dd>
+<div><a target="_blank" href="/wikiui/doubt?lemmaId=5329536&fr=lemma"
+            nslog-type="10070001">我要质疑</a></div>
+<div><a target="_blank" href="https://aikefu.baidu.com/?product=bk001" nslog-type="10000003">在线客服</a></div>
+<div><a target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91">参加讨论</a></div>
+<div><a target="_blank" href="/feedback">意见反馈</a></div>
+</dd>
+</dl>
+<dl class="suggestion">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-suggestion"></em>投诉建议</dt>
+<dd>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#1">举报不良信息</a></div>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#2">未通过词条申诉</a></div>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#4">投诉侵权信息</a></div>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#3">封禁查询与解封</a></div>
+</dd>
+</dl>
+</div>
+<div class="copyright">©2017&nbsp;Baidu&nbsp;<a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_en=baike&class=159&id=1047" target="_blank">百科协议</a>&nbsp;|&nbsp;<a href="/operation/cooperation" target="_blank">百度百科合作平台</a>&nbsp;|&nbsp;<span>京ICP证030173号&nbsp;</span><img class="copyright-img" width="13" height="16" src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png"></div>
+<p class="recordcode"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001" target="_blank"><i class="icon-police"></i>京公网安备11000002000001号</a></p>
+</div>
+
+<div class="lemmaWgt-searchHeader">
+<div class="layout cmn-clearfix">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-simple cmn-clearfix ">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080015" name="word" type="text" autocomplete="off" autocorrect="off" value="第四纪冰期" /><button id="search" nslog="normal" nslog-type="10080013" type="button">进入词条</button>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="close" nslog="normal" nslog-type="10080016">关闭</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="tool-buttons">
+<a class="toolButtons-edit button j-edit-link" href="javascript:;" nslog-type="10010001"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-hollow"></em>编辑</a>
+<a class="toolButtons-collect button" href="javascript:;" nslog-type="10010002"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>收藏</a>
+<a class="toolButtons-vote button top-vote" href="javascript:;" nslog-type="10010003"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em><span class="j-tool-btn-vote-num">赞</span></a>
+</div>
+<div class="user-info">
+<a class="user-link unlogin" href="javascript:;" nslog-type="10010008" target="_blank">登录</a>
+</div>
+</div></div>
+<div class="new-bdsharebuttonbox new-side-share" id="side-share">
+<span class="title">分享</span>
+<div class="side-border">
+<div class="triangle"></div>
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060101">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060301">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060001">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060201">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</div>
+</div>
+<div class="qrcode-wrapper" id="layer" style="display: none">
+<div class="bd_weixin_popup_header">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+<span>分享到微信朋友圈</span>
+</div>
+<div id="wechat-qrcode-img"></div>
+<div class="bd_weixin_popup_footer">打开微信“扫一扫”即可将网页分享至朋友圈</div>
+</div>
+<div></div><div></div>
+
+</body><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/js/mod_4302fe0.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaInsert_8f518c5.js","pkg":"wiki-lemma:p5","deps":["wiki-common:widget/component/nslog/nslog.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/tangram.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/tangram_459492a.js","pkg":"wiki-lemma:p5"}},"pkg":{"wiki-lemma:p5":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module-lemmaRelation_0aebd7b.js"}}});</script><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/widget/lib/jquery/jquery_1.11.1_dfce600.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/widget/lib/jquery/jquery.mousewheel_4fde694.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/widget/lib/jquery/jquery_2d56800.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/widget/lib/jsmart/PHPJS_2406ddf.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/widget/lib/jsmart/jsmart_a7d06a5.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/widget/lib/sparkMD5/sparkMD5_a5502a8.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/widget/lib/swfObject/swfObject_00526c3.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/widget/lib/letvPlayer/letvPlayer_f923883.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_0b8eb3c.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/widget/component/userbar-n/userbar-n_8f86b7d.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_6d0a33a.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_58e6342.js"></script>
+<script type="text/javascript">!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery'),
+    userbar = require('wiki-common:widget/component/userbar-n/userbar-n');
+    
+  userbar.buildUserbar($('#j-wgt-userbar'), null);
+}();
+!function(){  require('wiki-common:widget/component/headTabBar/headTabBar');
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar');  
+    initSearchbar($('.wgt-searchbar-main'));
+  }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var cookie = require('wiki-common:widget/util/cookie');
+    if (!cookie.get('baikedeclare')) {
+        $('#J-declare-wrap').css('display', 'block');
+    }
+    $('#J-declare-close').on('click', function () {
+        // 用户关闭后，不再显示，这里暂设过期时间为1年
+        cookie.set('baikedeclare', 'showed', {
+            expires: 365 * 60 * 60 * 24 * 1000,
+            path: '/'
+        });
+        $('#J-declare-wrap').css('display', 'none');
+    });
+}();
+!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery');
+
+  var timer = '';
+
+  $('.wgt-navbar').on('mouseenter', 'dl', function() {
+  clearTimeout(timer);
+  timer = setTimeout(function() {
+  $('.wgt-navbar').addClass('wgt-navbar-hover');
+}, 300);
+}).on('mouseleave', function() {
+clearTimeout(timer);
+$('.wgt-navbar').removeClass('wgt-navbar-hover');
+}).on('click', 'a', function() {
+clearTimeout(timer);
+$('.wgt-navbar').removeClass('wgt-navbar-hover');
+});
+}();
+!function(){                var $ = require('wiki-common:widget/lib/jquery/jquery');
+                var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+                // 展现策略
+                rightCheck.editView('5329536', function(res) {
+                    if (!res.errno) {
+                        if (res.data.edit) {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    } else {
+                        if ('1') {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    }
+                });
+                require('wiki-lemma:widget/basicElement/addSub/addSub.js')({                    lemmaId: '5329536',                    lemmaTitle: '第四纪冰期',                    lemmaDesc: '',                    versionId: '112156735',                    subLemmaId: '293930'                });
+            }();
+!function(){        var $ = require('wiki-common:widget/lib/jquery/jquery');
+        var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+        // 展现策略
+        rightCheck.editView('5329536', function(res) {
+            if (!res.errno) {
+                if (res.data.divide) {
+                    $('.top-tool .split-icon').css('display', 'block');
+                }
+            }
+        });
+    }();
+!function(){    var nslog = require('wiki-common:widget/component/nslog/nslog');
+	require.async(["wiki-lemma:widget/basicElement/collect/collect"],function(collect){
+		collect({
+            newLemmaId:"5329536",
+			lemmaId:"293930",
+			subLemmaId:"293930"
+		});
+	});
+}();
+!function(){    require.async(["wiki-lemma:widget/basicElement/topShare/topShare"],function(topShare){
+        topShare({
+            newLemmaId: '5329536'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5329536', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+                // 编辑和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .edit-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .edit-lemma').before('<br/><br/>');
+                  }
+                }
+            } else {
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+                // 锁定和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .lock-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .lock-lemma').before('<br/><br/>');
+                  }
+                }
+            }
+        } else {
+            if ('1') {
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+                // 编辑和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .edit-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .edit-lemma').before('<br/><br/>');
+                  }
+                }
+            } else {
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+                // 锁定和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .lock-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .lock-lemma').before('<br/><br/>');
+                  }
+                }
+            }
+        }
+    });
+}();
+!function(){	require('wiki-lemma:widget/lemma_content/mainContent/basicInfo/basicInfo')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require('wiki-common:widget/component/nslog/nslog');
+    nslog(10002701);
+    $('.lemmaWgt-lemmaCatalog a').on('click', function () {
+           nslog(10002702);
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5329536', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5329536', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5329536', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5329536', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5329536', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5329536', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5329536', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5329536', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5329536', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){        require.async(['wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert'], function(init) {
+            init({ // 关系化统计需求--传参  shangwenbin
+                lemmaId: "293930",
+                newLemmaId: "5329536",
+                subLemmaId: "293930",
+                lemmaTitle: "第四纪冰期"
+            });
+        });
+    }();
+!function(){        require('wiki-lemma:widget/lemma_content/configModule/zhixin/zhixin')(
+            5329536,
+            '第四纪冰期'
+        );
+    }();
+!function(){    require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaStatistics/lemmaStatistics"],function(init){
+        init({
+            newLemmaIdEnc:"5274c6262751aefb8b4e83f7"
+        });
+    });
+}();
+!function(){	require.async(["wiki-lemma:widget/lemma_content/mainContent/sideCatalog/sideCatalog"],function(SideCatalog){
+		new SideCatalog();
+	});
+}();
+!function(){        require.async(["wiki-lemma:widget/promotion/fengchao/fengchao","wiki-lemma:widget/promotion/unionAd/unionAd"], function (init, unionAd) {
+            init({
+                newLemmaId: "5329536",
+                lemmaTitle: "第四纪冰期",
+                encodeLemmaTitle: "%B5%DA%CB%C4%BC%CD%B1%F9%C6%DA",
+                adManager: null
+            }, {
+                errFn: unionAd,
+                dom: $('#side_box_unionAd')
+            });
+        });
+    }();
+!function(){        require.async(['wiki-lemma:widget/promotion/guessLike/guessLike'], function (app) {
+            app.init({
+                lemmaTitle: '第四纪冰期',
+                adManager: null
+            });
+        });
+    }();
+!function(){            require.async(['wiki-lemma:widget/promotion/bottomAd/bottomAd'], function (init) {
+                init({
+                    sId: 'BOTTOM_PRO_AD',
+                    adManager: null
+                });
+            });
+        }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog");
+    var userLogin = require('wiki-common:widget/component/userLogin/userLogin');
+    var unameFiller = require('wiki-common:widget/component/unameFiller/unameFiller');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+            var isEnterprise = false;
+        var enterpriseOwnerUserId = 0;
+    
+    var userId = 0;
+    var editUrl = '/edit/' + encodeURIComponent('第四纪冰期') + '/' + '5329536';
+    var pgcUrl = '/enterprise/editpgc?lemmaId=5329536';
+
+    userLogin.regist({
+        onLogin: function(user) {
+            userId = user ? user.uid : 0;
+        }
+    });
+
+    function gotoEdit(url, isMidNight) {
+        if (isMidNight) {
+            Dialog.alert({
+                title: '编辑提示',
+                subMsg: '晚23:00至次日8:00，因审核系统例行维护，您提交的版本可能需要较长时间才能通过，望您谅解。',
+                onConfirm: function() {
+                    window.location.href = url;
+                }
+            });
+        } else {
+            window.location.href = url;
+        }    
+    }
+
+    function showChoseEditDialog(pgcCallback, ugcCallback) {
+        new Dialog({
+            title: '编辑提示',
+            subMsg: '<p>您已开通企业百科服务，推荐您直接编辑“官方资料”，官方资料仅限企业百科绑定的百科账号修改，其他用户账号不可修改。</p><p>如果您想修改其他网友编辑的普通词条内容，请注意遵守百科百科编辑规则。<p>',
+            btns: [{
+            key: 'pgc',
+            text: '编辑官方资料'
+            }, {
+            style: 'white',
+            text: '修改普通词条',
+            key: 'ugc'
+            }],
+            onBtnClick: function(btnKey){
+                if (btnKey === 'pgc') {
+                    pgcCallback && pgcCallback();
+                } else if (btnKey === 'ugc') {
+                    ugcCallback && ugcCallback();
+                }
+            }
+        }).show();
+    }
+
+    function checkUserLegal(res) {
+        var legal = false;
+        switch (res.errno) {
+            case 100001:
+                userLogin.showLoginPop();
+                break;
+            case 100006:
+                unameFiller.show();
+                break;
+            default:
+                legal = true;
+        }
+        return true;
+    }
+
+    function checkUgc(res, url) {
+        if (res.errno) {
+            switch (res.errno) {
+                case 100005:
+                    alert('对不起，您目前被封禁');
+                    break;
+                case 110001:
+                    alert('对不起，该词条被锁定');
+                    break;
+                case 110007:
+                    alert('对不起，消歧页无法编辑');
+                    break;
+                case 110005:
+                    Dialog.alert({
+                    title: '编辑提示',
+                    mainMsg: '对不起，您暂时没有权限编辑该词条。',
+                    subMsg: '<p>您好，该词条内容已较丰富，现仅对百科等级达到<b>四级</b>且通过率达到<b>85%</b>的科友开放编辑。</p><p>当您通过努力达到以上要求，就可以参与编辑该词条了。</p><p><img src="https://bkssl.bdimg.com/img/baike/usercenter/growuptask/star.gif" class="star" />参加<a target="_blank" href="/usercenter#guide">成长任务</a>，更快掌握百科编辑技巧，加速升级！</p>'
+                    });
+                    break;
+                case 110008:
+                    Dialog.alert({
+                    title: '编辑提示',
+                    mainMsg: '对不起，您暂时没有权限编辑该词条。',
+                    subMsg: '<p>您好，该词条内容已较丰富，现仅对百科等级达到<b>六级</b>且通过率达到<b>85%</b>的科友开放编辑。</p><p>当您通过努力达到以上要求，就可以参与编辑该词条了。</p><p><img src="https://bkssl.bdimg.com/img/baike/usercenter/growuptask/star.gif" class="star" />参加<a target="_blank" href="/usercenter#guide">成长任务</a>，更快掌握百科编辑技巧，加速升级！</p>'
+                    });
+                    break;
+                case 470001:
+                    alert('系统错误，请刷新重试');
+                    break;
+            }
+        } else {
+            if (!res.data.right.noAudit) {
+                Dialog.alert({
+                    title: '编辑提示',
+                    subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                });
+                return;
+            }
+            gotoEdit(url, res.data.notice.isMidNight);
+        }
+    }
+
+    $(document.body).on('click', '.j-edit-link', function() {
+        var dl = $(this).attr('data-edit-dl');
+        if (dl) {
+            var url = editUrl + '?dl=' + dl;
+        } else {
+            var url = editUrl;
+        }
+
+        rightCheck.preeditCheck('5329536', '第四纪冰期', '第四纪冰期', '112156735', function(res) {
+            if (!checkUserLegal(res)) {
+                return;
+            }
+            if (isEnterprise && enterpriseOwnerUserId === userId) {
+                showChoseEditDialog(function() {
+                    location.href = pgcUrl;
+                }, function() {
+                    checkUgc(res, url);
+                });
+            } else {
+                checkUgc(res, url);
+            }
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar');  
+    initSearchbar($('.wgt-searchbar-simple'));
+  }();
+!function(){    require.async(["wiki-lemma:widget/tools/searchHeader/toolButtons-n/toolButtons"],function(init){
+        init({
+            lemmaId:"293930",
+            subLemmaId:"293930",
+            newLemmaId:"5329536"
+        });
+    });
+}();
+!function(){    require('wiki-lemma:widget/tools/searchHeader/toolButtons-n/userInfo')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      animation = require('wiki-common:widget/util/animation'),
+      nslog = require('wiki-common:widget/component/nslog/nslog'),
+      initSearchbar = require('wiki-common:widget/component/searchbar/searchbar');
+
+    var isFadeIn = false,
+        isFadeOut = false;
+
+    var fadeInAni, fadeOutAni;
+
+    $(window).on('scroll', function(e) {
+        var scrollTop = $(this).scrollTop();
+
+        if (scrollTop > 200 && !isFadeIn && $('.lemmaWgt-searchHeader').css('display') == 'none') {
+            fadeOutAni && fadeOutAni.stop();
+            fadeInAni = animation({
+                duration: 200,
+                easing: 'linear',
+                onStart: function() {
+                    isFadeOut = false;
+                    isFadeIn = true;
+                    $('.lemmaWgt-searchHeader').css('display', 'block');
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', progress)
+                },
+                onComplete: function(progress) {
+                    isFadeIn = false;
+                    nslog(10010007);
+                }
+            });
+        } else if (scrollTop <= 200 && !isFadeOut && $('.lemmaWgt-searchHeader').css('display') == 'block') {
+            fadeInAni && fadeInAni.stop();
+            fadeOutAni = animation({
+                duration: 300,
+                easing: 'linear',
+                onStart: function() {
+                    $('.lemmaWgt-searchHeader #suggestion').hide();
+                    isFadeIn = false;
+                    isFadeOut = true;
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', 1 - progress);
+                },
+                onComplete: function(progress) {
+                    isFadeOut = false;
+                    $('.lemmaWgt-searchHeader').css('display', 'none');
+                }
+            });
+        }
+    });
+}();
+!function(){    require('wiki-lemma:widget/tools/newSideShare/qzopensl');
+    require.async(["wiki-lemma:widget/tools/newSideShare/taskSideShare"],function(taskShare){
+        taskShare.init({
+            title: '第四纪冰期',
+            desc: "\u53c8\u79f0\u201c\u7b2c\u56db\u7eaa\u5927\u51b0\u671f\u201d\u3002\u7b2c\u4e09\u7eaa\u672b\u6c14\u5019\u8f6c\u51b7\uff0c\u7b2c\u56db\u7eaa\u521d\u671f\uff0c\u5bd2\u51b7\u6c14\u5019\u5e26\u5411\u4e2d\u4f4e\u7eac\u5ea6\u5730\u5e26\u8fc1\u79fb\uff0c\u4f7f\u9ad8\u7eac\u5ea6\u5730\u533a\u548c\u5c71\u5730\u5e7f\u6cdb\u53d1\u80b2\u51b0\u76d6\u6216\u51b0\u5ddd\u3002\u8fd9\u4e00\u65f6\u671f\u5927\u7ea6\u59cb\u4e8e\u8ddd\u4eca200-300\u4e07\u5e74\u524d\uff0c\u7ed3\u675f\u4e8e1\u20142\u4e07\u5e74\u524d\u3002\u89c4\u6a21\u5f88\u5927\u3002\u5728\u6b27\u6d32\u51b0\u76d6\u5357\u7f18\u53ef\u8fbe\u5317\u7eac50\u00b0\u9644\u8fd1\uff1b\u5728\u5317\u7f8e\u51b0\u76d6\u524d\u7f18\u5ef6\u4f38\u5230\u5317\u7eac40\u00b0\u4ee5\u5357\uff1b\u5357\u6781\u6d32\u7684\u51b0\u76d6\u4e5f\u8fdc\u6bd4\u73b0\u5728",
+            pic: 'https:\/\/gss0.bdstatic.com\/94o3dSag_xI4khGkpoWK1HF6hhy\/baike\/w%3D268\/sign=9a9e23b2ebc4b7453494b010f7fd1e78\/a8014c086e061d959ab092a37bf40ad163d9cab3.jpg',
+            url: '',
+            qqPic: 'https:\/\/gss0.bdstatic.com\/94o3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D292%2C292%2C50\/sign=22da03b8b07eca8012506aa7f71ea5e4\/a8014c086e061d959ab092a37bf40ad163d9cab3.jpg',
+            newLemmaId: '5329536',
+            lemmaTitle: '第四纪冰期'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require("wiki-common:widget/component/nslog/nslog");
+    var testElem = require('wiki-common:widget/component/testElem/testElem');
+    var cmsModuleLoader = require('wiki-common:widget/component/cmsModuleLoader/cmsModuleLoader');
+
+    function requireAsync() {
+        require.async(['wiki-lemma:widget/tools/announcement/announcement']);
+    }
+
+    cmsModuleLoader('/api/wikiui/getlemmaconfig', [{
+        name: 'announcement',
+        script: 'wiki-lemma:widget/tools/announcement/announcement.js'
+    }]);
+
+    require.async(["wiki-lemma:widget/tools/lazyLoad/lazyLoad"], function(LazyLoad) {
+        new LazyLoad();
+    });
+
+    require.async(['wiki-common:widget/component/nslog/nslog','wiki-common:widget/lib/jquery/jquery'], function(nslog, $) {
+        nslog().setGlobal({
+            lemmaId: "293930",
+            newLemmaId: "5329536",
+            subLemmaId: "293930",
+            lemmaTitle: "第四纪冰期"
+        });
+
+        // 词条页 pv
+        nslog(9322);
+
+        // 新版头部pv（小流量）
+        if ($('.pc-header-new').length > 0) {
+            nslog(9069);
+        }
+
+        // 链接点击 pv
+        var lemmaPageRegExp = new RegExp(/\/subview\/\d+|\/view\/\d+|\/item\//i);
+        $('body').on('mousedown', 'a', function() {
+            var href = $(this).attr('href');
+            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0) {
+                // 链接点击 pv
+                nslog(10000001);
+                if (lemmaPageRegExp.test(href)) {
+                    // 词条页链接点击 pv
+                    nslog(10000002, window.location.href, {
+                        targetTitle: $(this).text()
+                    });
+                }
+            }
+        });
+
+        /****** 词条页站内流转需求统计 start ******/
+        (function () {
+            // 各种统计配置
+            var circulationLinkCfg = {
+                innerLink: [ // 内链
+                    '.para',
+                    '.lemmaWgt-baseInfo-simple-largeMovie',
+                    '.lemmaWgt-baseInfo-simple-largeStar',
+                    '.basic-info .basicInfo-block',
+                    '.lemma-summary',
+                    '.lemmaWgt-lemmaSummary',
+                    '.view-tip-panel',
+                    '.horizontal-module',
+                    '.lemmaWgt-roleIntroduction',
+                    '.dramaSeries .dramaSerialList',
+                    '.module-music',
+                    '.table-view',
+                    '[log-set-param="table_view"]',
+                    '.list-module',
+                    '.cell-module',
+                    '.baseBox .dl-baseinfo', // 配置后台字段
+                    '.pvBtn-box .leadPVBtnWrapper',
+                    '.drama-actor',
+                    '#staffList',
+                    '.starMovieAndTvplay',
+                    '.main_tab:not(.main_tab-defaultTab)' // 除去词条tab外的tab
+                ],
+                relationTable: '.rs-container-foot', // 关系表
+                peopleRelation: '.star-info-block.relations, .lemmaWgt-focusAndRelation', // 人物关系（明星+普通）
+                moduleActors: '.featureBaseInfo .actors, .lemmaWgt-majorActors', // 主要演员、嘉宾、主持人
+                moduleWorks: '.featureBaseInfo .works, .large-feature .works', // 代表作品
+                moduleQuarterly: '.featureBaseInfo .po_quarterly, .mian_quarterly', // 分季介绍
+                rankStar: '.rank-list.stars-rank', // 明星榜
+                rankDrama: '.drama-rank-list', // 电视剧榜
+                specialTopic: '.special-topic', // 专题模块
+                modDetailTable: '#modDetailTable', // 关系表出图
+                chuizhitu: '.chuizhitu', // 垂直化模块
+                polysemantList: '.polysemantList-wrapper' // 义项切换
+            };
+            /****** 连接统计 ******/
+            function clickNslogFn() {
+                for (var k in circulationLinkCfg) {
+                    if (k === 'innerLink') {
+                        // 词条内链到词条页
+                        var tempArr = circulationLinkCfg[k];
+                        for (var i = 0, l = tempArr.length; i < l; i++) {
+                            tempArr[i] += ' a';
+                        }
+                        var sSelector = tempArr.join(', ');
+
+                        $('body').on('mousedown', sSelector, {key: k},function(e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            var tar = $(this).attr('target') || '';
+                            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0
+                            && tar === '_blank' && lemmaPageRegExp.test(href)) {
+                                // 词条页普通内链点击 pv
+                                nslog(10000004, null ,{division: key});
+                            }
+                        });
+                    } else {
+                        // 模块到词条页链接
+                        $(circulationLinkCfg[k]).on('mousedown', 'a', {key: k}, function (e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            if (href && href.indexOf('#') !== 0 && lemmaPageRegExp.test(href)) {
+                                // 词条页配置模块链接点击 pv
+                                nslog(10000004, null, {division: key});
+                            }
+                        });
+                    }
+                }
+            }
+            // 发起统计请求
+            clickNslogFn();
+
+            /****** 各模块展现量pv ******/
+            function checkModuleIsShow() {
+                var result = [];
+                for (var k in circulationLinkCfg) {
+                    if (k !== 'innerLink' && k !== 'relationTable') {
+                        !!$(circulationLinkCfg[k]).html() && result.push(k);
+                    }
+                }
+                if (result.length > 0) {
+                    nslog(10000005, null, {showModules: result.join(',')});
+                }
+            }
+            checkModuleIsShow();
+
+        })();
+        /****** 词条页站内流转需求统计 end ******/
+
+    });
+
+    // 广告接入 wikiad 统一加载
+    // log 词条页广告被拦截情况（此处 log 请求行为）
+    nslog(70000101, window.location.href, {
+        api: 'lemma-ad',
+        action: 'request'
+    });
+    var tags = [];
+    var tagsArray = [];
+    for (var key in tags) {
+        tagsArray.push(tags[key].tagName);
+    }
+    $.ajax({
+        type: 'GET',
+        url: '/api/wikiad/getsquirrels',
+        data: {
+            lemmaId: 5329536,
+            tags: tagsArray.join()
+        },
+        cache: false,
+        dataType: 'JSON',
+        success: function (res) {
+            // log 词条页广告被拦截情况（此处 log 请求成功）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'success'
+            });
+
+            if (!res.errno) {
+                if (res.data[5]) {
+                    require.async(['wiki-lemma:widget/promotion/rightPreciseAd/rightPreciseAd'], function(rightPreciseAd) {
+                        rightPreciseAd(res.data[5]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[5][0].adId,
+                            adTitle: res.data[5][0].name,
+                            adPos: 5
+                        });
+                    });
+                } else if (res.data[1]) {
+                                        require.async(['wiki-lemma:widget/promotion/vbaike/vbaike'], function(vbaike) {
+                        vbaike(res.data[1]);
+                        for(var i in res.data[1]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[1][i].adId,
+                                adTitle: res.data[1][i].name,
+                                adPos: 1
+                            });
+                        }
+                    });
+                                    }
+                if (res.data[9]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightBigAd/rightBigAd'], function(rightBigAd) {
+                        rightBigAd(res.data[9]);
+                            nslog(10002201, location.href, {
+                                adId: res.data[9][0].adId,
+                                adTitle: res.data[9][0].name,
+                                adPos: 9
+                            });
+                    });
+                                    } else if(res.data[2]) {
+                    require.async(['wiki-lemma:widget/promotion/slide/slide'], function(slide) {
+                        slide(res.data[2]);
+                        for(var i in res.data[2]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[2][i].adId,
+                                adTitle: res.data[2][i].name,
+                                adPos: 2
+                            });
+                        }
+                    });
+                }
+                if (res.data[3]) {
+                                        require.async(['wiki-lemma:widget/promotion/topAd/topAd'], function(topAd) {
+                        topAd(res.data[3]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[3][0].adId,
+                            adTitle: res.data[3][0].name,
+                            adPos: 3
+                        });
+                    });
+                                    }
+                if (res.data[4]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightAd/rightAd'], function(rightAd) {
+                        rightAd(res.data[4]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[4][0].adId,
+                            adTitle: res.data[4][0].name,
+                            adPos: 4
+                        });
+                    });
+                                    }
+                if (res.data[15]) {
+                    require.async(['wiki-lemma:widget/promotion/banner/banner'], function(banner) {
+                        banner(res.data[15]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[15][0].adId,
+                            adTitle: res.data[15][0].name,
+                            adPos: 15
+                        });
+                    });
+                }
+                if (res.data[16]) {
+                    require.async(['wiki-lemma:widget/promotion/declaration/declaration'], function(declaration) {
+                        declaration(res.data[16]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[16][0].adId,
+                            adTitle: res.data[16][0].name,
+                            adPos: 16
+                        });
+                    })
+                }
+            } else {
+                return;
+            }
+
+            setTimeout(function () {
+                var elemArr = {};
+                res.data[1] && res.data[1].length > 0 && (elemArr['lemma-vbaike-ad'] = $('.lemmaWgt-promotion-vbaike .promotion_viewport a:eq(0) img').get(0));
+                res.data[2] && res.data[2].length > 0 && (elemArr['lemma-slide-ad'] = $('.lemmaWgt-promotion-slide .promotion_viewport a:eq(0) img').get(0));
+                res.data[3] && res.data[3].length > 0 && (elemArr['lemma-navbar-ad'] = {
+                    node: $('.header [nslog-type="10002202"]').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.header [nslog-type="10002202"]').css('background-image').indexOf(res.data[3][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[4] && res.data[4].length > 0 && (elemArr['lemma-side-ad'] = {
+                    node: $('.right-ad img').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.right-ad img').attr('src').indexOf(res.data[4][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[15] && res.data[15].length > 0 && (elemArr['lemma-configModule-banner'] = $('.configModuleBanner').get(0));
+                res.data[16] && res.data[16].length > 0 && (elemArr['lemma-configModule-declaration'] = $('.lemmaWgt-declaration').get(0));
+
+                testElem.log(elemArr, 70000102);
+            }, 1000);
+        },
+        error: function () {
+            // log 词条页广告被拦截情况（此处 log 请求失败）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'error'
+            });
+        }
+    });
+
+    // 设置分享内容
+    window.BKShare.setCommon({
+        bdText: "\u3010\u7b2c\u56db\u7eaa\u51b0\u671f_\u767e\u5ea6\u767e\u79d1\u3011\u53c8\u79f0\u201c\u7b2c\u56db\u7eaa\u5927\u51b0\u671f\u201d\u3002\u7b2c\u4e09\u7eaa\u672b\u6c14\u5019\u8f6c\u51b7\uff0c\u7b2c\u56db\u7eaa\u521d\u671f\uff0c\u5bd2\u51b7\u6c14\u5019\u5e26\u5411\u4e2d\u4f4e\u7eac\u5ea6\u5730\u5e26\u8fc1\u79fb\uff0c\u4f7f\u9ad8\u7eac\u5ea6\u5730\u533a\u548c\u5c71\u5730\u5e7f\u6cdb\u53d1\u80b2\u51b0\u76d6\u6216\u51b0\u5ddd\u3002\u8fd9\u4e00\u65f6\u671f\u5927\u7ea6\u59cb\u4e8e\u8ddd\u4eca200-300\u4e07\u5e74\u524d\uff0c\u7ed3\u675f\u4e8e1\u20142\u4e07\u5e74\u524d\u3002\u89c4\u6a21\u5f88\u5927\u3002\u5728\u6b27\u6d32\u51b0\u76d6\u5357\u7f18\u53ef\u8fbe\u5317\u7eac50\u00b0\u9644\u8fd1\uff1b\u5728\u5317\u7f8e\u51b0\u76d6\u524d\u7f18\u5ef6\u4f38\u5230\u5317\u7eac40\u00b0\u4ee5\u5357\uff1b\u5357\u6781\u6d32\u7684\u51b0\u76d6\u4e5f\u8fdc\u6bd4\u73b0\u5728.....\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u767e\u79d1\uff09",
+        bdDesc: '',
+        bdUrl: 'http:\/\/baike.baidu.com\/item\/%E7%AC%AC%E5%9B%9B%E7%BA%AA%E5%86%B0%E6%9C%9F\/5329536',
+        bdPic: '',
+        onBeforeClick: function (){
+            $('.bdshare_dialog_box').hide();
+        }
+    });
+
+    // 底部投诉带入当前页面 url
+    var map = [1, 2, 4, 3];
+    $('.wgt-footer-main .suggestion').find('a').each(function(i) {
+        $(this).attr('href', 'http://tousu.baidu.com/baike/add?word=%E7%AC%AC%E5%9B%9B%E7%BA%AA%E5%86%B0%E6%9C%9F' + '&&submit_link=' + encodeURIComponent(window.location.href) + '#' + map[i]);
+    });
+
+    // 为超出预设内容的表格添加table-responsive控制
+    $('.main-content').find('table').each(function(index) {
+        var $that = $(this);
+        if ($that.width() > 790) {
+            $that.wrap('<div class="table-responsive"></div>');
+        }
+    });
+}();
+!function(){      require('wiki-common:widget/component/psLink/psLink');
+    }();</script>
+<script type="text/javascript">
+  var Hunter = window.Hunter || {};
+  Hunter.userConfig = Hunter.userConfig || [];
+  </script>
+<script type="text/javascript" src="https://gss0.baidu.com/70cFsjip0QIZ8tyhnq/hunter/baike.js?st=17478" defer></script><script type="text/javascript">
+  // DOM Ready时，统计用户可操作时间。
+  alog('speed.set', 'drt', +new Date);
+
+  void function(a,b,c,d,e,f){function g(b){a.attachEvent?a.attachEvent("onload",b,!1):a.addEventListener&&a.addEventListener("load",b)}function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+"="+escape(c)+";path=/;expires="+e.toGMTString()}function i(a){var c=b.cookie.match(new RegExp("(^| )"+a+"=([^;]*)(;|$)"));return null!=c?unescape(c[2]):null}function j(){var a=i("PMS_JT");if(a){h("PMS_JT","",-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&&a[1]&&a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&&b.referrer.replace(/#.*/,"")!=a.r||alog("speed.set","wt",a.s)}}if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d,k&&l&&l>k||(g(function(){alog("speed.set","lt",+new Date),e=b.createElement(c),e.async=!0,e.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,"script","/hunter/alog/dp.min.js");
+</script>
+</html>

@@ -1,0 +1,2 @@
+Genetic algorithm is a simulation of the principles of natural selection and genetics theory of survival of the fittest and the establishment of an optimized and efficient search algorithm, by global parallel search method, GA search best individual groups, and seek to meet the requirements optimal solution. Poetry is a concise language. This paper aims to of the possibility of using genetic algorithms based on GA.
+ 

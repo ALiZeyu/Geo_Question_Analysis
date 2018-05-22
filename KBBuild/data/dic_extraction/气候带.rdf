@@ -1,0 +1,193 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://ws.nju.edu.cn/clinga/">
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2719998">
+    <j.0:weiZhi>南极大陆和格陵兰高原</j.0:weiZhi>
+    <j.0:zhongWenMing>冰原气候</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3521688">
+    <j.0:teDian>树木很少而草很高</j.0:teDian>
+    <j.0:qiHouLeiXing>热带干燥气候</j.0:qiHouLeiXing>
+    <j.0:waiWenMing>savanna.</j.0:waiWenMing>
+    <j.0:zhongWenMing>热带稀树草</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A919827">
+    <j.0:qiHouTeZheng>夏季炎热湿润,冬季寒冷干燥</j.0:qiHouTeZheng>
+    <j.0:qiHouQuFenBu>亚欧大陆和北美大陆内部</j.0:qiHouQuFenBu>
+    <j.0:shengZhangJi>南部约200天,北部仅50-70天</j.0:shengZhangJi>
+    <j.0:zuiReYueQiWen>南部26--27℃,北部接近20℃</j.0:zuiReYueQiWen>
+    <j.0:zuiLengYueQiWen>南部为0℃以下,北部接近-40℃</j.0:zuiLengYueQiWen>
+    <j.0:fenBuQuYu>北纬40°至60--65°之间</j.0:fenBuQuYu>
+    <j.0:waiWenMing>Temperatecontinentalclimate</j.0:waiWenMing>
+    <j.0:zhongWenMing>温带大陆性气候</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2300115">
+    <j.0:shengZhangZhiBei rdf:resource="http://ws.nju.edu.cn/clinga/A2299505"/>
+    <j.0:zhiBeiLeiXing rdf:resource="http://ws.nju.edu.cn/clinga/A2957782"/>
+    <j.0:waiWenMing>Subtropicsthehungrinesssteppetake</j.0:waiWenMing>
+    <j.0:zhongWenMing>亚热带荒漠草原带</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2313257">
+    <j.0:xianZhuTeZheng>全年高温,分旱、雨两季</j.0:xianZhuTeZheng>
+    <j.0:zhuYaoChengShi>三亚,西双版纳,曼谷,孟买等</j.0:zhuYaoChengShi>
+    <j.0:nianJunQiWen>22℃以上</j.0:nianJunQiWen>
+    <j.0:hanJi>10月-次年3月</j.0:hanJi>
+    <j.0:yuJi>4-9月</j.0:yuJi>
+    <j.0:zhuYaoFenBuQu>南亚和东南亚大部分地区</j.0:zhuYaoFenBuQu>
+    <j.0:waiWenMing>tropicalmonsoonclimate</j.0:waiWenMing>
+    <j.0:zhongWenMing>热带季风气候</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2369671">
+    <j.0:chengYin rdf:resource="http://ws.nju.edu.cn/clinga/A2744933"/>
+    <j.0:wenDuTeDian>平均气温在24-28℃之间变化</j.0:wenDuTeDian>
+    <j.0:jiangShuiTeDian rdf:resource="http://ws.nju.edu.cn/clinga/A267063"/>
+    <j.0:zhuYaoChuXianDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A94500"/>
+    <j.0:bieCheng>赤道多雨气候</j.0:bieCheng>
+    <j.0:waiWenMing>tropicalrainforestclimate</j.0:waiWenMing>
+    <j.0:zhongWenMing>热带雨林气候</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2737984">
+    <j.0:baiZhou>短</j.0:baiZhou>
+    <j.0:pingJunWenDu>低于0℃</j.0:pingJunWenDu>
+    <j.0:leiXing rdf:resource="http://ws.nju.edu.cn/clinga/A2348380"/>
+    <j.0:zhongWenMing>苔原气候</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2360159">
+    <j.0:dongJi>冬季温和湿润</j.0:dongJi>
+    <j.0:xiaJi>夏季高温多雨</j.0:xiaJi>
+    <j.0:zongTiTeDian>冬夏干湿差别不大</j.0:zongTiTeDian>
+    <j.0:fenBuFanWei rdf:resource="http://ws.nju.edu.cn/clinga/A2254872"/>
+    <j.0:fenBuFanWei rdf:resource="http://ws.nju.edu.cn/clinga/A3099699"/>
+    <j.0:waiWenMing>Subtropicalmonsoonclimate</j.0:waiWenMing>
+    <j.0:zhongWenMing>亚热带季风气候</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2301746">
+    <j.0:xingZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2265956"/>
+    <j.0:diQu rdf:resource="http://ws.nju.edu.cn/clinga/A2924060"/>
+    <j.0:weiYu>北纬30°—50°</j.0:weiYu>
+    <j.0:zhongWenMing>温带草原带</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2264699">
+    <j.0:zhiBeiLeiXing>温带常绿阔叶林、温带落叶阔叶林</j.0:zhiBeiLeiXing>
+    <j.0:suoShuWenDuDai>温带</j.0:suoShuWenDuDai>
+    <j.0:fenBuDaZhou>大洋洲、北美洲、欧洲</j.0:fenBuDaZhou>
+    <j.0:diQu>位于大陆西岸,南、北纬40°~60°</j.0:diQu>
+    <j.0:teZheng>全年温和、湿润</j.0:teZheng>
+    <j.0:waiWenMing>Temperatemarineclimate</j.0:waiWenMing>
+    <j.0:zhongWenMing>温带海洋性气候</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A895290">
+    <j.0:chengYin>西风带与副热带高气压带交替控制</j.0:chengYin>
+    <j.0:qiHouTeZheng>夏季炎热干燥,冬季温和湿润</j.0:qiHouTeZheng>
+    <j.0:suoShuWenDuDai>亚热带、温带</j.0:suoShuWenDuDai>
+    <j.0:fenBuDiQu>南北纬30°至40°大陆西岸。</j.0:fenBuDiQu>
+    <j.0:nongChanPin>葡萄、橄榄、柑桔等</j.0:nongChanPin>
+    <j.0:zhiBeiLeiXing>亚热带常绿硬叶林</j.0:zhiBeiLeiXing>
+    <j.0:waiWenMing>Mediterraneanclimate</j.0:waiWenMing>
+    <j.0:zhongWenMing>地中海气候</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3125658">
+    <j.0:waiWenMing>thenorthtemperatezone</j.0:waiWenMing>
+    <j.0:zhongWenMing>北温带</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2275042">
+    <j.0:qiHouLeiXing rdf:resource="http://ws.nju.edu.cn/clinga/A2278229"/>
+    <j.0:diLiWeiZhi>约在北纬50°~70°之间</j.0:diLiWeiZhi>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A2364388"/>
+    <j.0:zhongWenMing>亚寒带针叶林带</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1566095">
+    <j.0:tuRangLeiXing rdf:resource="http://ws.nju.edu.cn/clinga/A2399635"/>
+    <j.0:qiHou rdf:resource="http://ws.nju.edu.cn/clinga/A108935"/>
+    <j.0:zhongWenMing>热带雨林带</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2139973">
+    <j.0:shu>芒毛苣苔属</j.0:shu>
+    <j.0:ke>苦苣苔科</j.0:ke>
+    <j.0:gang>蕨类植物纲</j.0:gang>
+    <j.0:men>蕨类植物门</j.0:men>
+    <j.0:jie>植物界</j.0:jie>
+    <j.0:zhongWenXueMing>寒带苔原带</j.0:zhongWenXueMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1235715">
+    <j.0:shuYu>冰原气候</j.0:shuYu>
+    <j.0:weiYu>南、北纬70°—90°之间</j.0:weiYu>
+    <j.0:youCheng>“冰漠带”</j.0:youCheng>
+    <j.0:zhongWenMing>极地冰原带</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2092335">
+    <j.0:diXing>地表为流沙覆盖</j.0:diXing>
+    <j.0:qiHou>气温终年很高但年较差日较差较大</j.0:qiHou>
+    <j.0:fenBuDiQu>大陆南北回归线附近</j.0:fenBuDiQu>
+    <j.0:zhongWenMing>热带荒漠带</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1988567">
+    <j.0:xianXiang rdf:resource="http://ws.nju.edu.cn/clinga/A2295340"/>
+    <j.0:yingWen>thenorthfrigidzone</j.0:yingWen>
+    <j.0:hanYuPinYin>běihándài</j.0:hanYuPinYin>
+    <j.0:zhongWenMing>北寒带</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A321785">
+    <j.0:zhuYaoFenBuDaZhou>非洲南美洲大洋洲</j.0:zhuYaoFenBuDaZhou>
+    <j.0:chengYin>受赤道低气压带和信风带交替控制</j.0:chengYin>
+    <j.0:daiBiaoDongWu>象、长颈鹿、河马、犀牛、狮等。</j.0:daiBiaoDongWu>
+    <j.0:daiBiaoZhiWu>猴面包树、纺锤树等。</j.0:daiBiaoZhiWu>
+    <j.0:fenBu>南、北纬10度到23度26分之间。</j.0:fenBu>
+    <j.0:teZheng>全年高温,分明显的干湿两季。</j.0:teZheng>
+    <j.0:waiWenMing>tropicalsavannaclimate</j.0:waiWenMing>
+    <j.0:zhongWenMing>热带草原气候</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2260440">
+    <j.0:xianZhuTeZheng>夏季炎热多雨、冬季寒冷干燥</j.0:xianZhuTeZheng>
+    <j.0:fenBuDiQu>北纬35°~50°左右的亚欧大陆东岸</j.0:fenBuDiQu>
+    <j.0:xingZhi>气候类型的一种</j.0:xingZhi>
+    <j.0:waiWenMing>monsoonclimateofmediumlatitudes</j.0:waiWenMing>
+    <j.0:zhongWenMing>温带季风气候</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2638643">
+    <j.0:jiangShui>比较丰富</j.0:jiangShui>
+    <j.0:zhuYaoZhiWu>阔叶林</j.0:zhuYaoZhiWu>
+    <j.0:quYu>温带</j.0:quYu>
+    <j.0:zhongWenMing>温带阔叶林带</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A345207">
+    <j.0:chengYin>副热带高气压带或信风带交替控制</j.0:chengYin>
+    <j.0:zhuYaoFenBuDiQu>大陆西岸或内部</j.0:zhuYaoFenBuDiQu>
+    <j.0:dianXingDiQu>非洲、大洋洲、西亚</j.0:dianXingDiQu>
+    <j.0:zhiBei>热带荒漠</j.0:zhiBei>
+    <j.0:fenBu>南北回归线至南北30°纬线之间</j.0:fenBu>
+    <j.0:qiHouTeDian>全年高温干旱</j.0:qiHouTeDian>
+    <j.0:waiWenMing>(tropical)desertclimate</j.0:waiWenMing>
+    <j.0:zhongWenMing>热带沙漠气候</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3278107">
+    <j.0:diWei>南寒带占地球总面积的4.15%</j.0:diWei>
+    <j.0:teDian>寒冷,有极昼极夜,无阳光直射</j.0:teDian>
+    <j.0:weiZhi>南极圈以南到南极点</j.0:weiZhi>
+    <j.0:zhongWenMing>南寒带</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3121778">
+    <j.0:dongWuLeiQun rdf:resource="http://ws.nju.edu.cn/clinga/A2354147"/>
+    <j.0:weiZhi>23°26'S~66°34'S</j.0:weiZhi>
+    <j.0:waiWenMing>Southtemperatezone</j.0:waiWenMing>
+    <j.0:zhongWenMing>南温带</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2332517">
+    <j.0:qiHouTeDian>全年气温较高,四季界限不明显</j.0:qiHouTeDian>
+    <j.0:weiYu>南北回归线之间的地带</j.0:weiYu>
+    <j.0:waiWenMing>Tropics</j.0:waiWenMing>
+    <j.0:zhongWenMing>热带</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2249374">
+    <j.0:tuRang>土壤主要是荒漠土</j.0:tuRang>
+    <j.0:qiHou>温带大陆性干旱类型</j.0:qiHou>
+    <j.0:waiWenMing>Thetemperatezonehungrinesstake</j.0:waiWenMing>
+    <j.0:zhongWenMing>温带荒漠带</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A233891">
+    <j.0:zhiBei>常绿阔叶林</j.0:zhiBei>
+    <j.0:weiZhi>亚热带的沿海和近海地区</j.0:weiZhi>
+    <j.0:waiWenMing>subtropicalforestzone</j.0:waiWenMing>
+    <j.0:zhongWenMing>亚热带森林带</j.0:zhongWenMing>
+  </rdf:Description>
+</rdf:RDF>

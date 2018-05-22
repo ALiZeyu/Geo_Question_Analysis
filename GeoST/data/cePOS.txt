@@ -1,0 +1,247 @@
+该_DT 区域_NN 位于_VV 地势_NN 二、三级阶梯_NN 
+该_DT 区域_NN 绝_AD 大部分_CD 属于_VV 内流区_NN 
+该_DT 区域_NN 东部_NN 降水_NN 受_VV 暖流_NN 影响_NN 大_VA 
+该_DT 区域_NN 人口_NN 密度_NN 北部_NN 大于_VV 南部_NN 
+甲城市_NR 所处_NN 时区_NN 是_VC 西二区_NN 
+甲城市_NR 所处_NN 时区_NN 是_VC 西十区_NN 
+甲城市_NR 所处_NN 时区_NN 是_VC 东十区_NN 
+甲城市_NR 所处_NN 时区_NN 是_VC 东二区_NN 
+该_DT 台风_NN 夏季_NN 生成于_VV 我国_NR 黄海_NR 海面_NN 
+该_DT 台风_NN 小于_VV 6_CD 级_M 风_NN 的_DEG 范围_NN 降水_NN 最_AD 强_VA 
+该_DT 台风_NN 气压值_NN 最_AD 低_VA 处_NN 风速_NN 最_AD 大_VA 
+该_DT 台风_NN 西北侧_NN 的_DEG 风向_NN 为_VC 偏北风_NN 
+清明节_NN 之前_LC 各_DT 地_NN 阴雨连绵_VA 
+5月_NT 起_LC 雨带_NN 开始_VV 向_P 北_NN 移动_VV 
+35°N_NN 以南_LC 地区_NN 秋高气爽_VA 
+35°N_NN 以北_LC 地区_NN 伏旱_NN 严重_VA 
+芒种_NN 至_P 小暑_NN 期间_NN ，_PU 该_DT 区域_NN 南北_NN 气温_NN 差异_NN 大_VA 
+芒种_NN 至_P 小暑_NN 期间_NN ，_PU 塔里木河_NR 蒸发量_NN 大_VA ，_PU 出现_VV 断流_NN 
+芒种_NN 至_P 小暑_NN 期间_NN ，_PU 白昼时间_NN 北京_NR 比_P 上海_NR 大_VA 
+芒种_NN 至_P 小暑_NN 期间_NN ，_PU “_PU 雪龙号_NN ”_PU 科考船_NN 抵达_VV 南极大陆_NR 
+甲_NN 和_CC 土地利用类型_NN Ⅰ_NN 、_PU Ⅱ_NN 分别_AD 为_VV 新_NN ，_PU 耕地_NN 、_PU 牧草地_NN 
+甲_NN 和_CC 土地利用类型_NN Ⅰ_NN 、_PU Ⅱ_NN 分别_AD 为_VC 滇_NN ，_PU 耕地_NN 、_PU 居民点_NN 及_CC 工矿_NN 用地_NN 
+甲_NN 和_CC 土地利用类型_NN Ⅰ_NN 、_PU Ⅱ_NN 分别_AD 为_VC 川_NN ，_PU 交通_NN 运输_NN 用地_NN 、_PU 牧草地_NN 
+甲_NN 和_CC 土地利用类型_NN Ⅰ_NN 、_PU Ⅱ_NN 分别_AD 为_VC 藏_NN ，_PU 牧草地_NN 、_PU 居民点_NN 及_CC 工矿_NN 用地_NN 
+内蒙古_NR 水域_NN 面积_NN 大_VA ，_PU 水能_NN 资源_NN 丰富_VA 
+内蒙古_NR 受_VV 降水_NN 影响_NN ，_PU 森林_NN 覆盖率_NN 东部_NN 大于_VV 西部_NN 
+内蒙古_NR 地势_NN 平坦_VA ，_PU 宜_VV 大幅度_AD 提高_VV 城市_NN 建设_NN 用地_NN 比例_NN 
+内蒙古_NR 其他_DT 及_CC 未利用地_NR 面积_NN 比_P 黔_NN 少_VA ，_PU 后备_JJ 土地_NN 资源_NN 不足_VA 
+该_DT 山地_NN 海拔_NN 3000_CD 米_M 左右_LC 积雪_NN 终年不化_VV 
+该_DT 山地_NN 气温年较差_NN 随_P 海拔_NN 升高_VV 递增_VV 
+该_DT 山地_NN 位于_VV 喜马拉雅山脉_NR 南坡_NN 
+该_DT 山地_NN 地处_VV 版块_NN 的_DEG 生长边界_NN 
+改段_NN 国道_NN 能够_VV 增加_VV 沿线_NN 商业网点_NN 数量_NN 
+改段_NN 国道_NN 能够_VV 促进_VV 沿线_NN 地区_NN 人口流动_NN 
+改段_NN 国道_NN 能够_VV 缓解_VV 陇海铁路_NN 运输_NN 压力_NN 
+改段_NN 国道_NN 能够_VV 促使_VV 省会_NN 城市_NN 空间_NN 形态_NN 呈_VV 带状_NN 分布_VV 
+图示_JJ 区域_NN 内_LC 地形_NN 复杂_VA 多样_VA ，_PU 风能_NN 资源_NN 丰富_VA 
+图示_JJ 区域_NN 内_LC 以_P 水田农业_NN 为主_VV ，_PU 水稻_NN 播种_NN 面积_NN 大_VA 
+图示_JJ 区域_NN 内_LC 国道_NN 以西_LC 公路_NN 建设_NN 难度_NN 小_VA ，_PU 路网_NN 密度_NN 大_VA 
+图示_JJ 区域_NN 内_LC 南部_NN 水资源_NN 丰富_VA ，_PU 可_VV 跨_VV 流域_NN 向_P 北部_NN 调水_VV 
+图_NN 中_LC 黄河_NR 以北_NN 部分_NN 地区_NN 将_AD 生产_VV 冬小麦_NN 的_DEG 土地_NN 休耕_VV ，_PU 种植_VV 雨热同季_NN 的_DEG 春玉米_NN 该_DT 做法_NN 可以_VV 提高_VV 太阳辐射_NN 利用率_NN 
+图_NN 中_LC 黄河_NR 以北_NN 部分_NN 地区_NN 将_AD 生产_VV 冬小麦_NN 的_DEG 土地_NN 休耕_VV ，_PU 种植_VV 雨热同季_NN 的_DEG 春玉米_NN 该_DT 做法_NN 可以_VV 缓解_VV 地下水_NN 紧张_NN 状况_NN 
+图_NN 中_LC 黄河_NR 以北_NN 部分_NN 地区_NN 将_AD 生产_VV 冬小麦_NN 的_DEG 土地_NN 休耕_VV ，_PU 种植_VV 雨热同季_NN 的_DEG 春玉米_NN 该_DT 做法_NN 可以_VV 增强_VV 农作物_NN 抗旱_NN 能力_NN 
+图_NN 中_LC 黄河_NR 以北_NN 部分_NN 地区_NN 将_AD 生产_VV 冬小麦_NN 的_DEG 土地_NN 休耕_VV ，_PU 种植_VV 雨热同季_NN 的_DEG 春玉米_NN 该_DT 做法_NN 可以_VV 调整_VV 农业_NN 种植_NN 结构_NN 
+甲区_NN 多_VV 公共_JJ 服务_NN 设施_NN ，_PU 靠近_VV 住宅区_NN 
+乙_NN 是_VC 位于_VV 郊区_NN 的_DEC 高新_JJ 技术_NN 产业_NN 园区_NN 
+丙区_NN 商业网点_NN 等级_NN 低_VA ，_PU 服务_NN 半径_NN 小_VA 
+丁_NN 为_VC 中心商务区_NN ，_PU 能耗_NN 昼夜_NN 差异_NN 大_VA 
+概述_VV 匈牙利_NR 的_DEG 地形_NN 特征_NN 
+简述_VV 巴拉顿湖_NR 形成_VV 的_DEC 主要_JJ 过程_NN 
+与_P 甲河段_NN 相比_VV ，_PU 说明_VV 乙河段_NN 的_DEG 水文_NN 特征_NN 及_CC 形成_NN 原因_NN 
+说明_VV 匈牙利_NR 汽车_NN 工业_NN 分布_NN 特点_NN 和_CC 原因_NN 
+阐述_VV 北京_NR 故宫_NR 博物院_NN 的_DEG 主要_JJ 旅游_NN 价值_NN ，_PU 列举_VV 故宫_NR 博物院_NN 在_P 对_P 公众_NN 开放_NN 游览_NN 方面_NN 应_VV 采取_VV 的_DEC 环境_NN 保护_NN 措施_NN 
+说出_VV 该_DT 国_NN 自然带_NN 的_DEG 类型_NN ，_PU 并_CC 在_P 1月_NT 和_CC 7月_NT 中_LC 任选_VV 其一_NN 说明_VV 该_DT 自然带_NN 的_DEG 景观_NN 特点_NN 和_CC 成因_NN 
+巴西_NR 地势_NN 南高北低_VA ，_PU 城市_NN 多_AD 分布_VV 在_P 北部_NN 平原_NN 
+巴西_NR 亚马孙河_NR 径流量_NN 大_VA ，_PU 流经_VV 经济_NN 发达_JJ 地区_NN 
+巴西_NR 东南_NN 海域_NN 因_P 寒暖流_NN 交汇_VV ，_PU 形成_VV 著名_JJ 渔场_NN 
+巴西_NR 里约热内卢_NR 比_P 巴西利亚_NR 降水_NN 季节_NN 变化_NN 小_VA 
+奥运会_NR 期间_NN ，_PU 里约热内卢_NR 正_AD 值_VV 多雨_JJ 季节_NN ，_PU 天气_NN 凉爽_VA 
+奥运会_NR 期间_NN ，_PU 里约热内卢_NR 正午太阳高度角_NN 逐渐_AD 增大_VV 
+奥运会_NR 期间_NN ，_PU 里约热内卢_NR 日出_NN 越来越_AD 早_VA ，_PU 昼长夜短_VA 
+奥运会_NR 期间_NN ，_PU 里约热内卢_NR 地球_NR 自转线速度_NN 比_P 北京_NR 慢_VA 
+与_P 里约热内卢_NR 同_P 纬度_NN 的_DEG 大陆_NN 西岸_NN 受_VV 赤道低压带_NN 控制_NN ，_PU 高温_NN 多雨_VA 
+与_P 里约热内卢_NR 同_P 纬度_NN 的_DEG 大陆_NN 西岸_NN 河流_NN 众多_VA ，_PU 落差_NN 大_VA ，_PU 水能_NN 丰富_VA 
+与_P 里约热内卢_NR 同_P 纬度_NN 的_DEG 大陆_NN 西岸_NN 有_VE 寒流_NN 经过_VV ，_PU 为_P 热带荒漠_NN 景观_NN 
+与_P 里约热内卢_NR 同_P 纬度_NN 的_DEG 大陆_NN 西岸_NN 地处_VV 板块_NN 内部_NN ，_PU 地壳_NN 比较_AD 稳定_VA 
+沿_P 该_DT 剖面线_NN ，_PU 由_P 东_NN 、_PU 西_NN 两_CD 侧_M 向_P 中部_NN 地势_NN 呈_VV 阶梯状_NN 逐渐_AD 增高_VV 
+沿_P 该_DT 剖面线_NN ，_PU 由_P 东_NN 、_PU 西_NN 两_CD 侧_M 向_P 中部_NN 气温年较差_NN 逐渐_AD 减小_VV 
+沿_P 该_DT 剖面线_NN ，_PU 由_P 东_NN 、_PU 西_NN 两_CD 侧_M 向_P 中部_NN 体现_VV 经度地带性_NR 分异_NN 规律_NN 
+沿_P 该_DT 剖面线_NN ，_PU 由_P 东_NN 、_PU 西_NN 两_CD 侧_M 向_P 中部_NN 自然_NN 灾害_NN 灾情_NN 逐渐_AD 增大_VV 
+该_DT 剖面_NN 上_LC ①地_NN 近地面_NN 大气_NN 运动_NN 参与_VV 中纬_NN 环流_NN 
+该_DT 剖面_NN 上_LC ②地_NN 位于_VV 印度洋板块_NN ，_PU 内部_NN 地壳_NN 稳定_VA 
+该_DT 剖面_NN 上_LC ③地_NN 的_DEG 地表径流_NN 参与_VV 海陆间水循环_NN 
+该_DT 剖面_NN 上_LC ④地_NN 表层_JJ 海水_NN 运动_NN 使_VV 沿岸_NN 降温_VV 减湿_VV 
+关于_P 各_DT 地区_NN 环境_NN 可持续发展_NN 能力_NN 的_DEG 说法_NN 正确_VA 的_DEC 是_VC 四_CD 个_M 直辖市_NN 的_DEG 环境_NN 可持续发展_NN 能力_NN 相同_VA 
+关于_P 各_DT 地区_NN 环境_NN 可持续发展_NN 能力_NN 的_DEG 说法_NN 正确_VA 的_DEC 是_VC 北京_NR 和_CC 新疆_NR 的_DEG 环境_NN 可持续发展_NN 能力_NN 相同_VA 
+关于_P 各_DT 地区_NN 环境_NN 可持续发展_NN 能力_NN 的_DEG 说法_NN 正确_VA 的_DEC 是_VC 海南_NR 在_P 各_DT 地_NN 中_LC 环境_NN 可持续发展_NN 能力_NN 最_AD 强_VA 
+关于_P 各_DT 地区_NN 环境_NN 可持续发展_NN 能力_NN 的_DEG 说法_NN 正确_VA 的_DEC 是_VC 山西_NR 的_DEG 环境_NN 可持续发展_NN 能力_NN 比_P 黑龙江_NR 强_VA 
+我国_NR 劳动_NN 人口_NN 从_P 1981年～1985年_NT 以后_LC 开始_VV 减少_VV 
+1981年～2010年_NT 间_LC 人口_NN 增长率_NN 变化_NN 与_CC 政策_NN 无关_VV 
+1981年～1985年_NT 间_LC 我国_NR 劳动_NN 人口_NN 数量_NN 达_VV 最高值_NN 
+预计_VV 2021年～2025年_NT 我国_NR 劳动_NN 人口_NN 数量_NN 将_AD 减少_VV 
+下列_JJ 关于_P 该_DT 区域_NN 规划_NN 的_DEG 叙述_NN ，_PU 较为_AD 合理_VA 的_DEC 是_VC 北部_NN 建设_VV 商品_NN 谷物_NN 种植区_NN ，_PU 保证_VV 城市_NN 粮食_NN 供应_NN 
+下列_JJ 关于_P 该_DT 区域_NN 规划_NN 的_DEG 叙述_NN ，_PU 较为_AD 合理_VA 的_DEC 是_VC 西南部_NN 沿海_NN 建设_VV 工业_NN 基地_NN ，_PU 发展_VV 海洋_NN 化学_NN 工业_NN 
+下列_JJ 关于_P 该_DT 区域_NN 规划_NN 的_DEG 叙述_NN ，_PU 较为_AD 合理_VA 的_DEC 是_VC 丙地_NN 建设_VV 大型_JJ 货运港口_NN ，_PU 促进_VV 沿海_NN 工业区_NN 建设_VV 
+下列_JJ 关于_P 该_DT 区域_NN 规划_NN 的_DEG 叙述_NN ，_PU 较为_AD 合理_VA 的_DEC 是_VC 大力_AD 发展_VV 海水_NN 淡化_VV ，_PU 解决_VV 农业_NN 用水_NN 紧张_NN 状况_NN 
+下列_JJ 关于_P 图_NN 中_LC 城市_NN 的_DEG 叙述_NN ，_PU 正确_VA 的_DEC 是_VC 甲_NN 的_DEG 服务_NN 功能_NN 与_CC 丁_NN 相同_VA 
+下列_JJ 关于_P 图_NN 中_LC 城市_NN 的_DEG 叙述_NN ，_PU 正确_VA 的_DEC 是_VC 乙_NN 的_DEG 地域_NN 结构_NN 分化_VV 最_AD 明显_VA 
+下列_JJ 关于_P 图_NN 中_LC 城市_NN 的_DEG 叙述_NN ，_PU 正确_VA 的_DEC 是_VC 丙_NN 的_DEG 某_DT 项_M 服务_NN 功能_NN 可能_AD 超过_VV 甲_NN 
+下列_JJ 关于_P 图_NN 中_LC 城市_NN 的_DEG 叙述_NN ，_PU 正确_VA 的_DEC 是_VC 丁_NN 的_DEG 服务_NN 范围_NN 明显_AD 大于_VV 乙_NN 
+长城_NR 一直_AD 承担_VV 着_AS 军事_NN 防御_NN 的_DEG 功能_NN 
+长城_NR 走向_VV 主要_JJ 沿_P 山脊线_NN 延伸_VV 
+长城_NR 是_VC 世界_NN 文化_NN 与_CC 自然_NN 遗产_NN 
+长城_NR 穿过_VV 三_CD 个_M 少数民族_NN 自治区_NN 
+长城_NR 沿线_NN 是_VC 我国_NR 第二级阶梯_NN 与_CC 第三级阶梯_NN 的_DEG 过渡_NN 地带_NN 
+长城_NR 沿线_NN 是_VC 我国_NR 半干旱区_NN 与_CC 干旱区_NN 的_DEG 过渡_NN 地带_NN 
+长城_NR 沿线_NN 是_VC 我国_NR 温带草原带_NN 与_CC 温带荒漠带_NN 的_DEG 过渡_NN 地带_NN 
+长城_NR 沿线_NN 是_VC 我国_NR 畜牧区_NN 与_CC 农耕区_NN 的_DEG 过渡_NN 地带_NN 
+里约热内卢_NR 东_NN 临_VV 大西洋_NR ，_PU 位于_VV 北京_NR 的_DEG 东南_NN 
+里约热内卢_NR 年均温_NN 高_VA ，_PU 主要_AD 受_VV 暖流_NN 影响_NN 
+里约热内卢_NR 年降水量_NN 多_VA ，_PU 为_P 东南信风_NN 迎风坡_NN 
+里约热内卢_NR 区时_NN 比_P 北京时间_NN 早_VA 13_CD 小时_NN 
+20世纪_NT 60年代_NT 巴西_NR 把_BA 首都_NN 从_P 里约热内卢_NR 迁到_VV 巴西利亚_NR ，_PU 迁都_NN 的_DEG 主要_JJ 原因_NN 是_VC 利于_VV 促进_VV 广大_JJ 内地_NN 地区_NN 的_DEG 经济_NN 发展_NN 
+20世纪_NT 60年代_NT 巴西_NR 把_BA 首都_NN 从_P 里约热内卢_NR 迁到_VV 巴西利亚_NR ，_PU 迁都_NN 的_DEG 主要_JJ 原因_NN 是_VC 分散_VV 城市_NN 职能_NN ，_PU 缓解_VV 城市_NN 规模_NN 过_AD 大_VA 带来_VV 的_DEC 城市_NN 问题_NN 
+20世纪_NT 60年代_NT 巴西_NR 把_BA 首都_NN 从_P 里约热内卢_NR 迁到_VV 巴西利亚_NR ，_PU 迁都_NN 的_DEG 主要_JJ 原因_NN 是_VC 地域_NN 广阔_VA ，_PU 气候_NN 较_AD 优越_VA 
+20世纪_NT 60年代_NT 巴西_NR 把_BA 首都_NN 从_P 里约热内卢_NR 迁到_VV 巴西利亚_NR ，_PU 迁都_NN 的_DEG 主要_JJ 原因_NN 是_VC 国防_NN 安全_NN 的_DEG 需要_NN 
+20世纪_NT 60年代_NT 巴西_NR 把_BA 首都_NN 从_P 里约热内卢_NR 迁到_VV 巴西利亚_NR ，_PU 迁都_NN 的_DEG 主要_JJ 原因_NN 是_VC 发挥_VV 想象_NN 
+20世纪_NT 60年代_NT 巴西_NR 把_BA 首都_NN 从_P 里约热内卢_NR 迁到_VV 巴西利亚_NR ，_PU 迁都_NN 的_DEG 主要_JJ 原因_NN 是_VC 领悟_VV 自然_NN 与_CC 人文_NN 的_DEG 和谐之美_NN 
+巴西_NR 地处_VV 非洲板块_NN 和_CC 美洲板块_NN 交界处_NN 
+巴西_NR 亚马孙河_NR 径流量_NN 大_VA ，_PU 水能_NN 资源_NN 丰富_VA 
+巴西_NR 地形_NN 以_P 平原_NN 高原_NN 为主_VV ，_PU 地势_NN 西高东低_VA 
+巴西_NR 巴西高原_NR 古老_VA 低矮_VA ，_PU 流水侵蚀_NN 强烈_VA 
+图2_NN 为_VC 北半球_NN 7月_NT 
+图2_NN 为_VC 北半球_NN 1月_NT 
+图2_NN 为_VC 南半球_NN 7月_NT 
+图2_NN 为_VC 南半球_NN 1月_NT 
+图示_JJ 季节_NN 甲处_NN 洋流_NN 为_VC 逆时针_NN 
+图示_JJ 季节_NN 丙处_NN 气压_NN 中心_NN 势力_NN 最_AD 强_VA 
+图示_JJ 季节_NN 乙处_NN 正_AD 值_VV 高温多雨_NN 
+图示_JJ 季节_NN 丁处_NN 主导_NN 风向_NN 为_VC 偏南风_NN 
+该_DT 山地_NN 的_DEG 地质_NN 构造_NN 主要_AD 为_VC 断层_NN 
+该_DT 山地_NN 的_DEG 地质_NN 构造_NN 主要_AD 为_VC 褶皱_NN 
+该_DT 山地_NN 的_DEG 地质_NN 构造_NN 主要_AD 为_VC 背斜_NN 
+该_DT 山地_NN 的_DEG 地质_NN 构造_NN 主要_AD 为_VC 向斜_NN 
+对_P 该_DT 景观_NN 地质_NN 形成_VV 过程_NN 的_DEG 推断_NN 最为_AD 合理_VA 的_DEC 是_VC 岩浆活动_NN 冷却凝固_NN 地壳运动_NN 风化侵蚀_NN 
+对_P 该_DT 景观_NN 地质_NN 形成_VV 过程_NN 的_DEG 推断_NN 最为_AD 合理_VA 的_DEC 是_VC 沉积作用_NN 固结成岩_NN 地壳抬升_NN 风化侵蚀_NN 
+对_P 该_DT 景观_NN 地质_NN 形成_VV 过程_NN 的_DEG 推断_NN 最为_AD 合理_VA 的_DEC 是_VC 冷却凝固_NN 岩浆活动_NN 地壳运动_NN 风化侵蚀_NN 
+对_P 该_DT 景观_NN 地质_NN 形成_VV 过程_NN 的_DEG 推断_NN 最为_AD 合理_VA 的_DEC 是_VC 风化侵蚀_NN 沉积作用_NN 固结成岩_NN 地壳抬升_NN 
+新疆维吾尔自治区_NR 春季_NN 出现_VV 3_CD 个_M 大风日数_NN 大于_VV 40_CD 天_M 的_DEG 高值_JJ 中心_NN 
+新疆维吾尔自治区_NR 夏季_NN 高值_NN 区域_NN 的_DEG 大风日数_NN 较_AD 春季_NN 有所_VV 减少_VV 
+新疆维吾尔自治区_NR 南部_NN 地区_NN 秋季_NN 大风日数_VV 为_P 四季_NN 中_LC 最_AD 少_VA 
+新疆维吾尔自治区_NR 冬季_NN 西北部_NN 地区_NN 大风日数_NN 最_AD 多_VA 
+新疆_NR 南部_NN 地区_NN 大风日数_NN 较_AD 少_VA 的_DEC 主要_JJ 原因_NN 是_VC 纬度_NN 位置_NN 较_AD 低_VA 
+新疆_NR 南部_NN 地区_NN 大风日数_NN 较_AD 少_VA 的_DEC 主要_JJ 原因_NN 是_VC 周围_NN 有_VE 高大_JJ 山脉_NN 
+新疆_NR 南部_NN 地区_NN 大风日数_NN 较_AD 少_VA 的_DEC 主要_JJ 原因_NN 是_VC 沙漠_NN 面积_NN 广_VA ，_PU 地表_NN 粗糙_VA 
+新疆_NR 南部_NN 地区_NN 大风日数_NN 较_AD 少_VA 的_DEC 主要_JJ 原因_NN 是_VC 降水_NN 少_VA ，_PU 太阳辐射_NN 强烈_VA 
+图_NN 中_LC 水体_NN 主要_AD 参与_VV 了_AS 陆地内循环_NN 
+图_NN 中_LC 区域_NN 夏秋_NN 季节_NN 易_AD 受_VV 台风_NN 侵袭_NN 
+图_NN 中_LC a_NN 水文站_NN 流量_NN 受_VV 湖泊_NN 影响_NN 
+图_NN 中_LC 水资源_NN 的_DEG 时_NN 、_PU 空分布_NN 均匀_VA 
+该_DT 流域_NN 水能_NN 资源_NN 缺乏_VV ，_PU 不_AD 能_VV 发展_VV 水电_NN 工业_NN 
+该_DT 流域_NN 远离_VV 客源_NN 市场_NN ，_PU 阻碍_VV 了_AS 旅游业_NN 发展_NN 
+该_DT 流域_NN 可_VV 发展_VV 毛竹_NN 、_PU 茶_NN 等_ETC 农产品_NN 的_DEG 深加工_NN 
+该_DT 流域_NN 土地荒漠化_NN 、_PU 酸雨_NN 等_ETC 环境_NN 问题_NN 严重_VA 
+说出_VV 冰岛_NR 特色_NN 的_DEG 自然_NN 旅游_NN 景观_NN ，_PU 并_CC 从_P 地理_NN 位置_NN 的_DEG 角度_NN 分别_AD 解释_VV 其_PN 成因_NN 
+列举_NN 影响_NN 产业_NN 转移_VV 的_DEC 主要_JJ 因素_NN 
+分析_VV 呼伦贝尔_NR 农牧业_NN 转型_VV 的_DEC 社会_NN 经济_NN 因素_NN 
+指出_VV 呼伦贝尔_NR 沙地_NN 扩张_VV 的_DEC 原因_NN ，_PU 以及_CC 我国_NR 荒漠化_NN 防治_NN 的_DEG 主要_JJ 措施_NN 
+据_P 图_NN 指出_VV A_NN -_PU B_NN 沿线_NN 主要_JJ 农用_NN 土地_NN 类型_NN 的_DEG 分布_NN 差异_NN ，_PU 并_CC 分析_VV 原因_NN 
+简述_VV 嫩江_NR 的_DEG 流向_NN 及_CC 水文_NN 特征_NN 
+简述_VV 在_P 珠江三角洲_NR 地区_NN 建设_NN 经济_NN 特区_NN 的_DEG 优势_NN 条件_NN 
+说明_VV 红军_NN 渡河_NN 季节_NN 该_DT 河段_NN 的_DEG 水文_NN 特征_NN 及_CC 其_PN 成因_NN 
+结合_VV 自然地理环境_NN 整体性_NN 的_DEG 观点_NN ，_PU 说明_VV 长白山_NR 对_P 松花江_NR 的_DEG 影响_NN 
+简述_VV 在_P 哈尔滨_NR 建设_VV “_PU 中国_NR 云谷_NN ”_PU 的_DEG 主要_JJ 原因_NN 
+说出_VV 图_NN 中_LC 家具厂_NN 的_DEG 工业导向类型_NN ，_PU 简述_VV 伊春市_NR 开放式_JJ 生态_NN 工业_NN 园区_NN 构想_NN 的_DEG 优越性_NN 
+简述_VV “_PU 东北_NN 旅游_NN 景区_NN 联盟_NN ”_PU 对_P 该_DT 区域_NN 旅游业_NN 发展_NN 的_DEG 影响_NN 
+当_P 该_DT 地_NN 正午太阳高度角_NN 最_AD 小_VA 时_LC ，_PU 北极圈_NN 以内_LC 出现_VV 极昼_NN 现象_NN 
+当_P 该_DT 地_NN 正午太阳高度角_NN 最_AD 小_VA 时_LC ，_PU 广州_NR 比_P 海口_NR 的_DEG 正午太阳高度角_NN 大_VA 
+当_P 该_DT 地_NN 正午太阳高度角_NN 最_AD 小_VA 时_LC ，_PU 地球_NR 接近_VV 公转轨道_NN 的_DEG 近日点_NN 
+当_P 该_DT 地_NN 正午太阳高度角_NN 最_AD 小_VA 时_LC ，_PU 我国_NR 各_DT 地_NN 昼长夜短_VA 
+松木希错流域_NR 平均_NN 海拔_NN 较_AD 低_VA 
+松木希错流域_NR 地势_NN 北高南低_VA 
+松木希错流域_NR 河流_NN 以_P 雨水补给_NN 为主_VV 
+松木希错流域_NR 湖泊_NN 面积_NN 季节_NN 变化_NN 大_VA 
+遥感_NN 影像_NN 显示_VV 近_AD 40年_NT 熊彩岗日_NR 冰川_NN 不断_AD 萎缩_VV ，_PU 其_PN 对_P 松木希错流域_NR 的_DEG 影响_NN 有_VE 降水量_NN 显著_AD 增加_VV 
+遥感_NN 影像_NN 显示_VV 近_AD 40年_NT 熊彩岗日_NR 冰川_NN 不断_AD 萎缩_VV ，_PU 其_PN 对_P 松木希错流域_NR 的_DEG 影响_NN 有_VE 植被_NN 生长_NN 更_AD 茂盛_VA 
+遥感_NN 影像_NN 显示_VV 近_AD 40年_NT 熊彩岗日_NR 冰川_NN 不断_AD 萎缩_VV ，_PU 其_PN 对_P 松木希错流域_NR 的_DEG 影响_NN 有_VE 适合_VV 发展_NN 水田农业_NN 
+遥感_NN 影像_NN 显示_VV 近_AD 40年_NT 熊彩岗日_NR 冰川_NN 不断_AD 萎缩_VV ，_PU 其_PN 对_P 松木希错流域_NR 的_DEG 影响_NN 有_VE 长期_AD 来_VV 看_VV ，_PU 湖泊_NN 补给_NN 减少_VV 
+图示_JJ 点雨量_NN 等值线_NN 分布_NN 整体_NN 上_LC 反映_VV 了_AS 地理_NN 环境_NN 的_DEG 整体性_NN 
+图示_JJ 点雨量_NN 等值线_NN 分布_NN 整体_NN 上_LC 反映_VV 了_AS 从_P 低纬_NN 到_P 高纬_NN 的_DEG 地域分异规律_NN 
+图示_JJ 点雨量_NN 等值线_NN 分布_NN 整体_NN 上_LC 反映_VV 了_AS 从_P 沿海_NN 到_P 内陆_NN 的_DEG 地域分异规律_NN 
+图示_JJ 点雨量_NN 等值线_NN 分布_NN 整体_NN 上_LC 反映_VV 了_AS 从_P 低_JJ 海拔_NN 到_VV 高_JJ 海拔_NN 的_DEG 地域分异规律_NN 
+影响_VV 成都_NR 西侧_NN 6_CD 小时_NN 点雨量_NN 等值线_NN 密集_VA 分布_NN 的_DEG 主要_JJ 因素_NN 是_VC 地形_NN 
+影响_VV 成都_NR 西侧_NN 6_CD 小时_NN 点雨量_NN 等值线_NN 密集_VA 分布_NN 的_DEG 主要_JJ 因素_NN 是_VC 气压带_NN 和_CC 风带_NN 
+影响_VV 成都_NR 西侧_NN 6_CD 小时_NN 点雨量_NN 等值线_NN 密集_VA 分布_NN 的_DEG 主要_JJ 因素_NN 是_VC 海陆位置_NN 
+影响_VV 成都_NR 西侧_NN 6_CD 小时_NN 点雨量_NN 等值线_NN 密集_VA 分布_NN 的_DEG 主要_JJ 因素_NN 是_VC 季风环流_NN 
+洪水_NN 淹没_VV 地区_NN 图层_NN 与_CC 人口_NN 分布_VV 图层_NN 的_DEG 叠加_NN ，_PU 可以_VV 推断_VV 出_VV 各_DT 地_NN 受灾_NN 情况_NN 
+洪水_NN 淹没_VV 地区_NN 图层_NN 与_CC 人口_NN 分布_VV 图层_NN 的_DEG 叠加_NN ，_PU 可以_VV 推断_VV 出_VV 各_DT 地_NN 降水_NN 情况_NN 
+洪水_NN 淹没_VV 地区_NN 图层_NN 与_CC 人口_NN 分布_VV 图层_NN 的_DEG 叠加_NN ，_PU 可以_VV 计算_VV 湖泊_NN 水域_NN 面积_NN 
+洪水_NN 淹没_VV 地区_NN 图层_NN 与_CC 人口_NN 分布_VV 图层_NN 的_DEG 叠加_NN ，_PU 可以_VV 估算_VV 工农业_NN 生产_NN 总值_NN 
+在_P GIS_NN 中_LC ，_PU 不同_JJ 类型_NN 的_DEG 地理_NN 空间_NN 信息_NN 储存_NN 在_P 不同_VA 的_DEC 图层_NN 上_LC ，_PU 叠加_AD 不同_VA 的_DEC 图层_NN 可以_VV 分析_VV 不同_JJ 要素_NN 间_LC 的_DEG 相互_PN 关系_NN 
+我国_NR 水旱_NN 灾害_NN 频发_NN 的_DEG 主要_JJ 原因_NN 是_VC 南北_NN 跨_VV 纬度_NN 广_VA ，_PU 气候_NN 差异_NN 大_VA 
+我国_NR 水旱_NN 灾害_NN 频发_NN 的_DEG 主要_JJ 原因_NN 是_VC 地形_NN 复杂_VA 多样_VA ，_PU 山区_NN 面积_NN 广大_VA 
+我国_NR 水旱_NN 灾害_NN 频发_NN 的_DEG 主要_JJ 原因_NN 是_VC 地势_NN 西高东低_VA ，_PU 呈_VV 阶梯状_NN 分布_VV 
+我国_NR 水旱_NN 灾害_NN 频发_NN 的_DEG 主要_JJ 原因_NN 是_VC 夏季风_NN 强弱_NN 和_CC 进退_NN 的_DEG 迟早_NN 不同_VA 
+对于_P 当时_NT 人口_NN 迁移_NN 的_DEC 原因_NN 是_VC 有_VE 较少_JJ 一_CD 部分_NN 人_NN 存在_VV 追求_VV 高_JJ 收入_NN 的_DEG 潜在_JJ 目的_NN 
+对于_P 当时_NT 人口_NN 迁移_NN 的_DEC 原因_NN 是_VC 牧区_NN 的_DEG 人口_NN 迁移_NN 在_P “_PU 政府_NN 安排_NN ”_PU 方面_NN 不_AD 存在_VV 性别_NN 差异_NN 
+对于_P 当时_NT 人口_NN 迁移_NN 的_DEC 原因_NN 是_VC 与_P 牧区_NN 相比_VV ，_PU 农区_NN 的_DEG 迁移_NN 原因_NN 更加_AD 复杂_VA 
+对于_P 当时_NT 人口_NN 迁移_NN 的_DEC 原因_NN 是_VC 女性_NN 进行_VV 迁移_VV 首要_JJ 的_DEG 原因_NN 是_VC 结婚_NN 
+宜家_NR 在_P 我国_NR 大陆_NN 选择_VV 目的地_NN 城市_NN 的_DEG 决定性_JJ 因素_NN 是_VC 对外_JJ 开放_NN 程度_NN 
+宜家_NR 在_P 我国_NR 大陆_NN 选择_VV 目的地_NN 城市_NN 的_DEG 决定性_JJ 因素_NN 是_VC 交通_NN 的_DEG 通达性_NN 
+宜家_NR 在_P 我国_NR 大陆_NN 选择_VV 目的地_NN 城市_NN 的_DEG 决定性_JJ 因素_NN 是_VC 经济_NN 发展_NN 程度_NN 
+宜家_NR 在_P 我国_NR 大陆_NN 选择_VV 目的地_NN 城市_NN 的_DEG 决定性_JJ 因素_NN 是_VC 人们_NN 消费_NN 观念_NN 
+2006年_NT 和_CC 2011年_NT 我国_NR 网络_NN 消费_NN 发展_NN 的_DEG 特征_NN 是_VC 高_JJ 网络_NN 消费_NN 地区_NN 数量_NN 增加_VV 
+2006年_NT 和_CC 2011年_NT 我国_NR 网络_NN 消费_NN 发展_NN 的_DEG 特征_NN 是_VC 低_JJ 网络_NN 消费_NN 地区_NN 数量_NN 减少_VV 
+2006年_NT 和_CC 2011年_NT 我国_NR 网络_NN 消费_NN 发展_NN 的_DEG 特征_NN 是_VC 中部_NN 地区_NN 网络_NN 消费_NN 集聚度_NN 低_VA 
+2006年_NT 和_CC 2011年_NT 我国_NR 网络_NN 消费_NN 发展_NN 的_DEG 特征_NN 是_VC 沿海_NN 地区_NN 网络_NN 消费_NN 集聚度_NN 高_VA 
+影响_VV 我国_NR 网络_NN 消费_NN 的_DEG 空间_NN 分布_NN 的_DEG 主要_JJ 因素_NN 有_VE 经济_NN 发展_NN 水平_NN 
+影响_VV 我国_NR 网络_NN 消费_NN 的_DEG 空间_NN 分布_NN 的_DEG 主要_JJ 因素_NN 有_VE 人口_NN 数量_NN 
+影响_VV 我国_NR 网络_NN 消费_NN 的_DEG 空间_NN 分布_NN 的_DEG 主要_JJ 因素_NN 有_VE 互联网_NN 普及_NN 程度_NN 
+影响_VV 我国_NR 网络_NN 消费_NN 的_DEG 空间_NN 分布_NN 的_DEG 主要_JJ 因素_NN 有_VE 交通通达度_NN 
+影响_VV 我国_NR 网络_NN 消费_NN 的_DEG 空间_NN 分布_NN 的_DEG 主要_JJ 因素_NN 有_VE 科技_NN 发展_NN 水平_NN 
+根据_P 材料_NN 及_CC 所_MSP 学_VV ，_PU 从_P 可持续发展_NN 的_DEG 角度_NN ，_PU 举例_VV 说明_VV 山西省_NR 调整_VV 产业_NN 结构_NN 可_VV 采取_VV 的_DEC 具体_JJ 措施_NN 
+根据_P 材料一_NN 分析_VV 全球_NN 煤炭_NN 产量_NN 的_DEG 空间_NN 分布_NN 及_CC 变化_NN 特征_NN 
+概述_VV 徐州_NR 工程_NN 机械_NN 集团_NN 在_P 巴西_NR 建立_VV 制造_NN 基地_NN 的_DEG 有利_JJ 条件_NN 
+根据_P 材料_NN ，_PU 指出_VV 徐州_NR 和_CC 巴西利亚_NR 气候_NN 特征_NN 的_DEG 差异_NN ，_PU 并_CC 分析_VV 其_PN 差异_NN 产生_VV 的_DEC 原因_NN 
+在_P 渝新欧_NR 全程_NN 试_VV 运行_NN 期间_NN 地球_NR 公转_NN 速度_NN 加快_VV 
+在_P 渝新欧_NR 全程_NN 试_VV 运行_NN 期间_NN 北京_NR 与_CC 悉尼_NR 昼长_NN 差距_NN 缩短_VV 
+在_P 渝新欧_NR 全程_NN 试_VV 运行_NN 期间_NN 塔里木河_NR 进入_VV 汛期_NN 
+在_P 渝新欧_NR 全程_NN 试_VV 运行_NN 期间_NN 哈尔滨_NR 昼短夜长_VA 
+渝新欧国际铁路_NR 沿线_NN 东西_NN 两_CD 端_NN 的_DEG 自然带_NN 分别_AD 是_VC 亚热带常绿阔叶林带_NN 、_PU 亚热带常绿硬叶林带_NN 
+渝新欧国际铁路_NR 沿线_NN 东西_NN 两_CD 端_NN 的_DEG 自然带_NN 分别_AD 是_VC 温带落叶阔叶林带_NN 、_PU 温带落叶阔叶林带_NN 
+渝新欧国际铁路_NR 沿线_NN 东西_NN 两_CD 端_NN 的_DEG 自然带_NN 分别_AD 是_VC 亚热带常绿硬叶林带_NN 、_PU 温带草原带_NN 
+渝新欧国际铁路_NR 沿线_NN 东西_NN 两_CD 端_NN 的_DEG 自然带_NN 分别_AD 是_VC 亚热带常绿阔叶林带_NN 、_PU 温带落叶阔叶林带_NN 
+该_DT 流域_NN 河流_NN 干流_NN 自_P 西南_NN 流向_VV 东北_NN 
+该_DT 流域_NN 河流_NN 干流_NN 长度_NN 约_AD 为_VC 2_CD 千米_M 
+该_DT 流域_NN 当_P 等流时线_NN 为_VC 一_CD 年_NN 中_LC 最_AD 稀疏_VA 时_LC ，_PU 地表径流_NN 流速_NN 最_AD 快_VA 
+该_DT 流域_NN S1_NN –_NN S3_NN 各_DT 地段_NN 中_LC ，_PU S2_NN 地形_NN 最为_AD 平坦_VA 
+图_NN 中_LC 北京_NR 位于_VV 高压脊线_NN 后_LC 
+图_NN 中_LC 西北角_NR 可能_AD 有_VE 一_CD 个_M 高压_NN 中心_NN 
+图中_NN 上海_NR 气压值_NN 可能_AD 为_VC 1008hPa_NN 
+图_NN 中_LC 台湾岛_NR 西南侧_NN 的_DEG 风力_NN 大于_VV 东北侧_NN 
+此时_NT 黄河_NR 下游_NN 阴雨绵绵_VA 
+此时_NT 福建_NR 沿海_NN 狂风暴雨_VA 
+此时_NT 金沙江_NR 河段_NN 风和日丽_VA 
+此时_NT 广州_NR 附近_NN 雨雪交加_VA 
+我国_NR 华北_NR 地区_NN 已_AD 有_VE 灾害_NN 损失_NN 最_AD 重_VA 
+我国_NR 干旱_NN 已_AD 造成_VV 损失_NN 最_AD 大_VA 
+我国_NR 华东_NR 地区_NN 沙尘暴_NN 影响_NN 会_VV 增加_VV 
+我国_NR 寒潮_NN 的_DEG 不确定性_NN 最_AD 大_VA 
+我国_NR 洪涝_NN 均_AD 为_VC 暴雨_NN 洪涝_NN 
+我国_NR 洪涝_NN 多_AD 发生_VV 在_P 夏秋_NN 季节_NN 
+我国_NR 洪涝_NN 影响_NN 将_AD 会_VV 减轻_VV 
+我国_NR 洪涝_NN 影响_NN 限于_VV 东部_NN 地区_NN 
+“_PU 西进_NN 运动_NN ”_PU 是_VC 以_P 生产_NN 成本_NN 的_DEG 地区_NN 差异_NN 为_VV 主要_JJ 驱动力_NN 
+“_PU 西进_NN 运动_NN ”_PU 是_VC 西部_NN 地区_NN 交通_NN 条件_NN 改善_VV 的_DEC 必然_JJ 结果_NN 
+“_PU 西进_NN 运动_NN ”_PU 代表_VV 了_AS 工业_NN 由_P 分散_NN 走向_VV 集中_NN 的_DEG 发展_NN 方向_NN 
+“_PU 西进_NN 运动_NN ”_PU 反映_VV 了_AS 市场_NN 需求_NN 对_P 工业_NN 的_DEG 影响_NN 减弱_VV 
+“_PU 西进_NN 运动_NN ”_PU 的_DEG 影响_NN 有_VE 促进_VV 西部_NN 逆城市化_NN 的_DEG 发展_NN 
+“_PU 西进_NN 运动_NN ”_PU 的_DEG 影响_NN 有_VE 导致_VV 东部_NN 工业化_NN 水平_NN 降低_VV 
+“_PU 西进_NN 运动_NN ”_PU 的_DEG 影响_NN 有_VE 带动_VV 人口_NN 大规模_AD 向_P 西_NN 迁移_VV 
+“_PU 西进_NN 运动_NN ”_PU 的_DEG 影响_NN 有_VE 促进_VV 东_NN 、_PU 西部_NN 产业_NN 结构_NN 调整_NN 
+列举_VV 促进_VV 京津冀_NR 城市群_NN 可持续发展_NN 的_DEG 可行性_NN 措施_NN 
+说明_VV 曹妃甸区_NR 作为_P 能源_NN 基地_NN 和_CC 未来_NT 水源地_NN 对_P 北京市_NR 地理_NN 环境_NN 的_DEG 影响_NN 
+说明_VV 海南_NR 环岛_NN 高铁_NN 的_DEG 修建_NN 对_P 该_DT 岛_NN 旅游_NN 活动_NN 的_DEG 影响_NN 
+交通_NN 运输_NN 推动_VV 了_AS 经济_NN 发展_NN 
+简述_VV “_PU 东北_NN 旅游_NN 景区_NN 联盟_NN ”_PU 对_P 该_DT 区域_NN 旅游业_NN 发展_NN 的_DEG 影响_NN 

@@ -1,0 +1,165 @@
+长江_NR_EB 流域_NN_AB 持续_VV_O 低温_VA_O 
+东北_NR_EB 洪涝_NN_AB 灾害_NN_AE 严重_VA_O 
+该_DT_EB 地区_NN_EI 此时_NT_EE 降水_NN_AB 较_AD_O 多_VA_O 
+图示_JJ_EB 河流_NN_EE 流量_NN_AB 季节_NN_AI 变化_NN_AE 小_VA_O 
+地势_NN_EB 起伏_NN_AB 大_VA_O 
+降水_NN_EB 季节_NN_AB 分配_NN_AE 不均_VA_O ，_PU_O 夏季_NN_O 多_JJ_O 暴雨_NN_O 
+降水_NN_EB 季节_NN_AB 分配_NN_AE 不均_VA_O 
+植被_NN_EB 覆盖率_NN_AB 高_VA_O 
+河流_NN_EB 含沙量_NN_AB 小_VA_O 
+北京市_NR_EB 夏季_NN_AB 降水量_NN_AE 大_VA_O 
+北京市_NR_EB 夏季_NN_AB 雾霾_NN_AI 天数_NN_AE 少_VA_O 
+北京市_NR_EB 工业_NN_EE 发展_NN_AB 水平_NN_AE 高_VA_O 
+北京市_NR_EB 污染_NN_AB 严重_VA_O 
+④地_NN_EB 农作物_NN_AB 一年一熟_VA_O 
+水陆_NN_EB 交通_NN_EE 便利_VA_O 
+矿产_NN_EB 资源_NN_EE 丰富_VA_O 
+汽车_NN_EB 工业_NN_AB 起步_NN_AE 早_VA_O 
+汽车_NN_EB 工业_NN_AB 基础_NN_AE 好_VA_O 
+蓉欧_NR_O 快速_JJ_O 铁路_NN_O 欧洲_NR_EB 段_NN_EE 地势_NN_AB 起伏_NN_AE 大_VA_O 
+中_NR_EB 缅_NR_EI 天然气_NN_EE 管道_NN_AB 沿线_NN_AI 途经_NN_EI 地区_NN_EE 河流_NN_AB 航运_NN_AI 价值_NN_AE 大_VA_O 
+两_CD_EB 省_NN_EE 土地_NN_AB 利用_NN_AI 结构_NN_AE 相同_VA_O 
+两_CD_EB 省_NN_EE 林地_NN_AB 植被_NN_AI 类型_NN_AE 相同_VA_O 
+江苏省_NR_EB 抵御_VV_EI 旱涝_NN_EE 灾害_NN_AB 能力_NN_AE 强_VA_O 
+陕西省_NR_EB 耕地_NN_EI 在_P_EI 省内_NN_EE 均匀_VA_O 分布_VV_O 
+公转_NN_EB 运行_NN_AB 环境_NN_AE 安全_VA_O 
+该_DT_EB 景观_NN_EI 所在_VV_EI 地区_NN_EE 经济_NN_AB 发达_VA_O 
+宁夏_NR_EB 干旱_NN_AB 危害_NN_AE 最_AD_O 严重_VA_EB 的_DEC_EI 地区_NN_EE 降水量_NN_AB 也_AD_O 最_AD_O 少_VA_O 
+宁夏_NR_EB 黄河_NR_EI 沿岸_NN_EE 干旱_NN_AB 危害_NN_AI 程度_NN_AE 低_VA_O 
+宁夏_NR_EB 中东部_NN_EE 的_DEG_O 草原_NN_AB 区_NN_EI 对_P_EI 干旱_NN_EE 的_DEG_O 承受_NN_AB 能力_NN_AE 较_AD_O 强_VA_O 
+宁夏_NR_EB 中西部_NN_AB 抵御_VV_AI 干旱_NN_AI 能力_NN_AE 较_AD_O 强_VA_O 
+意大利_NR_EB 地热_NN_EI 、_PU_EE 天然气_NN_AB 丰富_VA_O 
+意大利_NR_EB 地势_NN_AB 西南_NN_AE 高_VA_O 东北_NN_O 低_VA_O 
+意大利_NR_EB 气候_NN_EE 终年_AD_AB 温和_VA_O 多雨_VA_O 
+非洲_NR_EB 草原_NN_AB 植被_NN_AE 茂盛_VA_O 
+该_DT_EB 区域_NN_EE 地壳_NN_AB 厚度_NN_AE 不_AD_O 大_VA_O 
+该_DT_EB 区域_NN_EE 岩浆活动_NN_AB 频繁_VA_O 
+该_DT_EB 区域_NN_EE 冰川侵蚀_NN_AB ，_PU_AI 流水沉积作用_NN_AE 强烈_VA_O 
+该_DT_EB 区域_NN_EE 流水沉积作用_NN_AB 强烈_VA_O 
+该_DT_EB 区域_NN_EE 旅游资源_NN_AB 丰富_VA_O ，_PU_O 距_VV_O 客源_NN_O 市场_NN_O 近_AD_O 
+该_DT_EB 区域_NN_EE 旅游资源_NN_AB 丰富_VA_O 
+义乌_NR_EB 城市_NN_EI 空间_NN_EE 的_DEG_O 扩展_NN_AB 年_NN_AE 平均_JJ_O 变化_NN_O 由_P_O 慢_NN_O 到_VV_O 快_VA_O 
+B地_NN_EB 水土流失_NN_AB 严重_VA_O 
+B地_NN_EB 降水量_NN_AB 较_AD_O 多_VA_O ，_PU_O 发展_VV_O 水稻_NN_O -_PU_O 牧羊_NN_O 混合农业_NN_O 
+B地_NN_EB 降水量_NN_AB 较_AD_O 多_VA_O 
+其_PN_EB 台风_NN_AB 中心_NN_AE 风大浪高_VA_O 
+其_PN_EB 台风_NN_EI 中心_NN_EE 降水_NN_AB 强度_NN_AE 大_VA_O 
+其_PN_EB 台风_NN_EE 中心_NN_AB 破坏性_NN_AE 最_AD_O 大_VA_O 
+巴西高原_NR_EB 各_DT_EI 城市_NN_EE 均_AD_O 昼长夜短_VA_O 
+贺兰山_NR_EB 东侧_NN_EI 比_P_EI 西侧_NN_EE 降水_NN_AB 丰富_VA_O 
+贺兰山_NR_EB 东侧_NN_EI 比_P_EI 西侧_NN_EE 自然带_NN_AB 丰富_VA_O 
+1982_CD_EB 至_CC_EI 1990年_NT_EE 北方_NN_AB 城镇化_NN_AI 增长_NN_AE 快_VA_O 
+1982_CD_EB 至_CC_EI 1990年_NT_EE 南方_NN_AB 城镇化_NN_AI 增长_NN_AE 快_VA_O 
+①地_NN_EB 的_DEG_O 降水_NN_AB 具有_VV_O 明显_VA_O 的_DEC_O 季节_NN_O 变化_NN_O 
+图示_JJ_EB 区域_NN_EI 间歇河_NN_EE 的_DEG_O 流量_NN_EB 每_DT_EI 年_NN_EE 的_DEG_O 1月份_NT_O 较_AD_O 大_VA_O 
+长城站_NR_EB 降雪量_NN_AB 最_AD_O 小_VA_O 
+昆仑站_NR_EB 气温_NN_AB 最_AD_O 低_VA_O 
+安徽省_NR_EB 洪涝_NN_AB 灾害_NN_AE 频繁_VA_O 
+图示_JJ_EB 淮河_NR_EE 河段_NN_AB 径流_NN_AI 季节_NN_AI 变化_NN_AE 小_VA_O 
+东部_NN_EB 人口自然增长率_NN_AB 最_AD_O 高_VA_O 
+直辖市_NN_EB 的_DEG_O 人口数量_NN_AB 增加_VV_O 最_AD_O 多_VA_O 
+铁路_NN_EB 运输_NN_AB 连续性_NN_AE 强_VA_O 
+石油_NN_EB 化学_NN_EI 工业_NN_EE 占地面积_NN_AB 广_VA_O 
+上海_NR_EB 的_DEG_EI 城市等级_NN_EE 最_AD_AB 高_VA_EI 且_NN_EE 服务_NN_AB 种类_NN_AE 最_AD_O 齐全_VA_O 
+山顶_NN_EB 气温_NN_AB 日变化_NN_AE 最_AD_O 小_VA_O 
+则_AD_EB 此_PN_EI 季节_NN_EE 亚热带_NN_AB 大陆_NN_AI 西岸_NN_AE 干热_VA_O 少雨_VA_O 
+昼夜_NN_EB 长短_NN_EE 的_DEG_O 变化_NN_AB 幅度_NN_AE 小_VA_O 
+b地_NN_EB 牧草_NN_AB 日益_AD_O 茂盛_VA_O 
+山顶_NN_EB 接受_VV_AB 的_DEC_AI 太阳辐射_NN_AE 多_VA_O 
+山谷_NN_EB 接受_VV_EI 的_DEC_EE 太阳辐射_NN_AB 少_VA_O 
+此_PN_O 季节_NN_O ，_PU_O 该_DT_EB 地区_NN_EE 山麓_NN_AB 落叶阔叶林_NN_AE 枝繁_VA_O 叶茂_VA_O 
+河流_NN_EB 冰期_NN_AB 较_AD_O 长_VA_O 
+黄山_NR_EB 植被_NN_AB 茂密_VA_O 
+黄山_NR_EB 空气_NN_AB 湿度_NN_AE 大_VA_O 
+黄山_NR_EB 温泉_NN_AB 蒸发量_NN_AE 大_VA_O 
+冬春_NT_O 季节_NN_O 黄山_NR_EB 冷空气_NN_AB 活动_NN_AE 频繁_VA_O 
+甲国_NN_EB 人口自然增长率_NN_AB 最_AD_O 低_VA_O 
+乙国_NN_EB 劳动力_NN_AB 不_AD_O 够_VA_O 充足_VA_O 
+自然_NN_EB 条件_NN_AB 适宜_VA_O 
+温室_NN_EB 技术_NN_AB 成熟_VA_O 
+交通_NN_EB 运输_NN_AB 便利_VA_O 
+市场_NN_EB 需求_NN_AB 稳定_VA_O 
+光热_NN_EB 资源_NN_AB 充足_VA_O 
+灌溉_NN_EB 水源_NN_AB 丰富_VA_O 
+丙图_NN_EB 地区_NN_EE 牧业_NN_AB 生产_NN_AI 规模_NN_AE 大_VA_O 
+丙图_NN_EB 地区_NN_EE 科技_NN_AB 水平_NN_AE 高_VA_O 
+丁图_NN_EB 地区_NN_EE 农业_NN_AB 生产_NN_AE 精耕细作_VA_O 
+丁图_NN_EB 地区_NN_EE 水利_NN_AB 工程量_NN_AE 大_VA_O 
+土耳其海峡_NR_EB 海底_NN_EI 铁路_NN_EI 隧道_NN_EE 的_DEG_O 修建_NN_EB 提高_VV_EI 铁路_NN_EI 运输_NN_EE 的_DEG_O 灵活性_NN_O 
+土耳其海峡_NR_EB 海底_NN_EI 铁路_NN_EI 隧道_NN_EE 的_DEG_O 修建_NN_AB 促进_VV_AI 人员_NN_AE 流动_NN_O 
+海峡_NN_EB 地理_NN_AB 位置_NN_AE 十分_AD_O 重要_VA_O 
+漓江_NR_EB 美学_NN_EI 价值_NN_EI 、_PU_EI 科学_NN_EE 价值_NN_AB 及_CC_AI 经济_NN_AI 价值_NN_AE 很_AD_O 高_VA_O 
+漓江_NR_EB 景区_NN_AB 旅游资源_NN_AI 密度_NN_AE 较_AD_O 小_VA_O 
+Ⅰ区_NN_EB 夏季_NN_AB 大气逆辐射_NN_AE 强_VA_O 
+Ⅰ区_NN_EB 正午太阳高度角_NN_AB 大_VA_O 
+①_NN_EB ②_NN_EI 两_CD_EI 地_NN_EE 距_VV_O 太阳直射点_NN_EB 的_DEC_EI 纬度_NN_AB 间隔_NN_AE 相同_VA_O 
+Ⅰ区_NN_EB 夏季_NN_AB 大气逆辐射_NN_AE 强_VA_O 
+Ⅰ区_NN_EB 正午太阳高度角_NN_AB 大_VA_O 
+①_NN_EB ②_NN_EI 两_CD_EI 地_NN_EE 距_VV_O 太阳直射点_NN_EB 的_DEC_EI 纬度_NN_AB 间隔_NN_AE 相同_VA_O 
+人们_NN_EB 的_DEG_EI 生育_NN_AB 意愿_NN_AE 较_AD_O 低_VA_O 
+医疗_NN_EB 卫生_NN_AB 水平_NN_AE 较_VV_O 低_VA_O 
+经济_NN_EB 发展_NN_AB 水平_NN_AE 较_VV_O 高_VA_O 
+该_DT_EB 市_NN_EE 纬度_NN_AB 较_VV_O 低_VA_O 
+该_DT_EB 市_NN_EE 地势_NN_AB 较_VV_O 低_VA_O 
+该_DT_EB 市_NN_EE 交通_NN_AB 便利_VA_O 
+地质_NN_EB 条件_NN_AB 复杂_VA_O 
+运输_NN_EB 需求_NN_AB 少_VA_O 
+滇南_NR_EB 的_DEG_EI 普洱茶区_NN_AB 气候_NN_AE 湿热_VA_O 
+滇南_NR_EB 的_DEG_EI 普洱茶区_NN_AB 地形_NN_AE 平缓_VA_O 
+滇南_NR_EB 的_DEG_EI 普洱茶区_NN_AB 黑土_NN_AE 深厚_VA_O 
+滇南_NR_EB 的_DEG_EI 普洱茶区_NN_AB 河网_NN_AE 纵横_VA_O 
+太阳辐射能_NR_EB 大陆_NN_AB 较_VV_O 同_JJ_EB 纬度_NN_EI 近海_NN_EE 的_DEG_O 数值_NN_AB 低_VA_O 
+图示_JJ_EB 时段_NN_EE 气压带_NN_AB 风带_NN_AE 偏北_VA_O 
+北坡_NN_EB 纬度_NN_AB 位置_NN_AE 低_VA_O 
+北坡_NN_EB 地势_NN_AB 高差_NN_AE 大_VA_O 
+北坡_NN_EB 山麓_NN_AB 水分_NN_AE 多_VA_O 
+北坡_NN_EB 山地_NN_AB 坡度_NN_AE 大_VA_O 
+图乙_NN_EB 所示_VV_EI 地区_NN_EE 河流_NN_AB 水能_NN_AI 蕴藏量_NN_AE 丰富_VA_O 
+宁夏_NR_EB 出生率_NN_EI 、_PU_EE 死亡率_NN_AB 均_AD_O 较_AD_O 高_VA_O 
+江苏_NR_EB 年_NN_EE 新增_JJ_AB 人口_NN_AE 最_AD_O 多_VA_O 
+北京_NR_EB 人口_NN_EE 自然_AD_AB 增长_NN_AE 最_AD_O 快_VA_O 
+该_DT_EB 地区_NN_EE 农业_NN_AB 生产_NN_AE 精耕细作_VA_O 
+该_DT_EB 地区_NN_EE 农业_NN_AB 生产_NN_AI 农产品_NN_AI 的_DEG_AI 单产量_NN_AI 和_CC_AI 商品率_NN_AE 较_AD_O 高_VA_O 
+该_DT_EB 地区_NN_EE 农业_NN_AB 生产_NN_AE 与_P_O 市场_NN_O 联系_NN_O 密切_VA_O 
+该_DT_EB 地区_NN_EE 农业_NN_AB 生产_NN_AI 生产_NN_AI 规模_NN_AE 较_AD_O 小_VA_O 
+该_DT_EB 地区_NN_EI 农业_NN_EI 生产_NN_EE 机械化_NN_AB 水平_NN_AE 低_VA_O 
+该_DT_EB 日_NN_EI ③地_NN_EI 附近_LC_EE 草木_NN_AB 枯黄_VA_O 
+丙地_NN_EB 气温_NN_AB 较_AD_O 低_VA_O 
+丙地_NN_EB 气压_NN_AB 较_AD_O 高_VA_O 
+地壳_NN_EB 活动_NN_AB 频繁_VA_O 
+土壤_NN_EB 肥力_NN_AB 高_VA_O 
+河流_NN_EB 含沙量_NN_AB 大_VA_O 
+投入_VV_EB 的_DEC_EE 资金_NN_AB 和_CC_AI 技术_NN_AE 较_AD_O 多_VA_O 
+城区_NN_EB 环境污染_NN_AB 日益_AD_O 严重_VA_O 
+郊区_NN_EB 基础设施_NN_AB 日益_AD_O 完善_VA_O 
+城市_NN_EB 管网_NN_AB 不_AD_O 完善_VA_O 
+市场_NN_EB 信息_NN_AB 畅通_VA_O 
+政策_NN_EB 导向_NN_AB 得力_VA_O 
+两_CD_EB 国_NN_EE 大豆_NN_AB 灌浆期_NN_AI 长度_NN_AE 一样_VA_O 
+工业_NN_EB 基础_NN_AB 好_VA_O 
+水陆_NN_EB 交通_NN_EE 便利_VA_O 
+温带_NN_EB 气旋_NN_AB 活动_NN_AE 频繁_VA_O 
+暖湿_NN_EB 气流_NN_AB 弱_VA_O 
+空气_NN_EB 水汽_NN_AB 含量_NN_AE 少_VA_O 
+甲地_NN_EB 海拔_NN_AB 高_VA_O 
+丁地_NN_EB 纬度_NN_AB 高_VA_O 
+乙地_NN_EB 地势_NN_AB 平坦_VA_O 
+丁地_NN_EB 夏季_NN_AB 低温_VA_O ，_PU_O 适宜_VV_O 发展_VV_O 多_CD_O 种_M_O 经营_NN_O 
+丁地_NN_EB 夏季_NN_AB 低温_VA_O 
+嫩江_NR_EB 及_CC_EI 其_PN_EE 支流_NN_AB 汛期_NN_AE 长_VA_O 
+嫩江_NR_EB 及_CC_EI 其_PN_EE 支流_NN_AB 封冻期_NN_AE 长_VA_O 
+平原_NN_EB 面积_NN_AB 较_AD_O 大_VA_O 
+乙省_NN_EB 区_NN_EI 第三产业_NN_EE 的_DEG_O 发展_NN_AB 受益于_VV_O 发达_VA_O 的_DEC_O 交通_NN_O 
+丙省_NN_EB 区_NN_AB 环境污染_NN_AE 严重_VA_O 
+2011年_NT_O 我国_NR_EB 劳动力_NN_AB 严重_AD_O 不足_VA_O 
+2011年_NT_O 我国_NR_EB 老龄化_NN_AB 问题_NN_AE 严重_VA_O 
+我国_NR_EB 人口自然增长率_NN_AB 高_VA_O 
+我国_NR_EB 人口出生率_NN_AB 高_VA_O 
+该_DT_EB 固定_JJ_EE 沙丘_NN_AB 浅层_JJ_AI 土壤_NN_AI 含水量_NN_AE 低_VA_O 
+该_DT_EB 固定_JJ_EE 沙丘_NN_AB 深层_JJ_AI 土壤_NN_AI 含水量_NN_AE 低_VA_O 
+该_DT_EB 固定_JJ_EI 沙丘_NN_EE 6~8月_NT_AB 土壤_NN_AI 含水量_NN_AE 低_VA_O 
+该_DT_EB 固定_JJ_EI 沙丘_NN_EE 6~8月_NT_AB 土壤_NN_AI 含水量_NN_AE 高_VA_O 
+土地_NN_EB 资源_NN_AB 短缺_VA_O 
+丁处_NN_EB 山体_NN_AB 坡度_NN_AE 较缓_VA_O 
+北京_NR_EB 八达岭长城_NR_AB 漫山红叶_VA_O 
+举办地_NN_EB 所在_VV_EI 国家_NN_EE 人口增长模式_NN_AB 不同_VA_O 

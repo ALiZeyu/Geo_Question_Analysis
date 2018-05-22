@@ -1,0 +1,1145 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://ws.nju.edu.cn/clinga/">
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A920761">
+    <j.0:haiBa>750~900米</j.0:haiBa>
+    <j.0:waiWenMing>YukonPlateaus</j.0:waiWenMing>
+    <j.0:zhongWenMing>育空高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A8895793">
+    <j.0:mianJi>直径600公里</j.0:mianJi>
+    <j.0:diLiWeiZhi>火星北极区的高原</j.0:diLiWeiZhi>
+    <j.0:waiWenMingCheng>PlanumBoreum</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>北极高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A9924111">
+    <j.0:suoShu rdf:resource="http://ws.nju.edu.cn/clinga/A8402627"/>
+    <j.0:kuanDu>5公里</j.0:kuanDu>
+    <j.0:zhangDu>17公里</j.0:zhangDu>
+    <j.0:haiBa>3000米</j.0:haiBa>
+    <j.0:shuYuDaZhou>南极洲</j.0:shuYuDaZhou>
+    <j.0:zhongWenMing>莱恩高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2825267">
+    <j.0:qiHou>地中海式气候</j.0:qiHou>
+    <j.0:zuCheng>石灰岩</j.0:zuCheng>
+    <j.0:haiBa>900米左右</j.0:haiBa>
+    <j.0:zhongWenMing>喀斯特高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2089275">
+    <j.0:qiHouTeZheng>暖温带大陆性半湿润季风气候</j.0:qiHouTeZheng>
+    <j.0:suoShuDiQu>华北地区</j.0:suoShuDiQu>
+    <j.0:diWei>黄土高原的重要组成部分</j.0:diWei>
+    <j.0:yongYouMingShan>五台山、恒山、北武当山、绵山等</j.0:yongYouMingShan>
+    <j.0:waiWenMing>ShanxiPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>山西高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2258364">
+    <j.0:mianJi>500多万平方千米</j.0:mianJi>
+    <j.0:zai rdf:resource="http://ws.nju.edu.cn/clinga/A94500"/>
+    <j.0:waiWenMing>PlanaltoBrasileiro</j.0:waiWenMing>
+    <j.0:zhongWenMing>巴西高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1086921">
+    <j.0:jiuYi>哈当格维达高原</j.0:jiuYi>
+    <j.0:yiCheng>维达(Vidda)</j.0:yiCheng>
+    <j.0:waiWenMing>HardangerPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>哈当厄高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1098081">
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2335063"/>
+    <j.0:haiBa>600-1,100米</j.0:haiBa>
+    <j.0:mianJi>7,200平方公里</j.0:mianJi>
+    <j.0:waiWenMing>ShireHighlands</j.0:waiWenMing>
+    <j.0:zhongWenMing>希雷高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2793120">
+    <j.0:nanBeiZuiKuan>760公里</j.0:nanBeiZuiKuan>
+    <j.0:mianJi>59.70万平方公里</j.0:mianJi>
+    <j.0:dongJing>91°左右</j.0:dongJing>
+    <j.0:suoZaiDi>西藏自治区的那曲与阿里</j.0:suoZaiDi>
+    <j.0:pinYin>qiangtanggaoyuan</j.0:pinYin>
+    <j.0:zhongWenMing>羌塘高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2302674">
+    <j.0:qiHou>热带干旱和半干旱气候</j.0:qiHou>
+    <j.0:diXing>多摺山脉带地形</j.0:diXing>
+    <j.0:xingChengYuanYin>阿拉伯版块与欧亚大陆版块碰撞</j.0:xingChengYuanYin>
+    <j.0:diLiWeiZhi>亚洲西南部</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>IranPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>伊朗高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A674351">
+    <j.0:leiXing>非洲中西部火成高地</j.0:leiXing>
+    <j.0:yiZuo>AdamaouaPlateau</j.0:yiZuo>
+    <j.0:waiWenMing>AdamawaPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿达马瓦高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A813757">
+    <j.0:haiBa>1000米左右</j.0:haiBa>
+    <j.0:nongZuoWu>玉米、小米、高粱、花生、木薯</j.0:nongZuoWu>
+    <j.0:diLiWeiZhi>非洲内陆</j.0:diLiWeiZhi>
+    <j.0:zhongWenMing>巴罗茨高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A504656">
+    <j.0:guoBie>美国</j.0:guoBie>
+    <j.0:zhang>15英里(24公里)</j.0:zhang>
+    <j.0:zhanDiGong>229平方英里</j.0:zhanDiGong>
+    <j.0:zhongWenMing>凯巴布高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A898639">
+    <j.0:haiBa>500-600米</j.0:haiBa>
+    <j.0:diDian>印度中部和南部</j.0:diDian>
+    <j.0:waiWenMing>DeccanPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>德干高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A9852182">
+    <j.0:zhanDiMianJi>53万平方米</j.0:zhanDiMianJi>
+    <j.0:suoZaiDiDian rdf:resource="http://ws.nju.edu.cn/clinga/A1011267"/>
+    <j.0:suoZaiDiDian rdf:resource="http://ws.nju.edu.cn/clinga/A3110008"/>
+    <j.0:waiWenMing>ひるがのこうげん</j.0:waiWenMing>
+    <j.0:zhongWenMing>蛭野高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A757174">
+    <j.0:youMing>子午高原、子午线平原</j.0:youMing>
+    <j.0:shiJian>2004年初</j.0:shiJian>
+    <j.0:waiWenMing>MeridianiPlanum</j.0:waiWenMing>
+    <j.0:zhongWenMing>子午线高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2732319">
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2728815"/>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A100661"/>
+    <j.0:jiuCheng>镇宁高原</j.0:jiuCheng>
+    <j.0:waiWenMing>PlateayduTranninh</j.0:waiWenMing>
+    <j.0:zhongWenMing>川圹高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A9093177">
+    <j.0:guanLiDanWei>南极条约体系</j.0:guanLiDanWei>
+    <j.0:diDian rdf:resource="http://ws.nju.edu.cn/clinga/A2321944"/>
+    <j.0:zhongWenMing>波莫纳高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1550616">
+    <j.0:shaMo>巴丹吉林沙漠、腾格里沙漠等</j.0:shaMo>
+    <j.0:mianJi>约25万平方千米</j.0:mianJi>
+    <j.0:pingJunHaiBaGaoDu>900-1400米</j.0:pingJunHaiBaGaoDu>
+    <j.0:suoZaiDiQu>内蒙古阿拉善盟</j.0:suoZaiDiQu>
+    <j.0:waiWenMing>AlxaPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿拉善高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7145875">
+    <j.0:diDian>泾、洛河中下游,陇山以东</j.0:diDian>
+    <j.0:nianJiangShuiLiang>500~700毫米</j.0:nianJiangShuiLiang>
+    <j.0:tuDiZongMianJi>6万多平方千米</j.0:tuDiZongMianJi>
+    <j.0:zhongWenMing>陇东高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A448700">
+    <j.0:kuan>50公里(30哩)</j.0:kuan>
+    <j.0:nanBeiZhang>约100公里(60哩)</j.0:nanBeiZhang>
+    <j.0:waiWenMing>Causses</j.0:waiWenMing>
+    <j.0:zhongWenMing>科斯高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1706929">
+    <j.0:haiBa>600-1,100米</j.0:haiBa>
+    <j.0:gaiKuang>一译“乔塔纳格普尔</j.0:gaiKuang>
+    <j.0:waiWenMing>ChotaNagpurPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>焦达讷格布尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A166875">
+    <j.0:shengChan>日本荞麦</j.0:shengChan>
+    <j.0:haiBa>1200米</j.0:haiBa>
+    <j.0:weiZhi>长野县北部</j.0:weiZhi>
+    <j.0:zhongWenMing>户隐高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2777542">
+    <j.0:ziYuanLeiXing>矿产,水利,森林等资源</j.0:ziYuanLeiXing>
+    <j.0:qiHouTeDian>严寒,大陆性强</j.0:qiHouTeDian>
+    <j.0:zhuYaoDiMao>高原山地</j.0:zhuYaoDiMao>
+    <j.0:suoShuQuYu>俄罗斯</j.0:suoShuQuYu>
+    <j.0:eYu>Sredne-sibirskoyePloskogorye</j.0:eYu>
+    <j.0:waiWenMing>CentralSibirianHighlands</j.0:waiWenMing>
+    <j.0:zhongWenMing>中西伯利亚</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1792141">
+    <j.0:diLiWeiZhi>古班平原</j.0:diLiWeiZhi>
+    <j.0:yiYi>加尔戈东高原</j.0:yiYi>
+    <j.0:waiWenMing>GalgodonHighlands</j.0:waiWenMing>
+    <j.0:zhongWenMing>格戈登高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1058874">
+    <j.0:haiBa>1,000-1,5000米</j.0:haiBa>
+    <j.0:qiHouTiaoJian>干旱凉爽</j.0:qiHouTiaoJian>
+    <j.0:zhongWenMingCheng>威拉高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1079095">
+    <j.0:haiBa>100-300米</j.0:haiBa>
+    <j.0:mianJi>15.5万平方千米</j.0:mianJi>
+    <j.0:diLiWeiZhi>泰国东北部高原</j.0:diLiWeiZhi>
+    <j.0:zhongWenMingCheng>呵叻高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3107643">
+    <j.0:faXianZhe>WilliamCameron</j.0:faXianZhe>
+    <j.0:faXianShiJian>1885年</j.0:faXianShiJian>
+    <j.0:haiBa>1524米</j.0:haiBa>
+    <j.0:diLiWeiZhi>彭享州内半岛</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>CameronHighlands</j.0:waiWenMing>
+    <j.0:zhongWenMing>金马伦高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1098191">
+    <j.0:nanBeiZhang>350公里</j.0:nanBeiZhang>
+    <j.0:xiBuShu>撒啥拉沙漠</j.0:xiBuShu>
+    <j.0:zuiGao>890米</j.0:zuiGao>
+    <j.0:zhongWenMing>伊福拉斯高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1083791">
+    <j.0:qiHou>气候干旱,年降水量500-600毫米</j.0:qiHou>
+    <j.0:haiBa>大部1000-1500米</j.0:haiBa>
+    <j.0:zhongWenMing>达尔富尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5676396">
+    <j.0:huoCheZhan>珀斯火车站、阿得莱德火车站</j.0:huoCheZhan>
+    <j.0:shiQu>UTC+8</j.0:shiQu>
+    <j.0:xiaXiaDiQu>珀斯、亚尔宾尼、阿德莱德等</j.0:xiaXiaDiQu>
+    <j.0:waiWenMingCheng>PlateauinwesternAustralia</j.0:waiWenMingCheng>
+    <j.0:qiHouTiaoJian>热带沙漠气候、热带草原气候等</j.0:qiHouTiaoJian>
+    <j.0:suoShuDiQu>西澳、南澳、北部地方</j.0:suoShuDiQu>
+    <j.0:diLiWeiZhi>澳大利亚西部</j.0:diLiWeiZhi>
+    <j.0:guanFangYuYan>英语</j.0:guanFangYuYan>
+    <j.0:zhuMingJingDian>袋鼠岛、维得港、绿松石湾、鲨鱼湾世界遗产地区等</j.0:zhuMingJingDian>
+    <j.0:mianJi>500万平方千米</j.0:mianJi>
+    <j.0:jiChang>珀斯国际机场、阿得莱德机场</j.0:jiChang>
+    <j.0:zhongWenMingCheng>澳大利亚西部高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3399673">
+    <j.0:baoKuo>委内瑞拉南半部和圭亚那等</j.0:baoKuo>
+    <j.0:weiYu>南美洲北部的高原</j.0:weiYu>
+    <j.0:waiWenMing>GuianaHighlands</j.0:waiWenMing>
+    <j.0:zhongWenMing>圭亚那高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1685965">
+    <j.0:nianYuLiang>250—500毫米</j.0:nianYuLiang>
+    <j.0:diZhi>非洲东部索马里半岛</j.0:diZhi>
+    <j.0:haiBa>500—1,000米</j.0:haiBa>
+    <j.0:zhongWenMing>盖拉—索马里高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A467908">
+    <j.0:zuiGaoDianWeiJiaShan>海拔821公尺</j.0:zuiGaoDianWeiJiaShan>
+    <j.0:pingJunHaiBa>700公尺</j.0:pingJunHaiBa>
+    <j.0:mianJi>近5,200平方公里</j.0:mianJi>
+    <j.0:zhongWenMing>比乌高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2453057">
+    <j.0:yongYou rdf:resource="http://ws.nju.edu.cn/clinga/A941213"/>
+    <j.0:suoChuHuanJing>地形复杂多变、环境恶劣</j.0:suoChuHuanJing>
+    <j.0:zhanDiMianJi>313.45万公顷</j.0:zhanDiMianJi>
+    <j.0:qiHouLeiXing>空气干燥、稀薄</j.0:qiHouLeiXing>
+    <j.0:diLiWeiZhi>青藏高原东北部</j.0:diLiWeiZhi>
+    <j.0:zhongWenMingCheng>青海高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1800254">
+    <j.0:gouCheng>玄武岩</j.0:gouCheng>
+    <j.0:pingJunHaiBa>500公尺</j.0:pingJunHaiBa>
+    <j.0:mianJi>57,000平方公里</j.0:mianJi>
+    <j.0:zhongWenMing>印度中央高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2300040">
+    <j.0:zhanDiMianJi>76万平方公里</j.0:zhanDiMianJi>
+    <j.0:diLiWeiZhi>南美洲</j.0:diLiWeiZhi>
+    <j.0:waiWenMingCheng>pampas</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>潘帕斯高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A186737">
+    <j.0:teDian>红土地</j.0:teDian>
+    <j.0:pingJunHaiBa>2000以上</j.0:pingJunHaiBa>
+    <j.0:diDian>云南</j.0:diDian>
+    <j.0:zhongWenMing>红土高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A517879">
+    <j.0:diXing>高原</j.0:diXing>
+    <j.0:leiXing>地名</j.0:leiXing>
+    <j.0:weiZhi>福岛县北部、磐梯山北方</j.0:weiZhi>
+    <j.0:zhongWenMing>磐梯高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2723954">
+    <j.0:diZhi rdf:resource="http://ws.nju.edu.cn/clinga/A101736"/>
+    <j.0:diZhi rdf:resource="http://ws.nju.edu.cn/clinga/A99398"/>
+    <j.0:haiBa>1,400米</j.0:haiBa>
+    <j.0:mianJi>14,300平方公里</j.0:mianJi>
+    <j.0:zhongWenMing>马达高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A179071">
+    <j.0:zhuMingJingDian>横手山</j.0:zhuMingJingDian>
+    <j.0:qiHouLeiXing>温带季风气候</j.0:qiHouLeiXing>
+    <j.0:diLiWeiZhi>日本长野</j.0:diLiWeiZhi>
+    <j.0:zhongWenMingCheng>志贺高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7329049">
+    <j.0:xingZhi>高原</j.0:xingZhi>
+    <j.0:jingDian>瀑布</j.0:jingDian>
+    <j.0:zhuYaoMinZu>拉万族</j.0:zhuYaoMinZu>
+    <j.0:haiBaGaoDu>1,000到1,350米</j.0:haiBaGaoDu>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A100661"/>
+    <j.0:zhongWenMing>布拉万高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2220317">
+    <j.0:zuoLuo>火星赤道、水手峡谷的西边</j.0:zuoLuo>
+    <j.0:gao>9公里</j.0:gao>
+    <j.0:kuan>3000公里</j.0:kuan>
+    <j.0:zhongWenMing>塔尔西斯高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1570914">
+    <j.0:pingJunHaiBa>700~1000米</j.0:pingJunHaiBa>
+    <j.0:weiYu>中非</j.0:weiYu>
+    <j.0:waiWenMing>AzandePlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿赞德高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2285048">
+    <j.0:dingYi>顶部平坦四周陡峻的大片海底台地</j.0:dingYi>
+    <j.0:leiXing>地质学</j.0:leiXing>
+    <j.0:waiWenMing>HaitiPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>海地高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2081222">
+    <j.0:haiBa>海拔4000-4500米</j.0:haiBa>
+    <j.0:zhuMingJingDian>九寨沟、黄龙、卧龙自然保护区、四姑娘山</j.0:zhuMingJingDian>
+    <j.0:diLiWeiZhi>青藏高原东部的横断山区</j.0:diLiWeiZhi>
+    <j.0:zhongWenMingCheng>川西高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A9074461">
+    <j.0:haiBa>180米</j.0:haiBa>
+    <j.0:diShiTeZheng>高原</j.0:diShiTeZheng>
+    <j.0:diLiWeiZhi>南极洲格尼岛</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>Blackmossplateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>黑藓高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2089483">
+    <j.0:zuiGaoHaiBa>超过8800米</j.0:zuiGaoHaiBa>
+    <j.0:waiWenMingCheng>TibetanPlateau,xizanggaoyuan</j.0:waiWenMingCheng>
+    <j.0:shiYiYouWanJiJie>春夏秋</j.0:shiYiYouWanJiJie>
+    <j.0:zhanDiMianJi>约100万平方公里</j.0:zhanDiMianJi>
+    <j.0:diLiWeiZhi>位于中国及邻近国家境内</j.0:diLiWeiZhi>
+    <j.0:qiHouLeiXing>高原气候</j.0:qiHouLeiXing>
+    <j.0:jianYiYouWanShiZhang>2天</j.0:jianYiYouWanShiZhang>
+    <j.0:zhongWenMingCheng>西藏高原</j.0:zhongWenMingCheng>
+    <j.0:menPiaoJiaGe>免费</j.0:menPiaoJiaGe>
+    <j.0:kaiFangShiJian>全天</j.0:kaiFangShiJian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2747367">
+    <j.0:qiHouTiaoJian>年降水量800-1,200毫米以上</j.0:qiHouTiaoJian>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A1697917"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A1979450"/>
+    <j.0:waiWenMingCheng>MalwaPlateau</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>马尔瓦高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1672326">
+    <j.0:mianJi>约129,500平方公里</j.0:mianJi>
+    <j.0:zhuYaoGouCheng rdf:resource="http://ws.nju.edu.cn/clinga/A2329807"/>
+    <j.0:zhuYaoGouCheng rdf:resource="http://ws.nju.edu.cn/clinga/A2329104"/>
+    <j.0:zhongWenMing>欧扎克高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1669384">
+    <j.0:xingZhuang>椭圆形</j.0:xingZhuang>
+    <j.0:haiBa>200-300米</j.0:haiBa>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A535039"/>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A680991"/>
+    <j.0:zhongWenMing>波罗芬高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1796948">
+    <j.0:renKou>172.7W</j.0:renKou>
+    <j.0:mianJi>90.1</j.0:mianJi>
+    <j.0:diDian>巴西</j.0:diDian>
+    <j.0:zhongWenMing>马托格罗索高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2304156">
+    <j.0:waiWenMing>TheAnatolianPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>安纳托利亚高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7518993">
+    <j.0:chengJiu>世界自然遗产美景之一</j.0:chengJiu>
+    <j.0:kaiFangShiJian>全天候</j.0:kaiFangShiJian>
+    <j.0:diLiWeiZhi>俄罗斯</j.0:diLiWeiZhi>
+    <j.0:zhongWenMingCheng>俄罗斯普托拉纳高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3045">
+    <j.0:waiWenMing>IshtarTerra</j.0:waiWenMing>
+    <j.0:zhongWenMing>伊什塔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1087237">
+    <j.0:zhang>272公里</j.0:zhang>
+    <j.0:pingJunHaiBa>450米以上</j.0:pingJunHaiBa>
+    <j.0:waiWenMing>KwahuPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>夸胡高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1067709">
+    <j.0:qiHou>热带草原气候</j.0:qiHou>
+    <j.0:nianJiangShuiLiang>1,000-1,500毫米</j.0:nianJiangShuiLiang>
+    <j.0:haiBa>1,000-1,500米</j.0:haiBa>
+    <j.0:zhongWenMing>加丹加高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2407990">
+    <j.0:haiBa>1,000-1,300公尺</j.0:haiBa>
+    <j.0:zhuShi>奶食、肉食和粮食</j.0:zhuShi>
+    <j.0:qiHouTiaoJian>温带季风区</j.0:qiHouTiaoJian>
+    <j.0:fangYan>蒙古语</j.0:fangYan>
+    <j.0:mianJi>13万平方公里</j.0:mianJi>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A113898"/>
+    <j.0:waiWenMingCheng>OrdosPlateau</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>鄂尔多斯高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1182644">
+    <j.0:teChan>野生小果咖啡</j.0:teChan>
+    <j.0:diZhi>苏丹东南部琼莱省和东赤道省</j.0:diZhi>
+    <j.0:waiWenMing>BomaPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>博马高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1063541">
+    <j.0:qiHouLeiXing>热带草原气候</j.0:qiHouLeiXing>
+    <j.0:lvYouPinPai>丛林鸟</j.0:lvYouPinPai>
+    <j.0:lvYouJingGuan>野生动物、野花、巨木</j.0:lvYouJingGuan>
+    <j.0:diLiWeiZhi>肯尼亚马拉维北部</j.0:diLiWeiZhi>
+    <j.0:zhongWenMing>尼卡高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1694379">
+    <j.0:haiBa>600-800米</j.0:haiBa>
+    <j.0:fenBuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A94304"/>
+    <j.0:youCheng>中央卡斯蒂利亚高原</j.0:youCheng>
+    <j.0:zhongWenMing>梅塞塔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A4833991">
+    <j.0:zuiGaoChuWeiHaiBa>2605米</j.0:zuiGaoChuWeiHaiBa>
+    <j.0:gaoYuanPingJunHaiBa>2100至2200米</j.0:gaoYuanPingJunHaiBa>
+    <j.0:waiWenMing>NyikaPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>卡尼高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2650802">
+    <j.0:diXingDiMao>地壳断裂、隆升和熔岩堆积</j.0:diXingDiMao>
+    <j.0:haiBa>平均海拔2500米以上</j.0:haiBa>
+    <j.0:zhuMingJingDian>青尼罗河、阿特巴拉河、索巴特河、谢贝利河和朱巴河。</j.0:zhuMingJingDian>
+    <j.0:mianJi>80余万平方公里</j.0:mianJi>
+    <j.0:diLiWeiZhi>埃塞俄比亚中西部</j.0:diLiWeiZhi>
+    <j.0:suoShuDiQu>埃塞俄比亚</j.0:suoShuDiQu>
+    <j.0:bieMing>非洲屋脊</j.0:bieMing>
+    <j.0:zhongWenMingCheng>埃塞俄比亚高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1325262">
+    <j.0:mianJi>65,509平方公里</j.0:mianJi>
+    <j.0:suoChuGuoJia>印度</j.0:suoChuGuoJia>
+    <j.0:waiWenMing>ChotaNagpur</j.0:waiWenMing>
+    <j.0:zhongWenMing>焦达纳格布尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1711177">
+    <j.0:kuan>约280公里</j.0:kuan>
+    <j.0:zhang>约480公里</j.0:zhang>
+    <j.0:zhongWenMing>提贝斯提高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2270728">
+    <j.0:ganZaoDu>1.3</j.0:ganZaoDu>
+    <j.0:jiangShuiLiang>东部500毫米</j.0:jiangShuiLiang>
+    <j.0:mianJi>1.7万余平方公里</j.0:mianJi>
+    <j.0:jianJie>河北省畜牧业基地</j.0:jianJie>
+    <j.0:weiYu>内蒙古高原的南缘部分</j.0:weiYu>
+    <j.0:waiWenMing>Zhangbei-WeichangGao-yuan</j.0:waiWenMing>
+    <j.0:zhongWenMing>张北围场高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2203439">
+    <j.0:gouZaoJiChu>巴塔哥尼亚陆台</j.0:gouZaoJiChu>
+    <j.0:suoZaiDi>南美大陆南端</j.0:suoZaiDi>
+    <j.0:waiWenMing>laPatagonia</j.0:waiWenMing>
+    <j.0:zhongWenMing>巴塔哥尼亚高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2761923">
+    <j.0:nianJiangShuiLiang>200—400毫米</j.0:nianJiangShuiLiang>
+    <j.0:haiBaGaoDu>1000米</j.0:haiBaGaoDu>
+    <j.0:diQu>阿尔及利亚</j.0:diQu>
+    <j.0:zhongWenMing>上高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1425330">
+    <j.0:nianJunWen>15~18℃</j.0:nianJunWen>
+    <j.0:suoZaiDiQu>云南省贵州省四川省</j.0:suoZaiDiQu>
+    <j.0:waiWenMing>YunnanGaoyuan</j.0:waiWenMing>
+    <j.0:zhongWenMing>云南高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1563934">
+    <j.0:faYu>DorsaleGuineenne</j.0:faYu>
+    <j.0:zuiGaoFeng rdf:resource="http://ws.nju.edu.cn/clinga/A1680360"/>
+    <j.0:haiBa>一般1,000—1,500米</j.0:haiBa>
+    <j.0:gao>1,947米</j.0:gao>
+    <j.0:waiWenMing>GuineaHighlands</j.0:waiWenMing>
+    <j.0:zhongWenMing>几内亚高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A9083830">
+    <j.0:guanXiaDanWei rdf:resource="http://ws.nju.edu.cn/clinga/A1719809"/>
+    <j.0:mingMingShiJian>1971年</j.0:mingMingShiJian>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A1096508"/>
+    <j.0:zhongWenMing>布雷克邦高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2406995">
+    <j.0:haiBa>457米</j.0:haiBa>
+    <j.0:mianJi>122公顷</j.0:mianJi>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2299466"/>
+    <j.0:zhongWenMingCheng>美马高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7943021">
+    <j.0:diZhi rdf:resource="http://ws.nju.edu.cn/clinga/A3410286"/>
+    <j.0:shuYu rdf:resource="http://ws.nju.edu.cn/clinga/A2321944"/>
+    <j.0:zhongWenMing>科尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1701766">
+    <j.0:nongZuoWu>谷物马铃薯甜菜饲料</j.0:nongZuoWu>
+    <j.0:pingJunHaiBa>约700米</j.0:pingJunHaiBa>
+    <j.0:weiZhi>法国中南部的山地高原</j.0:weiZhi>
+    <j.0:mingCheng>中央高原</j.0:mingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A64136">
+    <j.0:daXiao>约等于德国和法国的国土面积总和</j.0:daXiao>
+    <j.0:waiWenMing>KerrGlenPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>克尔格伦高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1459814">
+    <j.0:jiaoTongShouDuan>从JR丰后竹田站开车45分钟</j.0:jiaoTongShouDuan>
+    <j.0:diZhi>大分县久住高原</j.0:diZhi>
+    <j.0:riYu>Kujyuukougen</j.0:riYu>
+    <j.0:zhongWenMing>久住高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7180389">
+    <j.0:guanLi>南极条约体系</j.0:guanLi>
+    <j.0:xingZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2321944"/>
+    <j.0:weiYu>奥次地</j.0:weiYu>
+    <j.0:zhongWenMing>佩莱蒂埃高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A8089005">
+    <j.0:pingJunHaiBaGaoDu>1,700米</j.0:pingJunHaiBaGaoDu>
+    <j.0:weiYu rdf:resource="http://ws.nju.edu.cn/clinga/A2722348"/>
+    <j.0:zhongWenMing>古尼布高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1808837">
+    <j.0:suoShuShanMai>西苏门答腊省巴里桑山脉</j.0:suoShuShanMai>
+    <j.0:diDian>印度尼西亚</j.0:diDian>
+    <j.0:waiWenMing>PadangHighlands</j.0:waiWenMing>
+    <j.0:zhongWenMing>巴东高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3187915">
+    <j.0:zhuMingJingDian>纳木错</j.0:zhuMingJingDian>
+    <j.0:zhanDiMianJi>120多万平方公里</j.0:zhanDiMianJi>
+    <j.0:qiHouLeiXing>山地高原气候</j.0:qiHouLeiXing>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2374447"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2298883"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2339797"/>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A1588666"/>
+    <j.0:zhongWenMingCheng>藏北高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1102199">
+    <j.0:diXing>盐湖、干谷、峡谷等</j.0:diXing>
+    <j.0:haiBa>310米</j.0:haiBa>
+    <j.0:mianJi>15万平方公里</j.0:mianJi>
+    <j.0:zhongWenMing>图尔盖高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A457598">
+    <j.0:beiQi>阿第伦达克山脉</j.0:beiQi>
+    <j.0:diQu>美国东北部</j.0:diQu>
+    <j.0:waiWenMing>AppalachianPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿巴拉契亚高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A308514">
+    <j.0:nianPingJunQiWen>在22℃上下</j.0:nianPingJunQiWen>
+    <j.0:bieMing>安哥拉的屋脊</j.0:bieMing>
+    <j.0:haiBa>1,500-2,000米</j.0:haiBa>
+    <j.0:zhongWenMing>比耶高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1069779">
+    <j.0:kuan>约100公里</j.0:kuan>
+    <j.0:zhang>约700公里</j.0:zhang>
+    <j.0:zhongWenMing>坎伯兰高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2361666">
+    <j.0:zhuYaoMinZu rdf:resource="http://ws.nju.edu.cn/clinga/A2367169"/>
+    <j.0:qiHouTiaoJian>温带大陆性气候</j.0:qiHouTiaoJian>
+    <j.0:mianJi>2,600,000平方公里</j.0:mianJi>
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2354264"/>
+    <j.0:zhongWenMingCheng>蒙古高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2715956">
+    <j.0:zuiGaoFeng>乞力马扎罗山</j.0:zuiGaoFeng>
+    <j.0:bieCheng>湖泊高原</j.0:bieCheng>
+    <j.0:mianJi>约100万平方公里</j.0:mianJi>
+    <j.0:haiBa>平均海拔1200米左右</j.0:haiBa>
+    <j.0:weiZhi>非洲东部</j.0:weiZhi>
+    <j.0:zhongWenMing>东非高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2588318">
+    <j.0:qiHouTeDian>半干旱区</j.0:qiHouTeDian>
+    <j.0:haiBa>1000米左右</j.0:haiBa>
+    <j.0:mianJi>约为460万平方公里</j.0:mianJi>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2368054"/>
+    <j.0:chengHu rdf:resource="http://ws.nju.edu.cn/clinga/A11551735"/>
+    <j.0:zhongWenMing>南非高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2292224">
+    <j.0:kuangChanZiYuan>铜、锡、铁、金、银</j.0:kuangChanZiYuan>
+    <j.0:zhiWuZiYuan>山毛榉树、黄杨</j.0:zhiWuZiYuan>
+    <j.0:dongWuZhongLei>狼、棕熊、山猫、高加索鹿</j.0:dongWuZhongLei>
+    <j.0:pingJunHaiBa>1,500-2,000米</j.0:pingJunHaiBa>
+    <j.0:hengKuaGuoJia>土耳其、伊朗和亚美尼亚</j.0:hengKuaGuoJia>
+    <j.0:qiHouTiaoJian>温带和亚热带之间</j.0:qiHouTiaoJian>
+    <j.0:mianJi>40万平方千米</j.0:mianJi>
+    <j.0:waiWenMingCheng>ArmenianHighland</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>亚美尼亚高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1080567">
+    <j.0:nianYuLiang>20-50毫米</j.0:nianYuLiang>
+    <j.0:haiBa>900公尺</j.0:haiBa>
+    <j.0:diLiWeiZhi>阿尔及利亚东南部</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>Ahaggar,亦作Hoggar</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿哈加尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A9079906">
+    <j.0:suoShuDiQu rdf:resource="http://ws.nju.edu.cn/clinga/A2321944"/>
+    <j.0:haiBaGaoDu>881米</j.0:haiBaGaoDu>
+    <j.0:liShu rdf:resource="http://ws.nju.edu.cn/clinga/A1166518"/>
+    <j.0:zhongWenMing>图比耶尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1688475">
+    <j.0:zhouWei>由火山散落物质形成</j.0:zhouWei>
+    <j.0:zhongXin>陶波湖</j.0:zhongXin>
+    <j.0:diQu rdf:resource="http://ws.nju.edu.cn/clinga/A2422463"/>
+    <j.0:zhongWenMing>火山高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2736749">
+    <j.0:qiHouTiaoJian>年降水量不足1,000毫米,乃至450毫米上下</j.0:qiHouTiaoJian>
+    <j.0:waiWenMingCheng>MaharashtraPlateau</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>马哈拉施特拉高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2275721">
+    <j.0:chuMuYe>三河马、三河牛和内蒙古绵羊</j.0:chuMuYe>
+    <j.0:zhongYaoCai>甘草、黄芪、黄芩、赤芍、麻黄</j.0:zhongYaoCai>
+    <j.0:kuangChanZiYuan>煤、铁、铌、稀土矿</j.0:kuangChanZiYuan>
+    <j.0:haiBaGaoDu>1000米左右</j.0:haiBaGaoDu>
+    <j.0:mianJi>34万平方公里</j.0:mianJi>
+    <j.0:diLiWeiZhi>大兴安岭以西,长城以北</j.0:diLiWeiZhi>
+    <j.0:suoShuDiQu>内蒙古自治区</j.0:suoShuDiQu>
+    <j.0:waiWenMingCheng>InnerMongolianPlateau</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>内蒙古高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2734247">
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2258299"/>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A162453"/>
+    <j.0:haiBa>一般300—500米</j.0:haiBa>
+    <j.0:zhongWenMing>上几内亚高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1665274">
+    <j.0:qiHou>温和大陆性气候</j.0:qiHou>
+    <j.0:haiBa>一般300—800米</j.0:haiBa>
+    <j.0:zhongWenMing>特兰西瓦尼亚高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3177860">
+    <j.0:miaoShu>风景秀丽如画</j.0:miaoShu>
+    <j.0:shuoMing>古代乌孙国的牧地</j.0:shuoMing>
+    <j.0:tianRanCaoChang>63万亩</j.0:tianRanCaoChang>
+    <j.0:zhongWenMing>昭苏高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1079618">
+    <j.0:zhang>800公里</j.0:zhang>
+    <j.0:zuiGaoDianHaiBa>2,254米</j.0:zuiGaoDianHaiBa>
+    <j.0:pingJunHaiBa>1,500米以上</j.0:pingJunHaiBa>
+    <j.0:weiZhi>阿杰尔北非撒哈拉沙漠</j.0:weiZhi>
+    <j.0:zhongWenMing>阿杰尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1574188">
+    <j.0:qiHouTiaoJian>气候干旱,年降水量250-500毫米</j.0:qiHouTiaoJian>
+    <j.0:haiBa>2000-3000米</j.0:haiBa>
+    <j.0:mianJi>30多万平方千米</j.0:mianJi>
+    <j.0:diLiWeiZhi>美国西南部</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>ColoradoPlateaus</j.0:waiWenMing>
+    <j.0:zhongWenMing>科罗拉多高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A7393046">
+    <j.0:xianZhuang>现被定为富士箱根伊豆国家公园</j.0:xianZhuang>
+    <j.0:haiBa>700-1000米的高原</j.0:haiBa>
+    <j.0:weiYu>日本静冈县富士宫市北</j.0:weiYu>
+    <j.0:zhongWenMing>朝雾高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1800016">
+    <j.0:diDian>
+      <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3095883">
+        <j.0:mianJi>120万平方公里</j.0:mianJi>
+        <j.0:pingJunHaiBa>1,825米</j.0:pingJunHaiBa>
+        <j.0:weiZhi>北美大陆南部墨西哥境内中部</j.0:weiZhi>
+        <j.0:waiWenMing>Altiplaniciemexicana</j.0:waiWenMing>
+        <j.0:zhongWenMing>墨西哥高原</j.0:zhongWenMing>
+      </rdf:Description>
+    </j.0:diDian>
+    <j.0:yiZuo>NorthernPlateau</j.0:yiZuo>
+    <j.0:waiWenMing>MesadelNorte</j.0:waiWenMing>
+    <j.0:zhongWenMing>北部高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1808876">
+    <j.0:mianJi>148,000平方公里(57,370平方哩)</j.0:mianJi>
+    <j.0:dongXiKuan>约515公里(320哩)</j.0:dongXiKuan>
+    <j.0:nanBeiZhang>770公里(480哩)</j.0:nanBeiZhang>
+    <j.0:waiWenMing>TelanganaPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>特仑甘纳高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1698424">
+    <j.0:mianJi>31万平方公里</j.0:mianJi>
+    <j.0:liShu>伊朗高原</j.0:liShu>
+    <j.0:xingZhi>巴基斯坦西部高原</j.0:xingZhi>
+    <j.0:zhongWenMing>俾路支高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1068341">
+    <j.0:heLiuWeiZhi>尼日尔河及其支流贝努埃河之间</j.0:heLiuWeiZhi>
+    <j.0:weiZhi>尼日利亚中部高原</j.0:weiZhi>
+    <j.0:shuYu>尼日利亚高原洲</j.0:shuYu>
+    <j.0:zhongWenMing>乔斯高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1665409">
+    <j.0:teChan>红宝石、蓝宝石,铅、锌与银</j.0:teChan>
+    <j.0:mianJi>17万平方公里</j.0:mianJi>
+    <j.0:pingJunHaiBa>750∼1,200米</j.0:pingJunHaiBa>
+    <j.0:weiZhi>缅甸东部</j.0:weiZhi>
+    <j.0:waiWenMing>ShanPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>掸邦高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2837588">
+    <j.0:kaiFangShiJian>1921年</j.0:kaiFangShiJian>
+    <j.0:pingJunHaiBa>1,500米</j.0:pingJunHaiBa>
+    <j.0:weiZhi>坦桑尼亚北部、维多利亚湖东南</j.0:weiZhi>
+    <j.0:zhongWenMing>塞伦盖蒂高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A382939">
+    <j.0:diQu>澳大利亚</j.0:diQu>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2334040"/>
+    <j.0:waiWenMing>无</j.0:waiWenMing>
+    <j.0:zhongWenMing>金伯利高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1808880">
+    <j.0:teZheng>多荒漠少牧草,有油田和天然气田</j.0:teZheng>
+    <j.0:jianJie>乌兹别克和哈萨克境内的高原</j.0:jianJie>
+    <j.0:waiWenMing>UstyurtPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>乌斯秋尔特高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A226425">
+    <j.0:mianJi>15万平方千米</j.0:mianJi>
+    <j.0:pingJunHaiBa>为3000米</j.0:pingJunHaiBa>
+    <j.0:weiYu>安第斯山脉北部</j.0:weiYu>
+    <j.0:zhongWenMing>厄瓜多尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2565929">
+    <j.0:pingJunHaiBa>800公尺</j.0:pingJunHaiBa>
+    <j.0:mianJi>189,000平方公里</j.0:mianJi>
+    <j.0:weiYu>印度卡纳塔克邦</j.0:weiYu>
+    <j.0:waiWenMing>KarnatakaPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>卡纳塔克高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A196491">
+    <j.0:jiaoTong>新干线</j.0:jiaoTong>
+    <j.0:jingDian>大波斯菊园、牧牛场</j.0:jingDian>
+    <j.0:diDian>新泻县</j.0:diDian>
+    <j.0:zhongWenMing>黑姬高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1699196">
+    <j.0:shiYi>养畜业</j.0:shiYi>
+    <j.0:haiBa>500-700米</j.0:haiBa>
+    <j.0:diDian rdf:resource="http://ws.nju.edu.cn/clinga/A100661"/>
+    <j.0:zhongWenMing>甘蒙高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A454374">
+    <j.0:diLiWeiZhi>秘鲁东南部和玻利维亚西部</j.0:diLiWeiZhi>
+    <j.0:bieCheng>普纳(Puna)</j.0:bieCheng>
+    <j.0:waiWenMing>Altiplano</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿尔蒂普拉诺高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1792118">
+    <j.0:haiBa>1,200∼1,600公尺</j.0:haiBa>
+    <j.0:diLiWeiZhi>布里亚特和赤塔州。</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>VitimPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>维季姆高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1682037">
+    <j.0:guoJia>法国</j.0:guoJia>
+    <j.0:haiBa>约480米</j.0:haiBa>
+    <j.0:mianJi>约130平方公里</j.0:mianJi>
+    <j.0:zhongWenMing>朗格勒高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A446716">
+    <j.0:nanBeiZhang>320公里(200哩)</j.0:nanBeiZhang>
+    <j.0:diChu>气候寒冷的荒芜台地</j.0:diChu>
+    <j.0:xiBanYaYu>PunadeAtacama。</j.0:xiBanYaYu>
+    <j.0:waiWenMing>AtacamaPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿塔卡马高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1325324">
+    <j.0:nongZuoWu>稻米、小麦、高粱、</j.0:nongZuoWu>
+    <j.0:qiTaZhongYaoShiZhen>达莫、迈哈尔和哈塔。</j.0:qiTaZhongYaoShiZhen>
+    <j.0:pingJunHaiBa>500公尺(1,600呎)</j.0:pingJunHaiBa>
+    <j.0:zhongWenMing>潘代尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1987312">
+    <j.0:nianJiangYuLiang>511毫米</j.0:nianJiangYuLiang>
+    <j.0:haiBa>1,130-1,520米</j.0:haiBa>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A3102360"/>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2334946"/>
+    <j.0:zhongWenMing>开普高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5901093">
+    <j.0:gaoDu>在1,520米至1,830米之间</j.0:gaoDu>
+    <j.0:bieCheng>安哥拉中部高原</j.0:bieCheng>
+    <j.0:zhongWenMing>比耶高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3511982">
+    <j.0:xingZhi>地理名词</j.0:xingZhi>
+    <j.0:diDian>河北省西北部</j.0:diDian>
+    <j.0:pingJunHaiBa>一千四百到一千六百米</j.0:pingJunHaiBa>
+    <j.0:zhongWenMing>坝上高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1597805">
+    <j.0:nianJunQiWen>22℃</j.0:nianJunQiWen>
+    <j.0:pingJunHaiBa>1000米</j.0:pingJunHaiBa>
+    <j.0:bieCheng>高原大陆</j.0:bieCheng>
+    <j.0:zhongWenMing>马塔贝莱高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1670058">
+    <j.0:mianJi>18,200平方公里</j.0:mianJi>
+    <j.0:yiYi>
+      <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3041867">
+        <j.0:nanBeiKuan>96公里</j.0:nanBeiKuan>
+        <j.0:dongXiZhang>240公里</j.0:dongXiZhang>
+        <j.0:waiWenMing>PotwarPlateau</j.0:waiWenMing>
+        <j.0:zhongWenMing>波托瓦尔高原</j.0:zhongWenMing>
+      </rdf:Description>
+    </j.0:yiYi>
+    <j.0:waiWenMing>PotwarPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>博德瓦尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A168457">
+    <j.0:suoShuDiQu>日本</j.0:suoShuDiQu>
+    <j.0:haiBa>1400至1500米</j.0:haiBa>
+    <j.0:diLiWeiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A3123663"/>
+    <j.0:zhongWenMingCheng>乘鞍高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1161763">
+    <j.0:dongXiZhang>约450千米</j.0:dongXiZhang>
+    <j.0:nanBeiKuan>约250千米</j.0:nanBeiKuan>
+    <j.0:mianJi>约10万平方千米</j.0:mianJi>
+    <j.0:zhongWenMing>阿里高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3064274">
+    <j.0:haiBa>500m~800m</j.0:haiBa>
+    <j.0:zhuMingJingDian>会津高原高杖滑雪场</j.0:zhuMingJingDian>
+    <j.0:menPiaoJiaGe>免费</j.0:menPiaoJiaGe>
+    <j.0:diLiWeiZhi>福岛县南会津郡</j.0:diLiWeiZhi>
+    <j.0:waiWenMingCheng>Aizukougen</j.0:waiWenMingCheng>
+    <j.0:zhongWenMingCheng>会津高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2350910">
+    <j.0:kuangChan rdf:resource="http://ws.nju.edu.cn/clinga/A2329855"/>
+    <j.0:fanWei rdf:resource="http://ws.nju.edu.cn/clinga/A2294378"/>
+    <j.0:zhuYaoHeLiu>黄河</j.0:zhuYaoHeLiu>
+    <j.0:fanWei rdf:resource="http://ws.nju.edu.cn/clinga/A2279326"/>
+    <j.0:shiYiYouWanJiJie>春夏秋</j.0:shiYiYouWanJiJie>
+    <j.0:kaiFangShiJian>全天</j.0:kaiFangShiJian>
+    <j.0:menPiaoJiaGe>免费</j.0:menPiaoJiaGe>
+    <j.0:diLiWeiZhi>中国中部偏北</j.0:diLiWeiZhi>
+    <j.0:jianYiYouWanShiZhang>3天</j.0:jianYiYouWanShiZhang>
+    <j.0:fanWei rdf:resource="http://ws.nju.edu.cn/clinga/A2295723"/>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A3099699"/>
+    <j.0:fanWei rdf:resource="http://ws.nju.edu.cn/clinga/A2362410"/>
+    <j.0:zhongWenMing>黄土高原</j.0:zhongWenMing>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A574222"/>
+    <j.0:mianJi>约62万平方千米</j.0:mianJi>
+    <j.0:waiWenMing>LoessPlateau</j.0:waiWenMing>
+    <j.0:qiHouLeiXing>温带季风气候</j.0:qiHouLeiXing>
+    <j.0:bieCheng>乌金高原</j.0:bieCheng>
+    <j.0:kuangChan rdf:resource="http://ws.nju.edu.cn/clinga/A2256145"/>
+    <j.0:ganShiDiQu>半湿润地区、半干旱地区</j.0:ganShiDiQu>
+    <j.0:fanWei rdf:resource="http://ws.nju.edu.cn/clinga/A109833"/>
+    <j.0:huangTuGaoYuan rdf:resource="http://ws.nju.edu.cn/clinga/A2363698"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1797730">
+    <j.0:zhuYaoChengZhen>恩苏卡、埃努古埃济凯和安帕</j.0:zhuYaoChengZhen>
+    <j.0:tuRangXingZhi>属酸性沙质,贫瘠,受侵蚀严重</j.0:tuRangXingZhi>
+    <j.0:zuiGaoDian>578公尺〔1,879呎〕</j.0:zuiGaoDian>
+    <j.0:pingJunHaiBa>300公尺(1,000呎)</j.0:pingJunHaiBa>
+    <j.0:diLiWeiZhi>尼日利亚中南部</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>Udi-NsukkaPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>乌迪-恩苏卡高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1033380">
+    <j.0:suoShuGuoJia>马来西亚</j.0:suoShuGuoJia>
+    <j.0:wenDu>摄氏15至24度</j.0:wenDu>
+    <j.0:haiBa>1524米</j.0:haiBa>
+    <j.0:zhuYaoJingDian>金马伦仙人掌中心</j.0:zhuYaoJingDian>
+    <j.0:guanXiaFanWei>九个市区与乡村</j.0:guanXiaFanWei>
+    <j.0:diLiWeiZhi>彭亨州内半岛主干山脉蒂蒂汪沙</j.0:diLiWeiZhi>
+    <j.0:zhongWenMing>金马仑高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3445888">
+    <j.0:weiYu>澳大利亚昆士兰州东北部</j.0:weiYu>
+    <j.0:yiCheng>阿瑟顿台地</j.0:yiCheng>
+    <j.0:waiWenMing>AthertonPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿瑟顿高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A458525">
+    <j.0:teDian>境内多河流,大部被硬木林覆盖</j.0:teDian>
+    <j.0:jingJi rdf:resource="http://ws.nju.edu.cn/clinga/A2358269"/>
+    <j.0:jingJi rdf:resource="http://ws.nju.edu.cn/clinga/A2337219"/>
+    <j.0:zhongWenMing>阿勒格尼高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2328810">
+    <j.0:yuanGuWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A8305074"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A1701659"/>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A8382639"/>
+    <j.0:diLiWeiZhi>西起于帕米尔高原,东及横断山</j.0:diLiWeiZhi>
+    <j.0:fangYan>卫藏、康、安多</j.0:fangYan>
+    <j.0:zhuMingJingDian rdf:resource="http://ws.nju.edu.cn/clinga/A2247838"/>
+    <j.0:mianJi>约300万平方千米(中国境内257万)</j.0:mianJi>
+    <j.0:jiChang rdf:resource="http://ws.nju.edu.cn/clinga/A364811"/>
+    <j.0:renKou>2.16-11.7人每平方千米</j.0:renKou>
+    <j.0:suoShuDiQu>亚洲内陆</j.0:suoShuDiQu>
+    <j.0:bieMing>青康藏高原</j.0:bieMing>
+    <j.0:pingJunHaiBa>4000-5000米</j.0:pingJunHaiBa>
+    <j.0:bieMing rdf:resource="http://ws.nju.edu.cn/clinga/A2302421"/>
+    <j.0:xiaXiaDiQu>中国(青、藏全部,川、滇、新、甘部分)及周边国家</j.0:xiaXiaDiQu>
+    <j.0:genJiWenHua rdf:resource="http://ws.nju.edu.cn/clinga/A84638"/>
+    <j.0:jiChang rdf:resource="http://ws.nju.edu.cn/clinga/A2378350"/>
+    <j.0:waiWenMingCheng>Qinghai-TibetPlateau/QingzangGaoyuan/TibetanPlateau</j.0:waiWenMingCheng>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A3016822"/>
+    <j.0:zhongWenMingCheng>青藏高原</j.0:zhongWenMingCheng>
+    <j.0:huoCheZhan rdf:resource="http://ws.nju.edu.cn/clinga/A356851"/>
+    <j.0:qiHouTiaoJian>高寒山地气候</j.0:qiHouTiaoJian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A295560">
+    <j.0:linJinChengShi>诺里尔斯克</j.0:linJinChengShi>
+    <j.0:zuiGaoHaiBa>1,700米</j.0:zuiGaoHaiBa>
+    <j.0:leiXing>玄武岩高原</j.0:leiXing>
+    <j.0:suoChuDiQu>俄罗斯</j.0:suoChuDiQu>
+    <j.0:waiWenMing>PutoranaPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>普托拉纳高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2112615">
+    <j.0:pingJunHaiBa>1000米</j.0:pingJunHaiBa>
+    <j.0:qiHouLeiXing>西欧海洋性与东欧大陆性气候</j.0:qiHouLeiXing>
+    <j.0:diLiWeiZhi>德国、瑞士、奥地利</j.0:diLiWeiZhi>
+    <j.0:zhongWenMingCheng>巴伐利亚高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1667282">
+    <j.0:shuYu>美国西北部自然地理区</j.0:shuYu>
+    <j.0:yiCheng>ColumbiaIntermontane</j.0:yiCheng>
+    <j.0:waiWenMing>ColumbiaPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>哥伦比亚高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1096470">
+    <j.0:diChu>比利时与卢森堡交界处</j.0:diChu>
+    <j.0:shiZhi>一片丘陵地带</j.0:shiZhi>
+    <j.0:waiWenMing>Ardennesplateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿登高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2648411">
+    <j.0:zhangKuan>几百米</j.0:zhangKuan>
+    <j.0:yunZangZhe>世界上一处伟大的神秘景象</j.0:yunZangZhe>
+    <j.0:diDian>秘鲁境内</j.0:diDian>
+    <j.0:zhongWenMing>纳斯卡高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A442327">
+    <j.0:pingJunGaoDu>2,500∼2,800公尺</j.0:pingJunGaoDu>
+    <j.0:weiYu>埃塞俄比亚北部和中部山区</j.0:weiYu>
+    <j.0:waiWenMing>AmharaPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>阿姆哈拉高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1705812">
+    <j.0:nianJiangShuiLiang>1,250—1,500毫米</j.0:nianJiangShuiLiang>
+    <j.0:haiBa>500—750米</j.0:haiBa>
+    <j.0:diXing>高原</j.0:diXing>
+    <j.0:zhongWenMing>丹达卡兰亚高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1702929">
+    <j.0:zuiGaoDian>818米</j.0:zuiGaoDian>
+    <j.0:pingJunHaiBa>500米</j.0:pingJunHaiBa>
+    <j.0:weiYu>阿尔及利亚中部</j.0:weiYu>
+    <j.0:zhongWenMing>塔代迈特高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A10226064">
+    <j.0:kuanDu>9公里</j.0:kuanDu>
+    <j.0:zhangDu>20公里</j.0:zhangDu>
+    <j.0:zhongWenMingCheng>路易菲利普高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3882170">
+    <j.0:zuiGaoDianHaiBa>905米</j.0:zuiGaoDianHaiBa>
+    <j.0:zhongWenMing>阿纳巴尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A196609">
+    <j.0:yiYi>我国重要的天然物种基因库</j.0:yiYi>
+    <j.0:chengHao>康巴文化的摇篮</j.0:chengHao>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A3516285"/>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2397012"/>
+    <j.0:waiWenMing>Xikang-TibetPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>康藏高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A982384">
+    <j.0:mianJi>35万平方公里</j.0:mianJi>
+    <j.0:pingJunGaoDu>3800米</j.0:pingJunGaoDu>
+    <j.0:weiYu rdf:resource="http://ws.nju.edu.cn/clinga/A94500"/>
+    <j.0:zhongWenMing>玻利维亚高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1678349">
+    <j.0:diXing>自北向南升高</j.0:diXing>
+    <j.0:haiBa>500-1,600米</j.0:haiBa>
+    <j.0:weiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A96833"/>
+    <j.0:zhongWenMing>提赫高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3335772">
+    <j.0:zuiDaGaoYuan>巴西高原</j.0:zuiDaGaoYuan>
+    <j.0:deMingYuanYin>冰层把南极裹成了一个高原</j.0:deMingYuanYin>
+    <j.0:yuanShiZhi rdf:resource="http://ws.nju.edu.cn/clinga/A2349376"/>
+    <j.0:zhongWenMing>冰雪高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1094628">
+    <j.0:dongXiKuanYue>250公里</j.0:dongXiKuanYue>
+    <j.0:nanBeiZhangYue>400公里</j.0:nanBeiZhangYue>
+    <j.0:weiYu rdf:resource="http://ws.nju.edu.cn/clinga/A102833"/>
+    <j.0:zhongWenMing>阿伊尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1069784">
+    <j.0:teDian>世界最大的热喷泉之一</j.0:teDian>
+    <j.0:weiYu rdf:resource="http://ws.nju.edu.cn/clinga/A328227"/>
+    <j.0:weiYu rdf:resource="http://ws.nju.edu.cn/clinga/A99398"/>
+    <j.0:haiBa>2,000米</j.0:haiBa>
+    <j.0:zhongWenMing>迪延高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3383287">
+    <j.0:zhongWenMingCheng>科尔多凡高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1701244">
+    <j.0:pingJunHaiBa>914公尺(3,000呎)</j.0:pingJunHaiBa>
+    <j.0:mianJi>77,700平方公里</j.0:mianJi>
+    <j.0:zhuFeng>卢拉(Loura)山</j.0:zhuFeng>
+    <j.0:bieCheng>FutaJallon</j.0:bieCheng>
+    <j.0:yingWenMingCheng>FoutaDjallon</j.0:yingWenMingCheng>
+    <j.0:zhongWenMingCheng>富塔贾隆高原</j.0:zhongWenMingCheng>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1931739">
+    <j.0:bieMing>圣衣坟场</j.0:bieMing>
+    <j.0:weiYu>中国与印度交界处</j.0:weiYu>
+    <j.0:waiWenMing>JamirPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>加米尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3227834">
+    <j.0:shengChengNianDai>新生代</j.0:shengChengNianDai>
+    <j.0:mianJi>92521.4平方公里</j.0:mianJi>
+    <j.0:bieCheng>陕北黄土高原</j.0:bieCheng>
+    <j.0:waiWenMing>Shanbeiplateau</j.0:waiWenMing>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A1563333"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1066709">
+    <j.0:mianJi>300多万平方公里</j.0:mianJi>
+    <j.0:weiYu rdf:resource="http://ws.nju.edu.cn/clinga/A83238"/>
+    <j.0:haiBa>200-2000米</j.0:haiBa>
+    <j.0:zhongWenMing>阿拉伯高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2352687">
+    <j.0:jingWeiDu>东经100°~110°北纬23°~27°</j.0:jingWeiDu>
+    <j.0:diXingZhongLei>喀斯特地形</j.0:diXingZhongLei>
+    <j.0:mingChengYouLai>云南高原和贵州高原</j.0:mingChengYouLai>
+    <j.0:diXingQu>高原</j.0:diXingQu>
+    <j.0:suoShuDiQu>中国西南部</j.0:suoShuDiQu>
+    <j.0:waiWenMing>Yunnan-KweichowPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>云贵高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1590637">
+    <j.0:diZhi rdf:resource="http://ws.nju.edu.cn/clinga/A1092888"/>
+    <j.0:zhongWenMing>云顶高原</j.0:zhongWenMing>
+    <j.0:haiBa>约2000公尺</j.0:haiBa>
+    <j.0:waiWenMing>GentingHighlands</j.0:waiWenMing>
+    <j.0:kaiFangShiJian>云顶游乐园:全天</j.0:kaiFangShiJian>
+    <j.0:mianJi>约4900公顷</j.0:mianJi>
+    <j.0:shiYiYouWanJiJie>5-8月。夏季最佳</j.0:shiYiYouWanJiJie>
+    <j.0:suoShuChengShi>吉隆坡</j.0:suoShuChengShi>
+    <j.0:nianPingJunQiWen>22℃左右</j.0:nianPingJunQiWen>
+    <j.0:zhuMingJingDian>赌场,市内、室外游乐场</j.0:zhuMingJingDian>
+    <j.0:suoShuGuoJia rdf:resource="http://ws.nju.edu.cn/clinga/A2331437"/>
+    <j.0:menPiaoJiaGe>周一到周五26马币,周末39马币</j.0:menPiaoJiaGe>
+    <j.0:jianYiYouWanShiZhang>1天</j.0:jianYiYouWanShiZhang>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2377452">
+    <j.0:teDian>气候干旱,景色单调</j.0:teDian>
+    <j.0:diBiaoFuGai>砾石</j.0:diBiaoFuGai>
+    <j.0:pingJunHaiBa>1,100米左右</j.0:pingJunHaiBa>
+    <j.0:zhongWenMing>摩洛哥高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1674222">
+    <j.0:haiBa>1,300—1,600米</j.0:haiBa>
+    <j.0:zhongWenMing>隆达高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2392442">
+    <j.0:haiBa>一般在8001200米之间</j.0:haiBa>
+    <j.0:kuangChanZiYuan>丰富。</j.0:kuangChanZiYuan>
+    <j.0:heHu>呼伦湖、贝尔湖和其它中小湖池</j.0:heHu>
+    <j.0:zhongWenMing>呼伦贝尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1811661">
+    <j.0:mianJi>64,750平方公里</j.0:mianJi>
+    <j.0:xiBeiBuHaiBa>1,220公尺</j.0:xiBeiBuHaiBa>
+    <j.0:waiWenMing>HawdPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>豪德高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A8792413">
+    <j.0:yiZuRenKou>60多万</j.0:yiZuRenKou>
+    <j.0:xiShan>有以栎类为主的亚热带常绿阔叶林</j.0:xiShan>
+    <j.0:weiZhi>云南昆明</j.0:weiZhi>
+    <j.0:zhongWenMing>滇中高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1691029">
+    <j.0:pingJunHaiBa>900米</j.0:pingJunHaiBa>
+    <j.0:diShi>北高南低</j.0:diShi>
+    <j.0:zhongWenMing>奥里萨高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1561713">
+    <j.0:haiBa>200-450米</j.0:haiBa>
+    <j.0:diDian>北美洲加拿大</j.0:diDian>
+    <j.0:waiWenMing>LaurentianPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>劳伦琴低高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1707294">
+    <j.0:haiBa>500-600米</j.0:haiBa>
+    <j.0:weiZhi>莱茵片岩山脉的西北部分</j.0:weiZhi>
+    <j.0:guoJia>德国</j.0:guoJia>
+    <j.0:zhongWenMing>艾费尔高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A2792986">
+    <j.0:mianJi>16.6万平方公里</j.0:mianJi>
+    <j.0:diWei>国五大牧区之一</j.0:diWei>
+    <j.0:shuXing>青藏高原的一部分</j.0:shuXing>
+    <j.0:waiWenMing>ChuanxibeiPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing>川西北高原</j.0:zhongWenMing>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A1691959">
+    <j.0:pingJunHaiBa>1,200米</j.0:pingJunHaiBa>
+    <j.0:diLiWeiZhi>朝鲜东北部玄武岩台地</j.0:diLiWeiZhi>
+    <j.0:waiWenMing>Kaema-kowon</j.0:waiWenMing>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A1691959"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A235086">
+    <j.0:shuYu>雪彦峰山县立自然公园</j.0:shuYu>
+    <j.0:caoDiMianJi>90公顷</j.0:caoDiMianJi>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A235086"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A105608">
+    <j.0:teChan>帕米尔冰川矿泉水</j.0:teChan>
+    <j.0:zuiGaoFeng>乔戈里峰(8611米)</j.0:zuiGaoFeng>
+    <j.0:pingJunHaiBa>5850米</j.0:pingJunHaiBa>
+    <j.0:guiShuGuoJia>中国</j.0:guiShuGuoJia>
+    <j.0:youMing rdf:resource="http://ws.nju.edu.cn/clinga/A99878"/>
+    <j.0:waiWenMing>thePamirs,PamirsPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A105608"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A5032513">
+    <j.0:diQu rdf:resource="http://ws.nju.edu.cn/clinga/A110133"/>
+    <j.0:haiBa>一般300500米</j.0:haiBa>
+    <j.0:waiWenMing>AdrarPlateau</j.0:waiWenMing>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A5032513"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ws.nju.edu.cn/clinga/A3144733">
+    <j.0:diLiWeiZhi>位于火星北半球</j.0:diLiWeiZhi>
+    <j.0:mingZiLaiZi>地中海南边锡德拉湾</j.0:mingZiLaiZi>
+    <j.0:waiWenMing>Syrtismaio</j.0:waiWenMing>
+    <j.0:zhongWenMing rdf:resource="http://ws.nju.edu.cn/clinga/A3144733"/>
+  </rdf:Description>
+</rdf:RDF>
